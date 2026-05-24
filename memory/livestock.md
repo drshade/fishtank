@@ -2,8 +2,26 @@
 
 ## Shrimp (Neocaridina)
 
-Started with 2 adults: 1 male + 1 female ("mommy"). Colour morph not
-recorded — fill in when known.
+Started with 2 adults:
+- **"Mommy"** (female) — completely clear / see-through. Possibly a
+  "Crystal Clear" / lightly-pigmented wild-type female, or a faded
+  selected morph. Not a standard named colour.
+- **"Dad"** (male) — green. Likely **"Green Jade"** Neocaridina davidi
+  (the main green morph).
+
+**Genetic implication worth knowing**: clear × green is cross-morph
+breeding. F1 offspring usually revert toward wild-type translucent
+brown/grey rather than holding either parent's colour. Selected colour
+traits in Neocaridina are polygenic — crossing different selected lines
+loses both. So:
+
+- The current brood and future broods will probably **not** be uniformly
+  green or uniformly clear; expect a mix dominated by wild-type colours.
+- If Tom wants a colour-consistent colony long-term, he'd need to start
+  over with same-morph adults (e.g. all Green Jade) and cull
+  off-colours.
+- Doesn't matter for tank health — just sets expectations for what the
+  colony will look like in 3-6 months.
 
 ### Brood 1
 - **Released ~2026-05-16** (date inferred: "mommy birthed 6 days ago"
@@ -27,8 +45,19 @@ recorded — fill in when known.
   comfortable in heavily-planted nano)
 
 ## Snails
-- A few snails (species and count not recorded). Long-term residents,
-  established before the shrimp.
+- **2 snails, both with blue dots on the shells.** Species not recalled
+  by Tom. Most likely candidates (in order of probability for nano
+  planted tanks):
+  - **Horned Nerite** (*Clithon corona* / *diadema*) — small (1-2cm),
+    spotted shell, tiny horns, very popular in nano planted tanks
+  - **Spotted Nerite** (*Neritina turrita*) — slightly larger (~2cm),
+    olive shell with dark/blue spots
+  - **Zebra Nerite** (*Neritina natalensis*) — less likely, has
+    stripes not dots
+- Long-term residents, established before the shrimp.
+- All common nerites in freshwater can't reproduce in fresh water
+  (need brackish for larvae) → population stays at 2 forever, no
+  pest-snail explosion risk.
 
 ## Bioload status (as of 2026-05-24)
 - 2 adults + ~20 shrimplets + a few snails

@@ -56,19 +56,29 @@
 - Small in-tank heater, **back-left, immediately next to the filter**
   (ugly, will be removed once canister thermo verified at temp for 24h)
 
-## Aeration (installed 2026-05-22, split into dual-output 2026-05-24)
-- **Tetra AirSilent Mini** air pump (~50 L/h)
-- Airline **split via T/Y-splitter** into two outputs (2026-05-24)
-- Check valve installed inline (between pump and tank, arrow toward tank)
-- **Stone 1**: right side, halfway along the wall (between back-right
-  CO2 corner and front-right dead corner — helps push aeration toward
-  the dead spot)
-- **Stone 2**: back wall, just below and slightly right of the filter
-- (Second airstone identity not recorded — confirm next time it
-  matters; first is the Tetra AS25 from 2026-05-22)
-- Splitting halves the airflow per stone → finer bubbles per output =
-  natural throttle effect. May resolve the coarse-bubble issue from
-  2026-05-23 without needing a separate flow control valve.
+## Aeration (installed 2026-05-22, expanded 2026-05-24)
+
+Current chain:
+
+```
+Tetra AirSilent Mini pump
+  → check valve (arrow toward tank)
+  → flow control valve (NEW 2026-05-24, lets Tom tune O2 manually)
+  → T/Y-splitter
+  → Tetra AS25 airstone — position 1
+  → Tetra AS30 airstone — position 2
+```
+
+- **Stone 1 (AS25 or AS30, interchangeable)**: right side, halfway
+  along the wall — between back-right CO2 corner and front-right dead
+  corner. Helps push aeration toward the dead spot.
+- **Stone 2 (the other one)**: back wall, just below and slightly
+  right of the filter.
+- AS25 and AS30 differ only in length (25mm vs 30mm); identical
+  pore structure and bubble characteristics.
+- **Throttling**: now has *both* natural (split → half airflow per
+  stone) and active (flow valve) control. Coarse-bubble issue from
+  2026-05-23 should be fully addressable.
 - Smart plug controlled — schedule should be **inverse to CO2** (night
   only, day off so it doesn't off-gas CO2 during plant photosynthesis)
 
