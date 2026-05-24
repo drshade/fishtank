@@ -1,25 +1,26 @@
 # Tank
 
 ## Vessel
-- Dennerle Nano Cube 20 (or similar) — ~17L actual water volume after
-  substrate and hardscape
+- **Dennerle Nano Cube 20** — confirmed. ~25×25×30cm, 20L nominal,
+  ~17L actual water after substrate and hardscape
 - Established 6+ months as of May 2026 (so ~November 2025)
 - Location: Amsterdam apartment, on a desk next to Tom's work area (he
   watches it constantly during work hours — this is part of the safety
   story, see `knowledge.md` "Aeration decision")
 
 ## Substrate
-- Aquasoil (likely ADA Amazonia or similar), mature
+- **ADA Amazonia** aquasoil, mature
 - Lava rocks as hardscape
 
 ## Plants
 - Hairgrass carpet (dense — primary shrimplet hiding spot, do not siphon
   into it while babies are small)
-- Sword plant
+- Sword plant — large, covers a significant portion of the surface
+  (top-down photos won't show much of the rest of the tank)
 - Other planted growth
 
 ## Lighting
-- Main light (Chihiros, inferred from rest of kit)
+- Chihiros main light
 - Accent spot light running a few hours after main light, aesthetic only
 
 ## CO2
@@ -52,17 +53,22 @@
   outflow each get their own)
 
 ## Heater
-- Currently in-tank heater (ugly, will be removed once canister thermo
-  verified at temp for 24h)
+- Small in-tank heater, **back-left, immediately next to the filter**
+  (ugly, will be removed once canister thermo verified at temp for 24h)
 
-## Aeration (installed 2026-05-22)
+## Aeration (installed 2026-05-22, split into dual-output 2026-05-24)
 - **Tetra AirSilent Mini** air pump (~50 L/h)
-- **Tetra AS25** airstone — bubbles too coarse (2-4mm), noisy. Needs
-  throttling or replacement.
+- Airline **split via T/Y-splitter** into two outputs (2026-05-24)
 - Check valve installed inline (between pump and tank, arrow toward tank)
-- Positioned in back-right corner alongside CO2 diffuser, hidden
-- TODO: air flow control valve (€1-2) to throttle bubble rate
-- TODO: maybe sintered glass diffuser if throttling alone doesn't help
+- **Stone 1**: right side, halfway along the wall (between back-right
+  CO2 corner and front-right dead corner — helps push aeration toward
+  the dead spot)
+- **Stone 2**: back wall, just below and slightly right of the filter
+- (Second airstone identity not recorded — confirm next time it
+  matters; first is the Tetra AS25 from 2026-05-22)
+- Splitting halves the airflow per stone → finer bubbles per output =
+  natural throttle effect. May resolve the coarse-bubble issue from
+  2026-05-23 without needing a separate flow control valve.
 - Smart plug controlled — schedule should be **inverse to CO2** (night
   only, day off so it doesn't off-gas CO2 during plant photosynthesis)
 
@@ -70,8 +76,11 @@
 - Tom controls CO2, lights, and air pump via smart plugs
 
 ## Layout / flow geometry
-- Filter currently on back-left wall
-- CO2 diffuser + airstone: back-right corner (hidden behind plants)
+- Filter on back-left wall, **heater immediately next to it** (same
+  back-left area); **airstone 2** sits just below/right of the filter
+- CO2 diffuser: back-right corner (hidden behind plants)
+- **Airstone 1**: right-side wall, halfway along (between back-right
+  CO2 and front-right dead corner)
 - **Dead corner**: **front-right** — accumulates detritus because current
   flow doesn't reach it. Water circulates from back-left filter outflow
   and loses momentum by the time it reaches the opposite front corner.

@@ -10,9 +10,12 @@
 - [ ] Eheim Double Tap 12/16mm × 2 (separate purchase)
 
 ## To buy on next shop trip
-- [ ] Air flow control valve (€1-2) — throttle the AS25 down to gentle
-      bubbles, much quieter
-- [ ] Sintered glass air diffuser — only if throttling alone insufficient
+- [ ] Air flow control valve (€1-2) — **possibly unnecessary now**
+      that the airline is split into two stones (each stone gets half
+      the airflow, natural throttle). Reassess after observing the
+      split setup for a few days.
+- [ ] Sintered glass air diffuser — only if the dual-stone setup is
+      still too coarse / noisy
 - [ ] TDS pen (~€10, bol.com or any aquarium shop)
 - [ ] Salty Shrimp GH/KH+ remineraliser
 - [ ] Ammonia test kit or strips — for verifying filter cycle before
