@@ -29,9 +29,14 @@ strong colours through selection alone.
 - **Released ~2026-05-16** (date inferred: "mommy birthed 6 days ago"
   on 2026-05-22)
 - Estimated ~20+ shrimplets (typical Neocaridina brood size 20-30)
-- First baby spotted out grazing in hairgrass: **2026-05-22**
-- Survival assumed normal (70-90%) — babies hide in hairgrass base for
-  first 1-3 weeks, becoming reliably visible at ~5mm body length
+- Visible-count progression:
+  - 2026-05-22: 1 spotted grazing (first sighting)
+  - 2026-05-24: 3 spotted simultaneously at top of hairgrass (more
+    confident, leaving carpet base — normal progression)
+- Survival assumed normal (70-90%); the rest still hiding in carpet
+  base. Reliable open-grazing usually starts at ~5mm body length
+  around weeks 2-3, so most should be more visible in early-to-mid
+  June.
 
 ### Brood 2 (in progress)
 - Mommy re-berried within ~24h of releasing brood 1 (~2026-05-17)
