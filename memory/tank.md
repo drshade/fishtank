@@ -71,14 +71,22 @@
 
 ## Layout / flow geometry
 - Filter currently on back-left wall
-- **Death corner**: back-right — accumulates detritus because current
-  flow doesn't reach it
+- CO2 diffuser + airstone: back-right corner (hidden behind plants)
+- **Dead corner**: **front-right** — accumulates detritus because current
+  flow doesn't reach it. Water circulates from back-left filter outflow
+  and loses momentum by the time it reaches the opposite front corner.
 - Manual maintenance for now: turkey baster spot-suck during water
   changes; gently stir top cm of substrate with chopstick to release mulm
-- Permanent fix (with new canister): **inflow** in back-right death
+- Permanent fix (with new canister): **inflow** in front-right dead
   corner (actively sucks detritus out), **outflow** opposite side just
   below waterline, angled along the long axis (creates continuous surface
   ripple, full circulation loop, no dead zone)
+- **Aesthetic implication of front-right inflow**: lily pipe + mesh
+  guard will be visible at the front of the tank, not hidden at the
+  back. Functionally correct (that's where the detritus is) but worth
+  knowing. Alternative: keep inflow at back, outflow at front-right
+  blowing into the dead corner. Less effective at removing existing
+  detritus but more hidden. Decide at install time.
 
 ## Not in the tank, deliberately decided against
 - Sponge filter as primary — discussed and rejected; canister + sponged

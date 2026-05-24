@@ -100,7 +100,7 @@ in aesthetic terms.
 - **Wispy "spider web" stuff** that breaks into dust: detritus +
   bacterial biofilm webs. Looks alarming, isn't. Will dissipate when
   flow reaches that area (canister intake placement will fix the
-  death corner).
+  front-right dead corner).
 - **Smell test**:
   - Musty / swampy = cyanobacteria (BGA) — treat carefully, antibiotics
     risky with shrimplets, blackout + flow fix is safer

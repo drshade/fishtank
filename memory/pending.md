@@ -30,8 +30,12 @@
    either during this period.
 5. After ~3 weeks, swap supplied plastic pipes for GreenWorks glass
    lily pipes:
-   - **Inflow** in back-right "death corner" — actively sucks accumulated
-     detritus into filter
+   - **Inflow** in front-right dead corner — actively sucks accumulated
+     detritus into filter. Note: this puts the lily pipe + mesh guard
+     at the front of the tank, more visible than tucked at the back.
+     Alternative: leave inflow at back, point outflow into the corner.
+     Less effective on existing accumulation but cleaner aesthetic.
+     Decide at install time, see `memory/tank.md`.
    - **Outflow** opposite side, just below waterline, angled along long
      axis of tank → continuous surface ripple, full circulation loop
    - Fit stainless mesh filter guard over inflow (non-negotiable while
@@ -57,8 +61,8 @@
 - **Mommy's brood 2 release** (~mid-June 2026 → 2026-06-11 to 2026-06-16).
   When it happens: pause non-essential changes for 2-3 weeks. No big
   water changes. Update `livestock.md`.
-- **Detritus reduction** in back-right corner once canister inflow is
-  positioned there. Should self-clean.
+- **Detritus reduction** in front-right corner once canister inflow is
+  positioned there (or outflow blows into it). Should self-clean.
 - **Tetra AirSilent Mini noise / bubble quality** — Tom's call whether
   the throttled setup is tolerable long-term.
 - **Colony reaching ~30-40 visible juveniles** — revisit whether the
