@@ -3,25 +3,27 @@
 ## Shrimp (Neocaridina)
 
 Started with 2 adults:
-- **"Mommy"** (female) — completely clear / see-through. Possibly a
-  "Crystal Clear" / lightly-pigmented wild-type female, or a faded
-  selected morph. Not a standard named colour.
-- **"Dad"** (male) — green. Likely **"Green Jade"** Neocaridina davidi
-  (the main green morph).
+- **"Mommy"** (female) — completely clear / see-through. Larger of the
+  two (females reach ~3cm; males ~2cm — normal Neocaridina sexual
+  dimorphism).
+- **"Dad"** (male) — clear with a **slight yellow undertone**. Smaller
+  than mommy.
 
-**Genetic implication worth knowing**: clear × green is cross-morph
-breeding. F1 offspring usually revert toward wild-type translucent
-brown/grey rather than holding either parent's colour. Selected colour
-traits in Neocaridina are polygenic — crossing different selected lines
-loses both. So:
+Both essentially translucent / wild-type-ish rather than strongly
+selected colour morphs. Could be:
+- True wild-type *Neocaridina davidi* (uncommon in the trade but exists)
+- Heavily faded specimens of a selected line
+- Specifically marketed as "ghost" / "crystal clear"
 
-- The current brood and future broods will probably **not** be uniformly
-  green or uniformly clear; expect a mix dominated by wild-type colours.
-- If Tom wants a colour-consistent colony long-term, he'd need to start
-  over with same-morph adults (e.g. all Green Jade) and cull
-  off-colours.
-- Doesn't matter for tank health — just sets expectations for what the
-  colony will look like in 3-6 months.
+**Genetic implication**: with both parents this lightly pigmented,
+expect offspring to look similar — translucent, possibly with subtle
+yellow/grey/clear variation. Should be a fairly colour-consistent
+colony, just consistently *unflashy*. No cross-morph reversion drama.
+
+If Tom ever wants vibrant colour (Red Cherry, Blue Dream, Yellow
+Fire, Green Jade etc.), he'd need to introduce new same-morph
+adults and cull existing stock — current genetics won't produce
+strong colours through selection alone.
 
 ### Brood 1
 - **Released ~2026-05-16** (date inferred: "mommy birthed 6 days ago"
