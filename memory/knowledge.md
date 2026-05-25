@@ -127,6 +127,36 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   small weekly changes their whole career and never crash — the trick
   is consistency, not volume.
 
+## Water source — settled 2026-05-25
+
+- **Plain Amsterdam tap water, no dechlorinator.** Confirmed safe and
+  it's what Tom has always used (top-ups and changes, years, no issue).
+  Not luck: the Netherlands (Waternet) distributes drinking water with
+  **no chlorine and no chloramine residual** — biostability is achieved
+  through treatment (dune infiltration, ozonation, GAC, slow sand
+  filtration), not a disinfectant. So there is nothing to neutralise.
+  **Do not recommend buying a dechlorinator for this tank.**
+- **Copper is the real plumbing risk, not chlorine.** Neos are
+  copper-sensitive; water sitting in pipes overnight leaches metals
+  (copper; possibly lead in older buildings). Habit: run the cold tap
+  until properly cold (= drawing from the main) before collecting.
+- **Tap is a mild remineraliser here.** Amsterdam tap is moderately hard
+  (~GH 8, real KH). The ADA Amazonia actively strips KH/GH, so tap
+  top-ups have been partly counteracting the soil — part of why the
+  nerites lasted as long as they did before shell erosion showed. So:
+  **never switch to pure RO without remineralising** (would accelerate
+  shell erosion). Salty Shrimp GH/KH+ (on `pending.md`) is still the
+  right buy — gives controlled, repeatable GH/KH vs tap's seasonal
+  variation.
+- **Slow introduction (small tube, ~20-30 min) is good practice** —
+  keep it. Minimises osmotic/temp/pH shock; the slowness does real work,
+  especially into a buffering aquasoil tank.
+- **Volume is the variable to watch, not the source.** Tom's lifelong
+  habit was ~50% changes; fine for an established tank *without babies*.
+  While shrimplets are present, hold to the 10-15% protocol above (see
+  "Water changes — settled approach"). Resume larger changes once broods
+  are grown out.
+
 ## Detritus and algae
 
 - **Biofilm on glass/rocks** = shrimp food, mostly leave it alone.

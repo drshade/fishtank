@@ -56,5 +56,8 @@ readings._
 - With lid off + surface agitation, expect ~0.5-1L/week loss
 - Top up every few days, don't let water drop more than ~1cm (else
   TDS/minerals concentrate)
-- Use dechlorinated tap or remineralised RO (whichever recipe matches
-  tank chemistry)
+- **Plain Amsterdam tap is fine — no dechlorinator needed** (NL/Waternet
+  distributes chlorine- and chloramine-free water by national policy).
+  Run the cold tap until properly cold first to flush copper/metals from
+  pipes (neos are copper-sensitive). Or use remineralised RO. Match temp
+  within 1°C either way. See `knowledge.md` "Water source".
