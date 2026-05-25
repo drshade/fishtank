@@ -51,20 +51,42 @@ strong colours through selection alone.
 - Colony will plateau around ~100 adults in this tank (3-5/L
   comfortable in heavily-planted nano)
 
+## Microfauna
+
+- **Ostracods** ("seed shrimp") — established population, visible on
+  glass as tiny (1-2mm) cream-coloured oval/sesame-seed shapes with
+  bivalve-like hinged shells. Confirmed by photo 2026-05-25.
+- Harmless detritivores: eat biofilm, decaying organics, leftover
+  food. Free baby food for shrimplets.
+- Reproduce by parthenogenesis → population can boom with surplus
+  food, useful signal for overfeeding.
+- Their presence indicates mature, stable biofilm — sign of a
+  healthy ecosystem.
+
 ## Snails
-- **2 snails, both with blue dots on the shells.** Species not recalled
-  by Tom. Most likely candidates (in order of probability for nano
-  planted tanks):
-  - **Horned Nerite** (*Clithon corona* / *diadema*) — small (1-2cm),
-    spotted shell, tiny horns, very popular in nano planted tanks
-  - **Spotted Nerite** (*Neritina turrita*) — slightly larger (~2cm),
-    olive shell with dark/blue spots
-  - **Zebra Nerite** (*Neritina natalensis*) — less likely, has
-    stripes not dots
+- **2x Tiger Nerite** (*Vittina semiconica*) — ID'd from photo
+  2026-05-25. Globular reddish-amber shell with darker spiral bands.
+  Not horned, not spotted, not zebra.
 - Long-term residents, established before the shrimp.
-- All common nerites in freshwater can't reproduce in fresh water
-  (need brackish for larvae) → population stays at 2 forever, no
-  pest-snail explosion risk.
+- Nerites can't reproduce in freshwater (need brackish for larvae) →
+  population stays at 2 forever, no pest-snail explosion risk.
+
+### Shell erosion (flagged 2026-05-25)
+- The "blue dots" Tom originally described are **not natural markings**
+  — they're patches where the outer pigmented shell has worn away,
+  exposing the iridescent turquoise nacre layer beneath. Confirmed on
+  at least one snail by photo; second snail not yet photographed but
+  likely the same.
+- **Cause**: soft/acidic water from ADA Amazonia substrate dissolves
+  calcium carbonate shells over time. Nerites are brackish-origin and
+  especially sensitive.
+- **Trajectory**: slow burn — erosion progresses over months/years,
+  not days. Eventual risk is pitting → thin spots → shell failure.
+- **Fix**: remineralise top-off water with Salty Shrimp GH/KH+
+  (already on shopping list, now higher priority). Belt-and-braces:
+  small piece of cuttlebone tucked in filter or behind rock — slow
+  calcium buffer, ~€2.
+- **Not urgent for the trip**; address on return.
 
 ## Bioload status (as of 2026-05-24)
 - 2 adults + ~20 shrimplets + a few snails

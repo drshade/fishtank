@@ -16,7 +16,11 @@
 - [ ] Sintered glass air diffuser — only if AS25/AS30 + flow valve +
       split setup is still too coarse / noisy (unlikely now)
 - [ ] TDS pen (~€10, bol.com or any aquarium shop)
-- [ ] Salty Shrimp GH/KH+ remineraliser
+- [ ] **Salty Shrimp GH/KH+ remineraliser** — priority bumped 2026-05-25
+      after Tiger Nerite shell erosion confirmed (see `livestock.md`).
+      Both snails likely affected. Slow burn but worth fixing on return.
+- [ ] Cuttlebone (pet/bird shop, ~€2) — slow-release calcium buffer for
+      nerite shells. Tuck in filter chamber or behind rock.
 - [ ] Ammonia test kit or strips — for verifying filter cycle before
       removing Dennerle
 
