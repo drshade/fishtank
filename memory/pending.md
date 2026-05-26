@@ -67,9 +67,12 @@
 
 ## Watching for
 
-- **Heatwave (from 2026-05-26, ~1 week)** — ambient 28.1°C / 37% RH. Surface
-  fan + nightly airstone load-bearing; top up evaporation; recheck tank temp
-  daily; both heaters derisked. Resume heater verification once it breaks.
+- **Heatwave (from 2026-05-26, ~1 week) + trip (28 May–8 June)** — ambient
+  28.1°C / 37% RH. Surface fan + airstone (→ **24/7 for the trip**, still
+  night-only as of 05-26 — flip before departure); top up evaporation often
+  (fan speeds it); recheck temp daily. In-tank heater unplugged, canister
+  thermo at **23°C** for the unattended trip. Michelle covering; resume
+  heater verification once it cools. See `knowledge.md` heatwave protocol.
   See `knowledge.md` heatwave protocol.
 - **Mommy's brood 2 release** (~mid-June 2026 → 2026-06-11 to 2026-06-16).
   When it happens: pause non-essential changes for 2-3 weeks. No big

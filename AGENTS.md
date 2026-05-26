@@ -72,6 +72,20 @@ Before substantive advice:
 - When changing a settled care decision in `knowledge.md`, also write
   a journal entry explaining *why* it changed.
 
+## Keeping the README Highlights current
+
+`README.md` has a **Highlights** section — a newest-first, one-paragraph
+digest of each ISO week with a representative photo, for casual browsers.
+It's a projection of the journal, like `memory/`.
+
+- When a week wraps (or mid-week if something notable happens), add or
+  update that week's entry at the **top** of the Highlights list.
+- ~2-4 plain-English sentences per week — friendlier than the journal's
+  terse style. Lead with the week's headline.
+- Embed one photo that already exists in `journal/`, width-capped:
+  `<img src="journal/2026-Www/..." alt="..." width="480">`.
+- Don't surface anything here that isn't backed by a journal entry.
+
 ## Tone
 
 Tom values blunt, direct advice. The conversation history shows the

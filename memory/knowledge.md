@@ -92,10 +92,13 @@ order:
    (37% RH on 2026-05-26) is ideal.
 3. **Top up more often.** The fan accelerates evaporation; replace with
    dechlorinated/remineralised water, don't let level drop >1cm.
-4. **Derisk heaters.** Both sit idle when the tank is above setpoint — set
-   the canister thermo dial to minimum and unplug the in-tank heater so a
-   stuck-on heater can't add to the problem. (Heater verification pauses
-   during heat — the thermo never fires; resume on a cool spell.)
+4. **Derisk heaters.** Both sit idle when the tank is above setpoint. If
+   present and watching, dial the canister thermo down and unplug the
+   in-tank heater so a stuck-on heater can't add heat. **If leaving the
+   tank unattended, set the canister thermo to a normal setpoint (~23°C)
+   instead** — it won't fire in the heat, but it can hold a floor if the
+   weather flips cold while you're away. (Heater verification pauses during
+   heat — the thermo never fires; resume on a cool spell.)
 5. **Cut heat sources**: kill the accent light, optionally trim the main
    photoperiod / shift off midday; blinds closed by day, ventilate at night.
 
