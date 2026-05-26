@@ -52,8 +52,9 @@
 - Dennerle internal filter — still in tank, running side-by-side the
   canister as of 2026-05-26. Outflow repointed at the left-side glass to
   diffuse its jet while both filters run.
-- Clogs fast under current bioload: noticeably sluggish ~6 days after
-  cleaning
+- Earlier "clogs fast ~6 days after cleaning" was likely **incomplete
+  squeezing**, not bioload — a thorough squeeze (2026-05-25) restored strong
+  flow (confirmed 2026-05-27). Clean properly when flow drops.
 - Sponge left **intact** (not cut for seeding). Runs ~3 weeks parallel;
   removed only after a zero-ammonia reading
 - On removal: save the old sponge (frozen) for future QT-tank seeding

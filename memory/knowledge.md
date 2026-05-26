@@ -111,6 +111,9 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   calendar.
 - **Squeeze media in tank water, never tap.** Chlorine kills the
   nitrifying bacteria you're trying to keep.
+- **Squeeze thoroughly.** The Dennerle's recurring sluggishness ~6 days
+  after cleaning turned out to be incomplete squeezing, not bioload
+  (2026-05-27) — a proper squeeze restored strong flow.
 - **Parallel-run when swapping filters.** 2-3 weeks minimum. Seed the
   new media with a chunk of old sponge from day one.
 - For canister cleans (post-transition): only when flow noticeably
