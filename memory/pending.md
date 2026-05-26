@@ -68,9 +68,10 @@
 ## Watching for
 
 - **Heatwave (from 2026-05-26, ~1 week) + trip (28 May–8 June)** — ambient
-  28.1°C / 37% RH. Surface fan + airstone (→ **24/7 for the trip**, still
-  night-only as of 05-26 — flip before departure); top up evaporation often
-  (fan speeds it); recheck temp daily. In-tank heater unplugged, canister
+  28.1°C / 37% RH. Surface fan + airstone stays **night-only** (inverse to
+  CO2 — Tom's keeping the working schedule; night covers the pre-dawn risk
+  window); top up evaporation often (fan speeds it); recheck temp daily.
+  In-tank heater unplugged, canister
   thermo at **23°C** for the unattended trip. Michelle covering; resume
   heater verification once it cools. See `knowledge.md` heatwave protocol.
   See `knowledge.md` heatwave protocol.
