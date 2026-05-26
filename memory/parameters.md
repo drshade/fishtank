@@ -12,13 +12,16 @@
 
 ## Measurements
 
-_No measurements logged yet. Tom does not own a TDS pen yet._
+Reverse-chronological. No TDS pen yet — TDS/GH/KH columns stay blank until
+one's bought.
 
-When measurements start, log here in reverse-chronological order:
-
-```
 | Date | TDS | GH | KH | pH | Temp | Notes |
-```
+|---|---|---|---|---|---|---|
+| 2026-05-26 | — | — | — | — | ~26°C | Uncalibrated mercury thermometer (Tom suspects it reads high → real maybe ~24-25). Constancy-tracking, not absolute. Ambient 28.1°C / 37% RH (digital monitor); heatwave forecast ~1 week. |
+
+_Calibration: to trust absolute temp, dunk the thermometer in well-stirred
+ice water (= 0°C exactly) and note the offset; subtract it from tank
+readings._
 
 ## Remineralisation
 

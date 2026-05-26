@@ -75,6 +75,33 @@ no extra equipment, *after* the dawn near-miss. Reasoning:
 Once tuned (flow valve + finer airstone), expected to be near-invisible
 in aesthetic terms.
 
+## Heat / heatwave protocol (first triggered 2026-05-26)
+
+Amsterdam apartments spike hot — 28°C+ ambient happened in May 2026, well
+before the expected August window, and can recur. A ~17L tank tracks toward
+ambient over a sustained spell, so manage actively. Response, priority
+order:
+
+1. **Night airstone is load-bearing, not optional.** Warm water holds less
+   O2 *and* animals demand more — pre-dawn sag is the kill risk. Runs every
+   night. Daytime gas exchange is covered by the canister ripple; extend
+   the airstone into daytime only if anyone surface-hangs (O2 > CO2
+   efficiency in a heatwave). Don't change CO2 timing otherwise.
+2. **Surface fan = primary cooling.** A fan blowing across the water pulls
+   the tank 2-4°C below ambient. Most effective in dry air — low humidity
+   (37% RH on 2026-05-26) is ideal.
+3. **Top up more often.** The fan accelerates evaporation; replace with
+   dechlorinated/remineralised water, don't let level drop >1cm.
+4. **Derisk heaters.** Both sit idle when the tank is above setpoint — set
+   the canister thermo dial to minimum and unplug the in-tank heater so a
+   stuck-on heater can't add to the problem. (Heater verification pauses
+   during heat — the thermo never fires; resume on a cool spell.)
+5. **Cut heat sources**: kill the accent light, optionally trim the main
+   photoperiod / shift off midday; blinds closed by day, ventilate at night.
+
+Stability still matters — hold a steady warm temp rather than swinging.
+Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
+
 ## Filter maintenance
 
 - **Sluggish filter = O2 risk.** Clean when flow drops, not on a

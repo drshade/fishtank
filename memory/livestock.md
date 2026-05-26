@@ -33,6 +33,8 @@ strong colours through selection alone.
   - 2026-05-22: 1 spotted grazing (first sighting)
   - 2026-05-24: 3 spotted simultaneously at top of hairgrass (more
     confident, leaving carpet base — normal progression)
+  - 2026-05-26: 4+ grazing on the *ends* of the grass, visibly bigger —
+    on the expected week 2-3 curve (~10 days post-release)
 - Survival assumed normal (70-90%); the rest still hiding in carpet
   base. Reliable open-grazing usually starts at ~5mm body length
   around weeks 2-3, so most should be more visible in early-to-mid

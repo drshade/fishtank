@@ -1,13 +1,14 @@
 # Pending / In Progress
 
-## Awaiting delivery (greenaqua.hu order + Eheim)
-- [ ] Oase FiltoSmart Thermo 100 canister filter
-- [ ] GreenWorks Lily Pipe Glass Outflow Nano 13mm
-- [ ] GreenWorks Glass Inflow Nano 13mm 12/16mm
-- [ ] GreenWorks Filter Guard 13mm 6.5cm (stainless steel mesh)
-- [ ] Green Aqua Transparent Hose 12/16mm (~2m)
-- [ ] Spare suction cups
-- [ ] Eheim Double Tap 12/16mm × 2 (separate purchase)
+## Delivered + installed 2026-05-26
+- [x] Oase FiltoSmart Thermo 100 canister filter — installed & running
+- [x] GreenWorks Lily Pipe Glass Outflow Nano 13mm — fitted (back, temp)
+- [x] GreenWorks Glass Inflow Nano 13mm 12/16mm — fitted (back, temp)
+- [x] GreenWorks Filter Guard 13mm 6.5cm — fitted, slid up to fully cover
+- [x] Green Aqua Transparent Hose 12/16mm (~2m)
+- [x] Spare suction cups
+- [ ] Eheim Double Tap 12/16mm × 2 — arrival/fit **unconfirmed**; needed for
+      flow throttling + click-disconnect maintenance
 
 ## To buy on next shop trip
 - [x] ~~Air flow control valve~~ — bought and installed 2026-05-24,
@@ -21,49 +22,55 @@
       Both snails likely affected. Slow burn but worth fixing on return.
 - [ ] Cuttlebone (pet/bird shop, ~€2) — slow-release calcium buffer for
       nerite shells. Tuck in filter chamber or behind rock.
-- [ ] Ammonia test kit or strips — for verifying filter cycle before
-      removing Dennerle
+- [ ] **Ammonia test kit or strips — now MANDATORY.** No seed sponge was
+      transferred, so the canister cycle is unproven. This test is the gate
+      for removing the Dennerle (~mid-June), not the calendar.
 
-## Installation sequence (when canister arrives)
+## Canister install — progress (updated 2026-05-26)
 
-1. Set up canister with seed media: cut **1/3 to 1/2** of the Dennerle
-   sponge → into the canister's coarse mechanical layer. Optional:
-   small handful of aquasoil in a mesh bag → into the bio chamber.
-2. Plumb in canister with its supplied plastic intake/outflow first
-   (de-risk before swapping to glass).
-3. Prime canister, power on, verify flow + heater working.
-4. **Run BOTH filters in parallel for 2-3 weeks.** Don't deep-clean
-   either during this period.
-5. After ~3 weeks, swap supplied plastic pipes for GreenWorks glass
-   lily pipes:
-   - **Inflow** in front-right dead corner — actively sucks accumulated
-     detritus into filter. Note: this puts the lily pipe + mesh guard
-     at the front of the tank, more visible than tucked at the back.
-     Alternative: leave inflow at back, point outflow into the corner.
-     Less effective on existing accumulation but cleaner aesthetic.
-     Decide at install time, see `memory/tank.md`.
-   - **Outflow** opposite side, just below waterline, angled along long
-     axis of tank → continuous surface ripple, full circulation loop
-   - Fit stainless mesh filter guard over inflow (non-negotiable while
-     shrimplets present)
-6. Install Eheim Double Taps inline on each hose (one per line) — lets
-   you click-disconnect the canister for maintenance without spilling
-   water either side.
-7. **Throttle flow** with the Double Taps or an inline ball valve —
-   600 L/h through 17L is ~35× turnover, way too aggressive.
-8. Verify canister heater holds temp for 24h → **remove the in-tank
-   heater**.
-9. Test ammonia. If zero → **remove the Dennerle filter**. If
-   anything detectable → wait another week.
-10. Don't open/deep-clean canister for ~1 month after Dennerle removal
-    (let bacteria fully colonise new media).
-11. Old Dennerle sponge: squeeze out in tank water, then either
-    (a) **freeze in a sealed bag for future QT-tank seeding** —
-    recommended, free insurance — or (b) bin. Don't add to the
-    canister (suboptimal media + dumps accumulated detritus).
+**Done 2026-05-26:**
+- Ceramic bio-media loaded (rinsed first). **No Dennerle seed sponge
+  transferred** — Tom left the Dennerle intact; new media colonising from
+  scratch → removal is ammonia-gated, not calendar-gated (see below).
+- Glass lily pipes fitted directly (skipped the plan's plastic-first
+  leak-test step). Both at back wall, ~centred — temporary.
+- Stainless Filter Guard slid up to fully cover inflow holes — baby-safe.
+- Primed, powered, flow verified. Initial media-dust blowout cleared.
+- Both filters now running parallel.
+
+**Remaining:**
+1. ✓ **Flow throttled (done 2026-05-26)** — flow-control valves on both
+   lines, dialed to a gentle surface ripple. Re-check after Dennerle
+   removal (less total flow may need the outflow opened a touch).
+2. ✓ **Outflow breaks the surface (done 2026-05-26)** — gentle ripple
+   confirmed. Watch for surface scum as the signal to increase.
+3. **Eheim Double Taps** — if the flow-control valves now fitted aren't the
+   Double Taps, add them for click-disconnect maintenance (drop the canister
+   without spilling either line).
+4. **Heater**: verify canister thermo holds 22-24°C for 24h → then remove
+   the in-tank heater. Keep the old heater as backup, don't bin.
+5. **Ammonia test before removing Dennerle** (~2026-06-16 earliest). Zero
+   → remove Dennerle. Detectable → wait another week. **Mandatory now that
+   no seed sponge was transferred.** Also: brood 2 release is expected
+   ~2026-06-11 to 06-16, overlapping this window — don't stack a filter
+   removal on a fresh brood release; if they coincide, wait an extra week.
+6. **Reposition lily pipes** after Dennerle out: inflow → front-right dead
+   corner (Option A) or outflow blowing into the corner (Option B) — decide
+   then (see `memory/tank.md`). Outflow angled along long axis, just below
+   waterline.
+7. **Don't open/deep-clean canister for ~1 month** after Dennerle removal
+   (let bacteria fully colonise the new media).
+8. **Old Dennerle sponge**: squeeze out in tank water, then either
+   (a) **freeze in a sealed bag for future QT-tank seeding** — recommended,
+   free insurance — or (b) bin. Don't add to the canister (suboptimal media
+   + dumps accumulated detritus).
 
 ## Watching for
 
+- **Heatwave (from 2026-05-26, ~1 week)** — ambient 28.1°C / 37% RH. Surface
+  fan + nightly airstone load-bearing; top up evaporation; recheck tank temp
+  daily; both heaters derisked. Resume heater verification once it breaks.
+  See `knowledge.md` heatwave protocol.
 - **Mommy's brood 2 release** (~mid-June 2026 → 2026-06-11 to 2026-06-16).
   When it happens: pause non-essential changes for 2-3 weeks. No big
   water changes. Update `livestock.md`.

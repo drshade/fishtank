@@ -30,27 +30,33 @@
 - Spare ceramic CO2 diffuser available (unused — pore size too fine for
   the air pump to drive)
 
-## Filter — current (being replaced)
-- Dennerle internal filter
+## Filter — primary (installed 2026-05-26)
+- **Oase FiltoSmart Thermo 100** (canister) — installed and running
+  2026-05-26
+  - 600 L/h, 100W integrated heater, 12/16mm tubing
+  - Rated to 100L planted; oversized for ~17L → flow-control valves on
+    **both** lines, dialed to a gentle surface ripple (confirmed 2026-05-26)
+  - Ceramic tube bio-media loaded. **No Dennerle seed sponge transferred** —
+    media colonising from scratch off the tank's bacterial reservoir.
+    Dennerle removal is **ammonia-test-gated, not calendar-gated** (see
+    journal 2026-05-26).
+  - **Glass lily pipes** (GreenWorks 13mm inflow + outflow) fitted from the
+    start. Currently both at the back wall, ~centred — **temporary**.
+    Stainless Filter Guard slid up to fully cover the inflow holes
+    (baby-safe). Reposition after Dennerle removal: inflow → front-right
+    dead corner, outflow angled along long axis just below waterline.
+  - Unused from box: supplied plastic intake/outflow (glass used instead);
+    Eheim Double Taps ×2 (fit status TBC).
+
+## Filter — old Dennerle (parallel-running, removal ~2026-06-16 earliest)
+- Dennerle internal filter — still in tank, running side-by-side the
+  canister as of 2026-05-26. Outflow repointed at the left-side glass to
+  diffuse its jet while both filters run.
 - Clogs fast under current bioload: noticeably sluggish ~6 days after
   cleaning
-- Plan: parallel-run with new canister for 2-3 weeks before removal
-- Old sponge will be saved (frozen) for future QT-tank seeding
-
-## Filter — incoming (ordered)
-- **Oase FiltoSmart Thermo 100** (canister)
-  - 600 L/h, 100W integrated heater, 12/16mm tubing
-  - Includes plastic intake/outflow + ribbed tubing in box
-  - Rated to 100L planted; oversized for ~17L → will need flow throttling
-- From greenaqua.hu order:
-  - GreenWorks Lily Pipe Glass Outflow Nano 13mm (~€21)
-  - GreenWorks Glass Inflow Nano 13mm 12/16mm
-  - GreenWorks Filter Guard 13mm 6.5cm (stainless steel mesh, intake
-    protection — finer than a foam pre-filter sponge, much cleaner look)
-  - Green Aqua Transparent Hose 12/16mm (~2m, for visible portion only)
-  - Spare suction cups
-- **Eheim Double Tap 12/16mm × 2** (one per hose line — intake and
-  outflow each get their own)
+- Sponge left **intact** (not cut for seeding). Runs ~3 weeks parallel;
+  removed only after a zero-ammonia reading
+- On removal: save the old sponge (frozen) for future QT-tank seeding
 
 ## Heater
 - Small in-tank heater, **back-left, immediately next to the filter**
