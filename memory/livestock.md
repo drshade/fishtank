@@ -43,12 +43,22 @@ strong colours through selection alone.
   June.
 
 ### Brood 2
-- Mommy re-berried within ~24h of releasing brood 1 (~2026-05-17)
-- **Released 2026-06-05** (Friday) — confirmed by Michelle. A few days
-  ahead of the 2026-06-11 to 2026-06-16 estimate, within normal variation.
+- Mommy re-berried ~2026-05-17 (within 24h of releasing brood 1)
+- **Carry time: ~19 days** (2026-05-17 → 2026-06-05) — shorter than
+  textbook 25-30 days, consistent with accelerated development during the
+  heatwave (26-28°C ambient).
+- **Released 2026-06-05** (Friday) — confirmed by Michelle.
 - Expected ~20-30 shrimplets, currently hiding in the hairgrass carpet.
-- **Mommy molted immediately after release** — normal; she'll be soft-shelled
-  for ~24h. Reinforces priority of Salty Shrimp GH/KH+ on return.
+- **Mommy molted immediately after release** — normal.
+
+### Brood 3 (likely in progress)
+- Mommy molted 2026-06-05; mating expected within 24-72h (2026-06-05–07).
+- **Saddle visible** (2026-06-07, via Michelle's photo) — white/yellow
+  ovary mass clearly visible through transparent body on dorsal side.
+  Strong sign she has already re-berried or is about to drop eggs into
+  the brood pouch imminently.
+- **Brood 3 expected: ~early July 2026** (~July 1–7, assuming 25-30 day
+  carry from ~June 6; could be faster if water stays warm).
 
 ### Expected timeline going forward
 - Each healthy adult female produces a brood roughly every month for

@@ -79,6 +79,8 @@
   non-essential changes for 2-3 weeks. No big water changes. Dennerle
   removal not before 2026-06-13 (1 week buffer); ammonia-test gate
   (~2026-06-16) still applies. See `livestock.md`.
+- **Brood 3** — saddle visible 2026-06-07, re-berrying likely imminent.
+  Expected release ~early July. Confirm berry on return from trip.
 - **Detritus reduction** in front-right corner once canister inflow is
   positioned there (or outflow blows into it). Should self-clean.
 - **Tetra AirSilent Mini noise / bubble quality** — Tom's call whether
