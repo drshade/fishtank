@@ -75,7 +75,7 @@
   thermo at **23°C** for the unattended trip. Michelle covering; resume
   heater verification once it cools. See `knowledge.md` heatwave protocol.
   See `knowledge.md` heatwave protocol.
-- **Mommy's brood 2 release** — ✓ **released 2026-06-06**. Pause
+- **Mommy's brood 2 release** — ✓ **released 2026-06-05**. Pause
   non-essential changes for 2-3 weeks. No big water changes. Dennerle
   removal not before 2026-06-13 (1 week buffer); ammonia-test gate
   (~2026-06-16) still applies. See `livestock.md`.

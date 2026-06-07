@@ -44,7 +44,7 @@ strong colours through selection alone.
 
 ### Brood 2
 - Mommy re-berried within ~24h of releasing brood 1 (~2026-05-17)
-- **Released 2026-06-06** (Friday) — confirmed by Michelle. A few days
+- **Released 2026-06-05** (Friday) — confirmed by Michelle. A few days
   ahead of the 2026-06-11 to 2026-06-16 estimate, within normal variation.
 - Expected ~20-30 shrimplets, currently hiding in the hairgrass carpet.
 - **Mommy molted immediately after release** — normal; she'll be soft-shelled
