@@ -35,15 +35,20 @@ strong colours through selection alone.
     confident, leaving carpet base — normal progression)
   - 2026-05-26: 4+ grazing on the *ends* of the grass, visibly bigger —
     on the expected week 2-3 curve (~10 days post-release)
+  - 2026-06-07: 1 spotted by Michelle grazing in the grass (not just at
+    the base) — ~3 weeks post-release, on track. Bodies now ~5mm+.
 - Survival assumed normal (70-90%); the rest still hiding in carpet
   base. Reliable open-grazing usually starts at ~5mm body length
   around weeks 2-3, so most should be more visible in early-to-mid
   June.
 
-### Brood 2 (in progress)
+### Brood 2
 - Mommy re-berried within ~24h of releasing brood 1 (~2026-05-17)
-- Carry time 25-30 days → **release expected mid-June 2026** (roughly
-  2026-06-11 to 2026-06-16)
+- **Released 2026-06-06** (Friday) — confirmed by Michelle. A few days
+  ahead of the 2026-06-11 to 2026-06-16 estimate, within normal variation.
+- Expected ~20-30 shrimplets, currently hiding in the hairgrass carpet.
+- **Mommy molted immediately after release** — normal; she'll be soft-shelled
+  for ~24h. Reinforces priority of Salty Shrimp GH/KH+ on return.
 
 ### Expected timeline going forward
 - Each healthy adult female produces a brood roughly every month for

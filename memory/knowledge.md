@@ -151,6 +151,20 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   remineralise top-off water
 - Target 150-250 ppm for neos
 
+## Air pump placement — vibration isolation
+
+Air pumps transmit vibration through whatever surface they sit on. In an
+apartment, a pump on a hard floor (wood, tile, laminate) can be clearly
+audible to neighbours below — even a "silent" model like the Tetra AirSilent
+Mini. Triggered 2026-06-07: neighbour below complained about overnight noise.
+
+**Fix**: place the pump on a folded towel, foam offcut, mouse mat, or any
+soft/compliant surface. Breaks the vibration path into the structure.
+Confirmed to fix the issue here.
+
+**Going forward**: always put the pump on something soft. If it ever moves
+(cleaning, repositioning), check it's back on the damping material.
+
 ## Equipment aesthetic principles (Tom's stated preferences)
 
 - Removing in-tank equipment is the real aesthetic win (heater,
