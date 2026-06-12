@@ -9,10 +9,10 @@ Append-only history of the tank. The journal is the source of truth for
 journal/
 ├── 2026-W20/                    # ISO week folder (Mon-Sun)
 │   ├── 2026-05-17.md            # one file per day events happened
-│   └── 2026-05-17-tank.png      # photos co-located with their note
+│   └── 2026-05-17-tank.jpg      # photos co-located with their note
 └── 2026-W21/
     ├── 2026-05-22.md
-    └── 2026-05-22-detritus.png
+    └── 2026-05-22-detritus.jpg
 ```
 
 - **Week folders**: ISO week format `YYYY-Www` (e.g. `2026-W21` = May 18-24).

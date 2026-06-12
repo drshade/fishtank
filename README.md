@@ -48,7 +48,7 @@ independent insurance. The repeatedly-clogging internal filter pushed the
 decision to **upgrade to a canister**. And the payoff: the **first baby
 shrimp** was spotted out grazing, confirming brood 1 had survived.
 
-<img src="journal/2026-W21/2026-05-23-as25-bubbles.png" alt="The new airstone running in the back corner" width="480">
+<img src="journal/2026-W21/2026-05-23-as25-bubbles.jpg" alt="The new airstone running in the back corner" width="480">
 
 ### Week of 11 May 2026 — first babies 🦐
 
@@ -57,7 +57,7 @@ miniature shrimplets hiding in the hairgrass — and mum was re-berried with
 brood 2 within a day. Here's the tank at its baseline: Dennerle Nano Cube
 20, hairgrass carpet, sword plant, lava rock and aquasoil.
 
-<img src="journal/2026-W20/2026-05-17-tank-overview.png" alt="Tank overview, 17 May 2026 — the starting baseline" width="480">
+<img src="journal/2026-W20/2026-05-17-tank-overview.jpg" alt="Tank overview, 17 May 2026 — the starting baseline" width="480">
 
 ## Structure
 

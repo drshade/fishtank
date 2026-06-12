@@ -60,8 +60,8 @@ This table is the single source for the journal-vs-memory decision
   `date +%G-W%V`. Create the week folder if it doesn't exist.
 - One file per day. Multiple events from the same day → multiple `##`
   sections in the same file.
-- Photos: save to the same folder with `YYYY-MM-DD-slug.png`. Reference
-  inline: `![alt](2026-05-23-as25-bubbles.png)`.
+- Photos: save to the same folder with `YYYY-MM-DD-slug.jpg`. Reference
+  inline: `![alt](2026-05-23-as25-bubbles.jpg)`.
 - Cross-reference any `memory/` updates at the end of each section:
   `→ updated memory/tank.md (Aeration section)`. This keeps the
   projection traceable.
