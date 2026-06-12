@@ -99,6 +99,15 @@ the journal records the completion.
     water change, next date-gated task — rendered from this repo +
     `data/temp-log.csv`. E-ink = zero light emission next to the
     tank's photoperiod.
+  - **Print list** (all dry-side — see `knowledge.md` "3D prints and
+    the tank" for the filament rule): camera + IR illuminator bracket
+    with fixed framing and cable channel; e-ink enclosure; desk-fan
+    mount that registers against rim/cabinet for repeatable heatwave
+    cooling; Pi case with sensor strain relief; leak-sensor floor
+    holder; hose/airline clips; probe-wire rim guide.
+  - **Parts to order**: see journal 2026-06-12 for the full list with
+    notes (GPIO header soldering, BME280-clone and powerbank
+    pass-through gotchas).
 - **Marktplaats listings** once colony plateaus — ~€0.50 each, funds
   hobby spend
 - **Possible second tank** — the inevitable shrimp-keeper's gateway

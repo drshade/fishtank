@@ -197,6 +197,19 @@ Confirmed to fix the issue here.
 **Going forward**: always put the pump on something soft. If it ever moves
 (cleaning, repositioning), check it's back on the damping material.
 
+## 3D prints and the tank — settled 2026-06-12
+
+- **Default: all prints stay dry-side** (mounts, cases, brackets —
+  outside the glass). Same principle as the Pi: things that only watch
+  can't kill shrimp.
+- **If something must go in the water**: plain **uncoloured PETG** from
+  a reputable brand only. Never metallic, silk, glitter, or
+  glow-in-the-dark filament — additive pigments can contain **copper**,
+  the one contaminant neos have zero tolerance for (same reason the
+  cold tap gets run before collecting water).
+- PLA is wrong for submersion regardless of safety — it softens and
+  slowly degrades in warm water.
+
 ## Equipment aesthetic principles (Tom's stated preferences)
 
 - Removing in-tank equipment is the real aesthetic win (heater,
