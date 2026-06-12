@@ -79,6 +79,10 @@ the journal records the completion.
     `measurements.csv`); ntfy.sh push alert outside 22-24°C; nightly
     cron commits + pushes the log. First job: verify the canister
     thermo's 24h hold (step 2 in "Canister transition" above).
+    Plus **BME280 ambient temp/RH sensor** (~€5, I2C) logging room
+    conditions in the same CSV — water-vs-ambient delta quantifies
+    fan cooling; RH predicts evaporative-cooling effectiveness and
+    top-up cadence during heatwaves.
   - **Phase 2 — camera**: NoIR camera module + Zero-size CSI ribbon
     adapter + small 850nm IR illuminator (invisible to shrimp).
     Pre-dawn (~4am) snapshot covers the O2 blind-spot window; daily
