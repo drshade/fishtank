@@ -12,12 +12,14 @@
 
 ## Measurements
 
-Reverse-chronological. No TDS pen yet — TDS/GH/KH columns stay blank until
-one's bought.
+Full append-only log: [`data/measurements.csv`](../data/measurements.csv)
+(`date,tds_ppm,gh,kh,ph,temp_c,notes`). New reading → append a CSV row,
+then refresh the latest-reading line below.
 
-| Date | TDS | GH | KH | pH | Temp | Notes |
-|---|---|---|---|---|---|---|
-| 2026-05-26 | — | — | — | — | ~26°C | Uncalibrated mercury thermometer (Tom suspects it reads high → real maybe ~24-25). Constancy-tracking, not absolute. Ambient 28.1°C / 37% RH (digital monitor); heatwave forecast ~1 week. |
+**Latest**: 2026-05-26 — temp ~26°C (uncalibrated mercury thermometer,
+suspected to read high → real maybe 24-25; constancy-tracking, not
+absolute). No TDS/GH/KH readings yet — pen and test kits ordered, see
+`pending.md`.
 
 _Calibration: to trust absolute temp, dunk the thermometer in well-stirred
 ice water (= 0°C exactly) and note the offset; subtract it from tank
@@ -25,8 +27,9 @@ readings._
 
 ## Remineralisation
 
-- Recommended: **Salty Shrimp GH/KH+** in top-off water
-- Not yet purchased — on `pending.md` shopping list
+- Remineralise top-off water once the GH/KH+ arrives (ordered — see
+  `pending.md` for product and ETA). Rationale: `knowledge.md`
+  ("Water source").
 
 ## Water change protocol (current — babies present)
 

@@ -99,11 +99,10 @@ strong colours through selection alone.
   especially sensitive.
 - **Trajectory**: slow burn — erosion progresses over months/years,
   not days. Eventual risk is pitting → thin spots → shell failure.
-- **Fix**: remineralise top-off water with Salty Shrimp GH/KH+
-  (already on shopping list, now higher priority). Belt-and-braces:
-  small piece of cuttlebone tucked in filter or behind rock — slow
-  calcium buffer, ~€2.
-- **Not urgent for the trip**; address on return.
+- **Fix**: remineralise top-off water (remineraliser ordered — see
+  `pending.md`). Belt-and-braces: small piece of cuttlebone tucked in
+  filter or behind rock — slow calcium buffer, on the to-buy list.
+- Slow-moving; start dosing when the remineraliser arrives.
 
 ## Bioload status (as of 2026-05-24)
 - 2 adults + ~20 shrimplets + a few snails

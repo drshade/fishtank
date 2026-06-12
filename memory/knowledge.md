@@ -2,7 +2,7 @@
 
 Things that have been thought through and decided. Don't re-litigate
 these without good reason; if a decision changes, update the entry
-*and* prepend a note to `timeline.md`.
+*and* write a journal entry explaining why.
 
 ## Shrimplets (first 4-6 weeks)
 
@@ -90,8 +90,10 @@ order:
 2. **Surface fan = primary cooling.** A fan blowing across the water pulls
    the tank 2-4°C below ambient. Most effective in dry air — low humidity
    (37% RH on 2026-05-26) is ideal.
-3. **Top up more often.** The fan accelerates evaporation; replace with
-   dechlorinated/remineralised water, don't let level drop >1cm.
+3. **Top up more often.** The fan accelerates evaporation; top up with
+   cold-run tap (see "Water source" — no dechlorinator needed here),
+   remineralised once the GH/KH+ is in hand. Don't let the level drop
+   >1cm.
 4. **Derisk heaters.** Both sit idle when the tank is above setpoint. If
    present and watching, dial the canister thermo down and unplug the
    in-tank heater so a stuck-on heater can't add heat. **If leaving the
@@ -145,9 +147,9 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   top-ups have been partly counteracting the soil — part of why the
   nerites lasted as long as they did before shell erosion showed. So:
   **never switch to pure RO without remineralising** (would accelerate
-  shell erosion). Salty Shrimp GH/KH+ (on `pending.md`) is still the
-  right buy — gives controlled, repeatable GH/KH vs tap's seasonal
-  variation.
+  shell erosion). A dedicated GH/KH remineraliser is still the right
+  buy (ordered — see `pending.md` for which one and when it lands):
+  controlled, repeatable GH/KH vs tap's seasonal variation.
 - **Slow introduction (small tube, ~20-30 min) is good practice** —
   keep it. Minimises osmotic/temp/pH shock; the slowness does real work,
   especially into a buffering aquasoil tank.
