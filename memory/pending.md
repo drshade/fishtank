@@ -14,17 +14,15 @@
 - [x] ~~Air flow control valve~~ — bought and installed 2026-05-24,
       inline between check valve and T-splitter. Coarse-bubble issue
       should be fully tunable now.
-- [ ] Sintered glass air diffuser — only if AS25/AS30 + flow valve +
-      split setup is still too coarse / noisy (unlikely now)
-- [ ] TDS pen (~€10, bol.com or any aquarium shop)
-- [ ] **Salty Shrimp GH/KH+ remineraliser** — priority bumped 2026-05-25
-      after Tiger Nerite shell erosion confirmed (see `livestock.md`).
-      Both snails likely affected. Slow burn but worth fixing on return.
+- [ ] ~~Sintered glass air diffuser~~ — not needed, current setup working fine.
+- [x] TDS pen — XLUX Digital, ordered Amazon.nl 2026-06-12, arriving Monday.
+- [x] **GH/KH+ remineraliser** — 2HR Aquarist APT Sky Plus (€16.90),
+      ordered Amazon.nl 2026-06-12, arriving Monday.
 - [ ] Cuttlebone (pet/bird shop, ~€2) — slow-release calcium buffer for
       nerite shells. Tuck in filter chamber or behind rock.
-- [ ] **Ammonia test kit or strips — now MANDATORY.** No seed sponge was
-      transferred, so the canister cycle is unproven. This test is the gate
-      for removing the Dennerle (~mid-June), not the calendar.
+- [x] **Ammonia/Nitrite/Nitrate test kits** — Colombo Aqua triple kit (€38.69),
+      ordered bol.com 2026-06-12, arriving 2026-06-13.
+      Also have Tetra WaterTest Set (pH, GH, KH, NO₂, CO₂) — full coverage.
 
 ## Canister install — progress (updated 2026-05-26)
 
