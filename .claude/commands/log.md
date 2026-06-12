@@ -18,7 +18,7 @@ Log this for today: $ARGUMENTS
 5. If photos were attached, process and save them per the photo
    convention in `journal/README.md` (auto-orient, strip EXIF, ≤1600px,
    JPEG q82), and reference them inline from the entry.
-6. Commit — short imperative summary line.
+6. Commit — short imperative summary line — and push.
 
 If the event changes a settled rule in `knowledge.md`, update the rule
 and call that out explicitly in your reply.

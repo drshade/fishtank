@@ -88,6 +88,11 @@ Commit after each logged event or memory update — one short imperative
 summary line (match the register in `git log`). Don't ask permission
 and don't batch unrelated days together.
 
+**Always push immediately after committing.** Tom also updates this
+repo from Claude Code on his phone — an unpushed commit on one device
+becomes a conflict on the next. For the same reason, `git pull --rebase`
+before the first write of a session.
+
 ## Slash commands
 
 The stereotyped flows live in `.claude/commands/`:

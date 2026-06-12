@@ -22,4 +22,4 @@ last 3 journal weeks, then check:
    convention in `journal/README.md`.
 
 Fix what you find, report what changed and why, commit as
-`groom: <summary>`.
+`groom: <summary>`, push.

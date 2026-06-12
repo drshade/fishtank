@@ -13,4 +13,4 @@ folder that has entries).
 3. Embed one photo from that week's folder (`width="480"`) if one
    exists; skip the image if the week has no photos.
 4. Don't include anything not backed by a journal entry.
-5. Commit.
+5. Commit and push.
