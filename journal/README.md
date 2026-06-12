@@ -20,8 +20,17 @@ journal/
 - **Daily files**: `YYYY-MM-DD.md`. Multiple events from the same day go in
   one file. Days with nothing to log get no file — gaps are normal.
 - **Photos**: prefixed with the same date plus a short slug, e.g.
-  `2026-05-23-as25-bubbles.png`. Reference inline from the note with
-  `![alt](2026-05-23-as25-bubbles.png)`.
+  `2026-05-23-as25-bubbles.jpg`. Reference inline from the note with
+  `![alt](2026-05-23-as25-bubbles.jpg)`.
+- **Process photos on save** — keeps the repo small and kills EXIF
+  rotation surprises (one already bit us, see commit `bfa1019`):
+
+  ```sh
+  magick <in> -auto-orient -strip -resize '1600x1600>' -quality 82 <out>.jpg
+  ```
+
+  Camera photos and phone screenshots both become JPEG ≤1600px. Don't
+  commit originals.
 
 ## When to write a journal entry
 
@@ -59,13 +68,6 @@ the projection traceable.
 
 ## When to update `memory/` vs journal
 
-| Change type | Journal? | `memory/`? |
-|---|---|---|
-| One-off observation (saw a baby today) | yes | maybe (if it changes census/state) |
-| Decision made / equipment ordered | yes | yes (update `pending.md` and/or `tank.md`) |
-| Near-miss / incident | yes | maybe (if it changes a settled care rule, update `knowledge.md`) |
-| Measurement | yes | yes (append to `parameters.md`) |
-| Photo | yes | no |
-| Care rule revised | yes | yes (update `knowledge.md`) |
-
-When in doubt: journal always, snapshot if the change is still-true.
+The decision table lives in `AGENTS.md` ("When to write") — single
+source, don't duplicate it here. When in doubt: journal always,
+snapshot if the change is still-true.

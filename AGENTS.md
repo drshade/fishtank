@@ -40,12 +40,15 @@ Before substantive advice:
 
 ## When to write
 
+This table is the single source for the journal-vs-memory decision
+(`journal/README.md` points here):
+
 | Trigger | Journal? | `memory/`? |
 |---|---|---|
 | One-off observation (saw a baby, plant change, behaviour) | yes | maybe — if it changes the snapshot |
 | Decision made / item ordered / ruled out | yes | yes — `pending.md` and/or `tank.md` |
 | Near-miss or incident | yes | maybe — update `knowledge.md` if it changes a settled rule |
-| Measurement (TDS, GH, KH, temp, ammonia) | yes | yes — append to `parameters.md` |
+| Measurement (TDS, GH, KH, temp, ammonia) | yes | yes — append row to `data/measurements.csv`, refresh "latest" in `parameters.md` |
 | Photo taken | yes (with photo file) | no |
 | Care rule revised or new rule learned | yes | yes — `knowledge.md` |
 
@@ -69,8 +72,31 @@ Before substantive advice:
 - Edit existing files in place. Don't create new memory files.
 - Replace stale content rather than appending. The snapshot's job is to
   be current — old states belong in the journal.
+- **One fact, one home.** Each fact lives in exactly one memory file;
+  everywhere else points to it (`see pending.md`) rather than restating
+  it. Restated facts drift. Natural homes: orders and product choices →
+  `pending.md`; census and broods → `livestock.md`; installed hardware
+  and layout → `tank.md`; targets and protocols → `parameters.md`;
+  settled reasoning → `knowledge.md`. If you find the same fact stated
+  twice, fix it even if that's not what you were asked to do.
 - When changing a settled care decision in `knowledge.md`, also write
   a journal entry explaining *why* it changed.
+
+## Committing
+
+Commit after each logged event or memory update — one short imperative
+summary line (match the register in `git log`). Don't ask permission
+and don't batch unrelated days together.
+
+## Slash commands
+
+The stereotyped flows live in `.claude/commands/`:
+
+- `/log <what happened>` — journal entry + memory updates + commit
+- `/status` — tank state summary
+- `/week [YYYY-Www]` — wrap a week into a README Highlights entry
+- `/groom` — consistency sweep: drift, stale items, dangling refs,
+  missing highlights, oversized photos
 
 ## Keeping the README Highlights current
 
