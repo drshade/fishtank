@@ -15,6 +15,16 @@ A quick browse through how the tank's been going — newest first. The full
 day-by-day story (and the reasoning behind every decision) lives in
 [`journal/`](journal/).
 
+### Week of 1 June 2026 — brood 2 arrives 🦐🦐
+
+**Brood 2 released on 5 June** — a few days ahead of schedule, hurried
+along by the warm spell — and mommy molted right on cue, with a fresh
+saddle already showing by the 7th, so brood 3 is brewing for early July.
+A brood-1 baby was spotted grazing up in the grass blades (~5mm now,
+right on track). The week's one hiccup: the air pump was humming through
+the floor to the neighbour below — a folded towel under it fixed that
+overnight.
+
 ### Week of 25 May 2026 — the canister goes in 🌿
 
 The clog-prone internal filter is being retired for an **Oase canister
@@ -53,18 +63,22 @@ brood 2 within a day. Here's the tank at its baseline: Dennerle Nano Cube
 
 ```
 fishtank/
+├── CLAUDE.md           # loads AGENTS.md into Claude Code at startup
 ├── AGENTS.md           # instructions for any agent working here
+├── .claude/commands/   # slash commands: /log /status /week /groom
 ├── memory/             # current state — overwriting edits
 │   ├── tank.md         # hardware, equipment, layout
 │   ├── livestock.md    # current census, breeding
-│   ├── parameters.md   # target ranges + measurement log
+│   ├── parameters.md   # target ranges + latest reading
 │   ├── pending.md      # orders in flight, install plans, todos
 │   └── knowledge.md    # settled care decisions and why
+├── data/
+│   └── measurements.csv  # append-only measurement log
 └── journal/            # append-only history with photos
     ├── README.md       # convention for entries + photos
     └── YYYY-Www/       # ISO week folders
         ├── YYYY-MM-DD.md
-        └── YYYY-MM-DD-slug.png
+        └── YYYY-MM-DD-slug.jpg
 ```
 
 Two-tier model: `memory/` is *what's true now* (snapshot), `journal/` is
@@ -73,15 +87,22 @@ truth for history; the snapshot is a projection.
 
 ## How to use
 
-Open Claude Code in this directory. The agent reads `AGENTS.md` plus
-`memory/` and the latest journal week automatically. Just say what
-happened:
+Open Claude Code in this directory. `CLAUDE.md` pulls `AGENTS.md` into
+context at startup; the agent then reads `memory/` and the latest
+journal week before giving advice. Just say what happened:
 
 - "Brood 2 hatched today" → journal entry + `livestock.md` update
-- "TDS reading 180" → journal entry + `parameters.md` row appended
-- "Filter arrived" → journal entry + `pending.md` checkbox ticked + start install
+- "TDS reading 180" → journal entry + `data/measurements.csv` row
+- "Filter arrived" → journal entry + `pending.md` item resolved + start install
 - "Saw both adults at the surface this morning" → journal entry + maybe
   a `knowledge.md` update if the diagnosis changes
 
-Photos: drop them into the conversation, the agent saves them into the
-appropriate week folder alongside a note.
+Or use the slash commands for the stereotyped flows:
+
+- `/log <what happened>` — journal entry + memory updates + commit
+- `/status` — tank state summary
+- `/week` — wrap the week into a Highlights entry above
+- `/groom` — consistency sweep (drift, stale items, oversized photos)
+
+Photos: drop them into the conversation, the agent compresses and saves
+them into the appropriate week folder alongside a note.
