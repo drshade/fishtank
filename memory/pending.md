@@ -70,6 +70,21 @@ the journal records the completion.
   - Loose-fitting lid with air holes (shrimp jump when stressed)
   - Bare-bottom for easier health observation
   - One cholla wood / almond leaf for cover
+- **Pi Zero 2 W tank telemetry node** (Pi won early June 2026; decided
+  2026-06-12 — see journal). Read-only: observes and logs, never
+  actuates; smart plugs keep all control.
+  - **Phase 1 — temp logging**: DS18B20 waterproof probe (~€5) +
+    4.7kΩ pull-up on GPIO4 (1-Wire). Log every ~5 min to
+    `data/temp-log.csv` (high-frequency — separate from the curated
+    `measurements.csv`); ntfy.sh push alert outside 22-24°C; nightly
+    cron commits + pushes the log. First job: verify the canister
+    thermo's 24h hold (step 2 in "Canister transition" above).
+  - **Phase 2 — camera**: NoIR camera module + Zero-size CSI ribbon
+    adapter + small 850nm IR illuminator (invisible to shrimp).
+    Pre-dawn (~4am) snapshot covers the O2 blind-spot window; daily
+    snapshot + timelapse; live MJPEG stream viable on the Zero 2 W.
+    Snapshots go to a retention-capped dir, **not** `journal/` —
+    journal photos stay curated.
 - **Marktplaats listings** once colony plateaus — ~€0.50 each, funds
   hobby spend
 - **Possible second tank** — the inevitable shrimp-keeper's gateway
