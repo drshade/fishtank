@@ -85,6 +85,16 @@ the journal records the completion.
     snapshot + timelapse; live MJPEG stream viable on the Zero 2 W.
     Snapshots go to a retention-capped dir, **not** `journal/` —
     journal photos stay curated.
+  - **Phase 3 — leak sensor**: moisture sensor or bare probe wires
+    (~€2) on the cabinet floor under the canister, GPIO interrupt →
+    ntfy.sh push. Covers the below-waterline siphon risk; check after
+    every maintenance disconnect. Higher value while the Eheim
+    double-taps fit is still unconfirmed.
+  - **Phase 4 — e-ink status display**: small e-ink HAT (e.g.
+    Waveshare 2.13"). Shows current temp, last measurement, days since
+    water change, next date-gated task — rendered from this repo +
+    `data/temp-log.csv`. E-ink = zero light emission next to the
+    tank's photoperiod.
 - **Marktplaats listings** once colony plateaus — ~€0.50 each, funds
   hobby spend
 - **Possible second tank** — the inevitable shrimp-keeper's gateway
