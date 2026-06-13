@@ -4,10 +4,10 @@
 
 | Parameter | Target | Notes |
 |---|---|---|
-| GH | 6-8 | General hardness |
-| KH | 2-4 | Carbonate hardness; aquasoil tends to pull this down |
-| TDS | 150-250 ppm | Total dissolved solids |
-| pH | Stable > exact | Aquasoil lowers pH; consistency matters more than the number |
+| GH | 6-8 | Ca/Mg. **Measured 2 (2026-06-13) — low; raising slowly toward target with APT Sky (GH-only).** |
+| KH | ~11 (don't chase down) | Textbook neo range is 2-4, but this tank measured **11** (2026-06-13) and is stable. Aged Amazonia no longer strips it; tap top-ups accumulate it. Stability > textbook — don't fight it. |
+| TDS | 150-250 ppm | Total dissolved solids (no pen yet) |
+| pH | Stable > exact | **Measured 7.5 (2026-06-13) — alkaline; the soil's acid buffering is spent.** Consistency matters more than the number. |
 | Temperature | 22-24°C | Neos tolerate 18-25°C; aim mid-range |
 
 ## Measurements
@@ -16,10 +16,10 @@ Full append-only log: [`data/measurements.csv`](../data/measurements.csv)
 (`date,tds_ppm,gh,kh,ph,temp_c,notes`). New reading → append a CSV row,
 then refresh the latest-reading line below.
 
-**Latest**: 2026-05-26 — temp ~26°C (uncalibrated mercury thermometer,
-suspected to read high → real maybe 24-25; constancy-tracking, not
-absolute). No TDS/GH/KH readings yet — pen and test kits ordered, see
-`pending.md`.
+**Latest**: 2026-06-13 — GH 2, KH 11, pH 7.5; NH3/NO2/NO3 all 0. The
+hardness panel overturned the soft-water assumption: calcium-poor but
+carbonate-rich and alkaline (see `knowledge.md` "Water source"). No TDS
+yet (pen not arrived).
 
 _Calibration: to trust absolute temp, dunk the thermometer in well-stirred
 ice water (= 0°C exactly) and note the offset; subtract it from tank
@@ -27,9 +27,11 @@ readings._
 
 ## Remineralisation
 
-- Remineralise top-off water once the GH/KH+ arrives (ordered — see
-  `pending.md` for product and ETA). Rationale: `knowledge.md`
-  ("Water source").
+- **GH-only** booster (APT Sky — Ca/Mg, leaves KH/pH alone), **not**
+  GH/KH+ — KH is already 11. Raise GH 2 → ~6 *slowly* (babies present;
+  sudden hardness swings cause bad molts). Rationale and the corrected
+  water profile: `knowledge.md` ("Water source"). Product/ETA:
+  `pending.md`.
 
 ## Water change protocol (current — babies present)
 

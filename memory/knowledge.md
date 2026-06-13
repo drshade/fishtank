@@ -142,14 +142,24 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   copper-sensitive; water sitting in pipes overnight leaches metals
   (copper; possibly lead in older buildings). Habit: run the cold tap
   until properly cold (= drawing from the main) before collecting.
-- **Tap is a mild remineraliser here.** Amsterdam tap is moderately hard
-  (~GH 8, real KH). The ADA Amazonia actively strips KH/GH, so tap
-  top-ups have been partly counteracting the soil — part of why the
-  nerites lasted as long as they did before shell erosion showed. So:
-  **never switch to pure RO without remineralising** (would accelerate
-  shell erosion). A dedicated GH/KH remineraliser is still the right
-  buy (ordered — see `pending.md` for which one and when it lands):
-  controlled, repeatable GH/KH vs tap's seasonal variation.
+- **Water profile measured 2026-06-13 — supersedes the earlier
+  soft-water assumption: GH 2, KH 11, pH 7.5.** Not soft and acidic:
+  calcium-poor but carbonate-rich and alkaline. The ADA Amazonia is
+  ~7 months old and its acid/KH buffering is spent (fresh Amazonia holds
+  pH ~6.5 and strips KH toward 0). It still grabs Ca/Mg via cation
+  exchange, so GH stays low, while carbonate from tap top-ups accumulates
+  and drives KH/pH up. Consequences:
+  - **Raise GH, leave KH/pH alone.** Dose a **GH-only** booster (APT Sky:
+    Ca/Mg, no KH — see `pending.md`), not a GH/KH+ product, which would
+    push the already-high KH higher. Bring GH up *slowly* — babies
+    present, sudden hardness swings cause bad molts.
+  - **KH 11 is fine for neos and stable — don't chase it down.**
+    Destabilising stable water to hit a textbook number is the wrong
+    trade with broods in the tank.
+  - **Never switch to pure RO without remineralising.** Still true. Long
+    term, RO + full remineralise would let you set GH and KH
+    independently (tap is what's driving KH up) — a future option, not a
+    now-change.
 - **Slow introduction (small tube, ~20-30 min) is good practice** —
   keep it. Minimises osmotic/temp/pH shock; the slowness does real work,
   especially into a buffering aquasoil tank.

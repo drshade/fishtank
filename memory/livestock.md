@@ -94,15 +94,19 @@ strong colours through selection alone.
   exposing the iridescent turquoise nacre layer beneath. Confirmed on
   at least one snail by photo; second snail not yet photographed but
   likely the same.
-- **Cause**: soft/acidic water from ADA Amazonia substrate dissolves
-  calcium carbonate shells over time. Nerites are brackish-origin and
-  especially sensitive.
+- **Cause** (corrected 2026-06-13 after first measurements — GH 2,
+  KH 11, pH 7.5): **not** acid dissolution — the water is alkaline and
+  well-buffered. It's **calcium starvation**: GH 2 is too calcium-poor
+  for the nerites to maintain/repair shell. Brackish-origin nerites are
+  calcium-hungry and show the deficit first; the neos cope (three
+  successful broods), so the snails are the canary.
 - **Trajectory**: slow burn — erosion progresses over months/years,
   not days. Eventual risk is pitting → thin spots → shell failure.
-- **Fix**: remineralise top-off water (remineraliser ordered — see
-  `pending.md`). Belt-and-braces: small piece of cuttlebone tucked in
-  filter or behind rock — slow calcium buffer, on the to-buy list.
-- Slow-moving; start dosing when the remineraliser arrives.
+- **Fix**: raise GH with the APT Sky GH-only booster (see `pending.md`),
+  slowly — adds the calcium the shells need without touching KH.
+  **Cuttlebone is ruled out**: it's calcium *carbonate*, so it'd raise
+  the already-high KH, and barely dissolves at pH 7.5 anyway.
+- Slow-moving; start dosing when APT Sky arrives (Mon 2026-06-15).
 
 ## Bioload status (as of 2026-05-24)
 - 2 adults + ~20 shrimplets + a few snails

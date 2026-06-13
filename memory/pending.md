@@ -6,16 +6,10 @@ the journal records the completion.
 ## Arriving (ordered 2026-06-12)
 
 - [ ] TDS pen — XLUX Digital, Amazon.nl, arriving Mon 2026-06-15
-- [ ] GH/KH+ remineraliser — 2HR Aquarist APT Sky Plus (€16.90),
-      Amazon.nl, arriving Mon 2026-06-15
-- [ ] Ammonia/Nitrite/Nitrate test kit — Colombo Aqua triple (€38.69),
-      bol.com, arriving 2026-06-13. (Also have Tetra WaterTest Set:
-      pH, GH, KH, NO₂, CO₂ — full coverage between the two.)
-
-## To buy
-
-- [ ] Cuttlebone (pet/bird shop, ~€2) — slow-release calcium buffer for
-      nerite shells. Tuck in filter chamber or behind rock.
+- [ ] **GH-only** remineraliser — 2HR Aquarist APT Sky (€16.90), Amazon.nl,
+      arriving Mon 2026-06-15. Ca/Mg, leaves KH/pH untouched — correct for
+      the measured GH 2 / KH 11 profile (not GH/KH+). Trace copper → dose
+      conservatively, raise GH slowly (babies).
 
 ## To confirm
 
@@ -25,11 +19,12 @@ the journal records the completion.
 
 ## Canister transition — remaining steps
 
-1. **Ammonia test before removing Dennerle** (~2026-06-16 earliest; test
-   kit arrives 2026-06-13). Zero → remove Dennerle. Detectable → wait
-   another week. **Mandatory — no seed sponge was transferred.** Brood 2
-   released 2026-06-05, so removal also not before 2026-06-13 (1-week
-   buffer); the ammonia gate is the later of the two.
+1. **Ammonia gate — precondition met 2026-06-13** (NH3 0 / NO2 0). But
+   that's with *both* filters running, which proves the precondition, not
+   that the canister alone holds the load. Brood 2 is only ~8 days old —
+   don't pull the Dennerle on a fresh brood. Wait until brood 2 is ~2
+   weeks (≈2026-06-19), then remove the Dennerle and **test ammonia daily
+   for 3-4 days**. Detectable after removal → reinstate/wait a week.
 2. **Heater**: verify canister thermo holds 22-24°C for 24h → then remove
    the in-tank heater (paused during the heatwave — resume now it's
    cooled). Keep the old heater as backup, don't bin.
