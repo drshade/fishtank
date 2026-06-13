@@ -3,7 +3,7 @@
 Only what's still open lives here. When an item completes, delete it —
 the journal records the completion.
 
-## Arriving (ordered 2026-06-12)
+## Arriving Monday 2026-06-15
 
 - [ ] TDS pen — XLUX Digital, Amazon.nl, arriving Mon 2026-06-15
 - [ ] **GH-only** remineraliser — plain **2HR Aquarist APT Sky**

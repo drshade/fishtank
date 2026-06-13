@@ -48,15 +48,16 @@
   - Unused from box: supplied plastic intake/outflow (glass used instead);
     Eheim Double Taps ×2 (fit status TBC).
 
-## Filter — old Dennerle (parallel-running, removal ~2026-06-16 earliest)
+## Filter — old Dennerle (parallel-running; removal timing → pending.md)
 - Dennerle internal filter — still in tank, running side-by-side the
   canister as of 2026-05-26. Outflow repointed at the left-side glass to
   diffuse its jet while both filters run.
 - Earlier "clogs fast ~6 days after cleaning" was likely **incomplete
   squeezing**, not bioload — a thorough squeeze (2026-05-25) restored strong
   flow (confirmed 2026-05-27). Clean properly when flow drops.
-- Sponge left **intact** (not cut for seeding). Runs ~3 weeks parallel;
-  removed only after a zero-ammonia reading
+- Sponge left **intact** (not cut for seeding). Runs parallel until
+  removed. Ammonia gate met 2026-06-13 (zero); removal now brood-2-gated
+  — see `pending.md` (Canister transition) for current timing.
 - On removal: save the old sponge (frozen) for future QT-tank seeding
 
 ## Heater
