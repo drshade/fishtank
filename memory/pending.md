@@ -6,10 +6,17 @@ the journal records the completion.
 ## Arriving (ordered 2026-06-12)
 
 - [ ] TDS pen — XLUX Digital, Amazon.nl, arriving Mon 2026-06-15
-- [ ] **GH-only** remineraliser — 2HR Aquarist APT Sky (€16.90), Amazon.nl,
-      arriving Mon 2026-06-15. Ca/Mg, leaves KH/pH untouched — correct for
-      the measured GH 2 / KH 11 profile (not GH/KH+). Trace copper → dose
-      conservatively, raise GH slowly (babies).
+- [ ] Remineraliser — **decision pending before it ships Mon 2026-06-15.**
+      Ordered **APT Sky PLUS** (GH+KH booster + shrimp minerals, 150g,
+      €16.90, Amazon.nl). Problem: it raises KH too (~+0.5 dKH per +1.8
+      dGH) and buffers pH to 7.2-7.6 — designed to lift soft/RO water,
+      wrong way round for KH-11 water, and ratchets KH up over repeated
+      dosing (no export here; tap top-ups add KH too).
+      **Recommended: swap to plain APT Sky (GH-only, leaves KH/pH alone)**
+      or a GH-only shrimp mineral (SaltyShrimp Bee Shrimp GH+). If kept,
+      usable — the one-time KH bump correcting GH 2→6 is only ~+1 dKH —
+      just suboptimal long-term. Either way: trace copper → dose
+      conservatively; raise GH slowly (babies).
 
 ## To confirm
 
