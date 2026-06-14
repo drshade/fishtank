@@ -105,9 +105,12 @@ All Shelly-native; integrates with the existing Gen4 strips + Shelly app
     poll + compute, fine for slow tank temps) → append
     `data/shelly-log.csv` → commit + push. **Auth key stays OUT of the
     repo** (env/ignored file). Pin Shelly devices to static IPs.
-  - **Pi = camera only**: Pi Zero 2 W (won early June 2026) + **standard
-    (IR-cut) Camera Module 3 Wide** (12MP, 102° FOV, 5cm focus) + Zero CSI
-    ribbon. **Standard, not NoIR** (decided 2026-06-14): the daily
+  - **Pi = camera only**: Pi Zero 2 W**H** (with headers; won early June
+    2026) + **standard (IR-cut) Camera Module 3 Wide** (12MP, 102° FOV,
+    5cm focus). **Only the camera is still to buy** — the Zero kit already
+    includes the case (3 lids) and the CSI ribbon (15-pin camera → 22-pin
+    Zero, confirmed on hand). **Standard, not NoIR** (decided 2026-06-14):
+    the daily
     published photo needs accurate colour, and NoIR's reddish daytime cast
     would ruin it. Night vision dropped — the pre-dawn O2 check it existed
     for is now covered by the Shelly power-dropout alarm + night airstone +
@@ -120,9 +123,12 @@ All Shelly-native; integrates with the existing Gen4 strips + Shelly app
     - **Long-term timelapse**: one frame/day from a **fixed** mount builds
       a growth timelapse (carpet filling in, colony scaling). Fixed framing
       essential — the 3D bracket must register position repeatably.
-    - Mount a couple cm off the glass with a shroud to kill room
-      reflections (matters in daylight too). Parts/gotchas (GPIO header,
-      CSI ribbon): journal 2026-06-12.
+    - **Mount: use the 3D-printed bracket, not the case's camera lid.**
+      The soldered GPIO header (factory WH — not removable) fouls that
+      lid, but the camera uses the CSI connector not GPIO, so the header
+      is irrelevant electrically. The bracket also gives the fixed framing
+      the timelapse needs. Sit it a couple cm off the glass with a shroud
+      to kill room reflections (daylight too).
   - **3D prints** (dry-side only — filament rule in `knowledge.md`
     "3D prints and the tank"): camera + IR bracket with fixed framing;
     Pi case; desk-fan mount; airline/hose clips; probe-wire rim guide.
