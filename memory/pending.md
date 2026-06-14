@@ -116,13 +116,21 @@ All Shelly-native; integrates with the existing Gen4 strips + Shelly app
     for is now covered by the Shelly power-dropout alarm + night airstone +
     Pill temp alarm. **No IR illuminator** needed. (BME280 / DIY leak /
     e-ink also dropped — superseded by the BLU H&T and Flood.)
-    - **Daily photo → journal**: cron shoots one frame/day → own dir (e.g.
-      `camera/`), **not** `journal/` (a photo/day = ~365 imgs/yr in git
-      history forever). A *curated* pick graduates into journal/README.
-      Compress per the photo convention (≤1600px JPEG).
-    - **Long-term timelapse**: one frame/day from a **fixed** mount builds
-      a growth timelapse (carpet filling in, colony scaling). Fixed framing
-      essential — the 3D bracket must register position repeatably.
+    - **Trigger model — Pi always-on** (~0.5W ≈ €2/yr; simpler + safer
+      than power-cycling a Zero, which risks SD corruption unless on a
+      read-only rootfs). Two capture modes, two triggers, two folders:
+      - **Scheduled timelapse frame** — cron shoots one frame/day at a
+        *fixed time* (consistent light) → `camera/timelapse/`. High volume
+        (~365/yr): keep these **out of the curated main repo** — Pi-local
+        + backed up elsewhere (or a separate `fishtank-timelapse` repo);
+        commit only the rendered video here. Don't leave frames SD-only (an
+        SD failure loses the whole timelapse). Fixed framing essential —
+        the 3D bracket must register position repeatably.
+      - **Button-triggered journal shot** — BLU button → Shelly → HTTP to
+        the running Pi → ad-hoc capture into a staging dir
+        `camera/captures/`. **Not** auto-dumped into `journal/`: a curated
+        pick graduates into a journal entry via `/log` (keeps the journal
+        hand-picked). Compress per the photo convention (≤1600px JPEG).
     - **Mount: use the 3D-printed bracket, not the case's camera lid.**
       The soldered GPIO header (factory WH — not removable) fouls that
       lid, but the camera uses the CSI connector not GPIO, so the header
