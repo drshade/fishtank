@@ -105,13 +105,24 @@ All Shelly-native; integrates with the existing Gen4 strips + Shelly app
     poll + compute, fine for slow tank temps) → append
     `data/shelly-log.csv` → commit + push. **Auth key stays OUT of the
     repo** (env/ignored file). Pin Shelly devices to static IPs.
-  - **Pi = camera only**: Pi Zero 2 W (won early June 2026) + NoIR module
-    + Zero CSI ribbon + 850nm IR illuminator. Pre-dawn (~4am) snapshot
-    covers the O2 blind-spot window Shelly can't; daily snapshot +
-    timelapse; live MJPEG viable on the Zero 2 W. Snapshots → a
-    retention-capped dir, **not** `journal/`. Parts/gotchas (GPIO header,
-    CSI ribbon): journal 2026-06-12. BME280 and DIY leak/e-ink dropped —
-    superseded by the BLU H&T and Flood.
+  - **Pi = camera only**: Pi Zero 2 W (won early June 2026) + **standard
+    (IR-cut) Camera Module 3 Wide** (12MP, 102° FOV, 5cm focus) + Zero CSI
+    ribbon. **Standard, not NoIR** (decided 2026-06-14): the daily
+    published photo needs accurate colour, and NoIR's reddish daytime cast
+    would ruin it. Night vision dropped — the pre-dawn O2 check it existed
+    for is now covered by the Shelly power-dropout alarm + night airstone +
+    Pill temp alarm. **No IR illuminator** needed. (BME280 / DIY leak /
+    e-ink also dropped — superseded by the BLU H&T and Flood.)
+    - **Daily photo → journal**: cron shoots one frame/day → own dir (e.g.
+      `camera/`), **not** `journal/` (a photo/day = ~365 imgs/yr in git
+      history forever). A *curated* pick graduates into journal/README.
+      Compress per the photo convention (≤1600px JPEG).
+    - **Long-term timelapse**: one frame/day from a **fixed** mount builds
+      a growth timelapse (carpet filling in, colony scaling). Fixed framing
+      essential — the 3D bracket must register position repeatably.
+    - Mount a couple cm off the glass with a shroud to kill room
+      reflections (matters in daylight too). Parts/gotchas (GPIO header,
+      CSI ribbon): journal 2026-06-12.
   - **3D prints** (dry-side only — filament rule in `knowledge.md`
     "3D prints and the tank"): camera + IR bracket with fixed framing;
     Pi case; desk-fan mount; airline/hose clips; probe-wire rim guide.
