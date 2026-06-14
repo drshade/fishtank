@@ -13,6 +13,24 @@ the journal records the completion.
 - [ ] **Return APT Sky PLUS** (GH+KH version, ordered by mistake) — also
       arrives Mon 2026-06-15. Raises KH, wrong for this tank; send back.
 
+## Arriving — Shelly monitoring kit (ordered 2026-06-14, ~€78)
+
+All Shelly-native; integrates with the existing Gen4 strips + Shelly app
+(no Home Assistant). Full reasoning: journal 2026-06-14.
+
+- [ ] **BLU RC Button 4 ZB** (€19.24) — 4-button desk remote for
+      phone-free socket control. Pair in **Bluetooth mode** (any button
+      ×4 → blue LED), ignore Zigbee; strips are the gateway. Map any
+      flow/aeration-cutting action as a **timed auto-resume scene only**
+      — see `knowledge.md` "Automation safety".
+- [ ] **BLU H&T Display ZB** (€25.41) — ambient air temp/humidity + light
+      sensor + e-ink readout. BLE via strip gateway, ~2yr battery.
+- [ ] **The Pill** (€9.98) + **DS18B20 3.5mm waterproof probe** (€4.11) —
+      water temp, scriptable. USB-C powered → **always-on socket only**,
+      never switched (else monitoring dies silently).
+- [ ] **Flood S Gen4** (€19.24) — leak sensor for the cabinet floor under
+      the canister. Re-check placement after every maintenance disconnect.
+
 ## To confirm
 
 - [ ] Eheim Double Tap 12/16mm × 2 — arrival/fit unconfirmed; wanted for
@@ -67,44 +85,36 @@ the journal records the completion.
   - Loose-fitting lid with air holes (shrimp jump when stressed)
   - Bare-bottom for easier health observation
   - One cholla wood / almond leaf for cover
-- **Pi Zero 2 W tank telemetry node** (Pi won early June 2026; decided
-  2026-06-12 — see journal). Read-only: observes and logs, never
-  actuates; smart plugs keep all control.
-  - **Phase 1 — temp logging**: DS18B20 waterproof probe (~€5) +
-    4.7kΩ pull-up on GPIO4 (1-Wire). Log every ~5 min to
-    `data/temp-log.csv` (high-frequency — separate from the curated
-    `measurements.csv`); ntfy.sh push alert outside 22-24°C; nightly
-    cron commits + pushes the log. First job: verify the canister
-    thermo's 24h hold (step 2 in "Canister transition" above).
-    Plus **BME280 ambient temp/RH sensor** (~€5, I2C) logging room
-    conditions in the same CSV — water-vs-ambient delta quantifies
-    fan cooling; RH predicts evaporative-cooling effectiveness and
-    top-up cadence during heatwaves.
-  - **Phase 2 — camera**: NoIR camera module + Zero-size CSI ribbon
-    adapter + small 850nm IR illuminator (invisible to shrimp).
-    Pre-dawn (~4am) snapshot covers the O2 blind-spot window; daily
-    snapshot + timelapse; live MJPEG stream viable on the Zero 2 W.
-    Snapshots go to a retention-capped dir, **not** `journal/` —
-    journal photos stay curated.
-  - **Phase 3 — leak sensor**: moisture sensor or bare probe wires
-    (~€2) on the cabinet floor under the canister, GPIO interrupt →
-    ntfy.sh push. Covers the below-waterline siphon risk; check after
-    every maintenance disconnect. Higher value while the Eheim
-    double-taps fit is still unconfirmed.
-  - **Phase 4 — e-ink status display**: small e-ink HAT (e.g.
-    Waveshare 2.13"). Shows current temp, last measurement, days since
-    water change, next date-gated task — rendered from this repo +
-    `data/temp-log.csv`. E-ink = zero light emission next to the
-    tank's photoperiod.
-  - **Print list** (all dry-side — see `knowledge.md` "3D prints and
-    the tank" for the filament rule): camera + IR illuminator bracket
-    with fixed framing and cable channel; e-ink enclosure; desk-fan
-    mount that registers against rim/cabinet for repeatable heatwave
-    cooling; Pi case with sensor strain relief; leak-sensor floor
-    holder; hose/airline clips; probe-wire rim guide.
-  - **Parts to order**: see journal 2026-06-12 for the full list with
-    notes (GPIO header soldering, BME280-clone and powerbank
-    pass-through gotchas).
+- **Tank monitoring — Shelly-native, Pi for camera only** (rescoped
+  2026-06-14; supersedes the original Pi-centric plan in journal
+  2026-06-12). Power-sensing is native to the strips and impossible on
+  the Pi; leak/ambient/control are better as finished Shelly devices; one
+  app, no hub. Hardware ordered — see "Arriving — Shelly monitoring kit".
+  - **Equipment-failure alarm**: Shelly Script on the strip watches the
+    canister socket's active power → push on dropout (the pre-dawn O2
+    single-point-of-failure). Catches total power loss, **not** an
+    airlock/partial clog (motor still spins, power unchanged).
+  - **Heater duty / stuck-heater**: heater socket power = clean on/off
+    signal; alarm on continuous draw when it shouldn't fire.
+  - **Logging**: Shelly app auto-logs temp/humidity/water-temp (free tier
+    hourly, CSV export). `measurements.csv` stays for chemistry
+    (GH/KH/pH/ammonia) the sensors can't read.
+  - **Future — automated extraction**: Pi cron → Shelly Cloud Control API
+    (v2; or local RPC for the WiFi devices) → pull readings, compute 24h
+    min/max/current locally (no documented sensor-history endpoint —
+    poll + compute, fine for slow tank temps) → append
+    `data/shelly-log.csv` → commit + push. **Auth key stays OUT of the
+    repo** (env/ignored file). Pin Shelly devices to static IPs.
+  - **Pi = camera only**: Pi Zero 2 W (won early June 2026) + NoIR module
+    + Zero CSI ribbon + 850nm IR illuminator. Pre-dawn (~4am) snapshot
+    covers the O2 blind-spot window Shelly can't; daily snapshot +
+    timelapse; live MJPEG viable on the Zero 2 W. Snapshots → a
+    retention-capped dir, **not** `journal/`. Parts/gotchas (GPIO header,
+    CSI ribbon): journal 2026-06-12. BME280 and DIY leak/e-ink dropped —
+    superseded by the BLU H&T and Flood.
+  - **3D prints** (dry-side only — filament rule in `knowledge.md`
+    "3D prints and the tank"): camera + IR bracket with fixed framing;
+    Pi case; desk-fan mount; airline/hose clips; probe-wire rim guide.
 - **Marktplaats listings** once colony plateaus — ~€0.50 each, funds
   hobby spend
 - **Possible second tank** — the inevitable shrimp-keeper's gateway

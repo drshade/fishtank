@@ -220,6 +220,24 @@ Confirmed to fix the issue here.
 - PLA is wrong for submersion regardless of safety — it softens and
   slowly degrades in warm water.
 
+## Automation safety (smart plugs / buttons / scripts) — settled 2026-06-14
+
+Anything that can cut **flow or aeration** must fail safe. Once the
+Dennerle's out the canister is the sole source of surface agitation;
+killing it is the pre-dawn O2 near-miss waiting to happen.
+
+- **No manual "filter off" control.** Any button or scene that pauses the
+  filter, pump, or airstone must be a **timed action that auto-resumes**
+  (off 5-10 min → back on automatically), never a toggle you could
+  forget. Applies especially to a BLU RC Button "feeding mode".
+- **Monitoring must not depend on a switched socket.** The Pill (water
+  temp) runs on USB-C — put it on an always-on socket, or its readings
+  vanish the moment that socket is automated off.
+- **Equipment alarms catch power loss, not flow loss.** A canister
+  power-dropout alert is real protection; an airlock with the motor still
+  spinning won't trip it. Power monitoring is a safety net, not a flow
+  guarantee — eyes/camera still matter.
+
 ## Equipment aesthetic principles (Tom's stated preferences)
 
 - Removing in-tank equipment is the real aesthetic win (heater,
