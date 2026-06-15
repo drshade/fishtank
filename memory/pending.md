@@ -31,11 +31,14 @@ All Shelly-native; integrates with the existing Gen4 strips + Shelly app
 - [ ] **Flood S Gen4** (€19.24) — leak sensor for the cabinet floor under
       the canister. Re-check placement after every maintenance disconnect.
 
-## To confirm
+## Open jobs
 
-- [ ] Eheim Double Tap 12/16mm × 2 — arrival/fit unconfirmed; wanted for
-      click-disconnect maintenance (drop the canister without spilling
-      either line).
+- [ ] **Brace the lily-pipe→filter hose bends.** The 12/16mm tube wants to
+      fold at the sharp 90° turn behind the bookshelf. Fix the *fixed* runs
+      only (they never move now the taps handle disconnects): anti-kink
+      spring + saddle clip, a 3D-printed curved cradle (dry-side), or open
+      up the shelf hole for a wider radius. Support both legs, never clamp
+      the apex. Re-check ripple after — freeing a kink can change flow.
 
 ## Canister transition — remaining steps
 

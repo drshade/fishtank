@@ -46,8 +46,13 @@
     up to fully cover the inflow holes (baby-safe). The back-centred flow
     alone cleared the front-right dead corner, so the old plan to move the
     inflow into that corner is dropped.
-  - Unused from box: supplied plastic intake/outflow (glass used instead);
-    Eheim Double Taps ×2 (fit status TBC).
+  - **Eheim Double Taps ×2 installed** on both lines between filter and
+    lily pipes (confirmed 2026-06-15) — shut both to isolate each end, then
+    click-disconnect to drop the canister for service without draining
+    either side. Service model: fixed lily-pipe→tap runs stay braced in
+    place; only the tap→canister stub moves. No hose slack needed (slack is
+    what kinks — the tap is the joint, not the hose).
+  - Unused from box: supplied plastic intake/outflow (glass used instead).
 
 ## Filter — old Dennerle (removed 2026-06-14)
 - Pulled 2026-06-14 after ~3 weeks parallel-running; **the canister is now
