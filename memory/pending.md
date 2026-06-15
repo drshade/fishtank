@@ -3,15 +3,19 @@
 Only what's still open lives here. When an item completes, delete it —
 the journal records the completion.
 
-## Arriving Monday 2026-06-15
+## Active now (arrived 2026-06-15)
 
-- [ ] TDS pen — XLUX Digital, Amazon.nl, arriving Mon 2026-06-15
-- [ ] **GH-only** remineraliser — plain **2HR Aquarist APT Sky**
-      (Ca/Mg, leaves KH/pH alone — correct for the GH 2 / KH 11 profile),
-      Amazon.nl, arriving Mon 2026-06-15. Trace copper → dose
-      conservatively; raise GH 2 → ~6 slowly (babies).
-- [ ] **Return APT Sky PLUS** (GH+KH version, ordered by mistake) — also
-      arrives Mon 2026-06-15. Raises KH, wrong for this tank; send back.
+- [ ] **Dose APT Sky GH booster** (2HR Aquarist, Ca/Mg, no KH). Raise GH 2
+      → low end **~4-5, not 6** (TDS already 494; dosing adds TDS). Method:
+      per-litre rate off the bottle for ~17L water, take that-or-under for a
+      **~+1 dGH first increment**; dilute in tank water, pour into the
+      outflow (evening); **retest GH + TDS next morning** after overnight
+      mixing; repeat daily until ~4-5. Conservative (babies = bad molts on
+      swings; trace copper). Watch shrimp after each dose. Log dose + retest.
+- [ ] **Return APT Sky PLUS** (GH+KH, ordered by mistake) — raises KH
+      (already 11), wrong for this tank; send back, don't use.
+
+(TDS pen arrived — tank 494 / tap 274 recorded; see `parameters.md`.)
 
 ## Arriving — Shelly monitoring kit (ordered 2026-06-14, ~€78)
 
