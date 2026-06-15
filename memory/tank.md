@@ -40,25 +40,26 @@
     media colonising from scratch off the tank's bacterial reservoir.
     Dennerle removal is **ammonia-test-gated, not calendar-gated** (see
     journal 2026-05-26).
-  - **Glass lily pipes** (GreenWorks 13mm inflow + outflow) fitted from the
-    start. Currently both at the back wall, ~centred — **temporary**.
-    Stainless Filter Guard slid up to fully cover the inflow holes
-    (baby-safe). Reposition after Dennerle removal: inflow → front-right
-    dead corner, outflow angled along long axis just below waterline.
+  - **Glass lily pipes** (GreenWorks 13mm inflow + outflow), **back wall,
+    ~centred — Tom's settled preferred position** (moved there gradually
+    over time, confirmed permanent 2026-06-15). Stainless Filter Guard slid
+    up to fully cover the inflow holes (baby-safe). The back-centred flow
+    alone cleared the front-right dead corner, so the old plan to move the
+    inflow into that corner is dropped.
   - Unused from box: supplied plastic intake/outflow (glass used instead);
     Eheim Double Taps ×2 (fit status TBC).
 
-## Filter — old Dennerle (parallel-running; removal timing → pending.md)
-- Dennerle internal filter — still in tank, running side-by-side the
-  canister as of 2026-05-26. Outflow repointed at the left-side glass to
-  diffuse its jet while both filters run.
-- Earlier "clogs fast ~6 days after cleaning" was likely **incomplete
-  squeezing**, not bioload — a thorough squeeze (2026-05-25) restored strong
-  flow (confirmed 2026-05-27). Clean properly when flow drops.
-- Sponge left **intact** (not cut for seeding). Runs parallel until
-  removed. Ammonia gate met 2026-06-13 (zero); removal now brood-2-gated
-  — see `pending.md` (Canister transition) for current timing.
-- On removal: save the old sponge (frozen) for future QT-tank seeding
+## Filter — old Dennerle (removed 2026-06-14)
+- Pulled 2026-06-14 after ~3 weeks parallel-running; **the canister is now
+  the sole filter** (and sole surface agitation — night airstone is now
+  load-bearing, see `knowledge.md` automation safety).
+- Ammonia precondition was met 2026-06-13 (zero) with *both* running, which
+  proved the system, not canister-solo — so canister-solo load is being
+  verified by **daily ammonia tests for 3-4 days** (see `pending.md`).
+- Sponge + filter body kept as a spare, not binned. **Not** added to the
+  canister (suboptimal media + dumps detritus), and **not** relied on as QT
+  bio-seed — household freezing won't keep nitrifiers alive over the 6-12mo
+  to QT setup; seed QT from live canister media then instead (`pending.md`).
 
 ## Heater
 - Small in-tank heater, **back-left, immediately next to the filter**
@@ -99,21 +100,13 @@ Tetra AirSilent Mini pump
 - CO2 diffuser: back-right corner (hidden behind plants)
 - **Airstone 1**: right-side wall, halfway along (between back-right
   CO2 and front-right dead corner)
-- **Dead corner**: **front-right** — accumulates detritus because current
-  flow doesn't reach it. Water circulates from back-left filter outflow
-  and loses momentum by the time it reaches the opposite front corner.
-- Manual maintenance for now: turkey baster spot-suck during water
-  changes; gently stir top cm of substrate with chopstick to release mulm
-- Permanent fix (with new canister): **inflow** in front-right dead
-  corner (actively sucks detritus out), **outflow** opposite side just
-  below waterline, angled along the long axis (creates continuous surface
-  ripple, full circulation loop, no dead zone)
-- **Aesthetic implication of front-right inflow**: lily pipe + mesh
-  guard will be visible at the front of the tank, not hidden at the
-  back. Functionally correct (that's where the detritus is) but worth
-  knowing. Alternative: keep inflow at back, outflow at front-right
-  blowing into the dead corner. Less effective at removing existing
-  detritus but more hidden. Decide at install time.
+- **Front-right corner — dead zone RESOLVED 2026-06-15.** The back-centred
+  canister flow (now sole filter) reaches it; it no longer accumulates
+  detritus. Only a thin mulm layer remains around the hairgrass base, left
+  deliberately (baby food, ammonia 0). The planned front-right inflow
+  reposition is dropped — back-centred is preferred and works. To clear the
+  base film if wanted: gentle stir above the carpet, let the filter polish
+  it (mesh guard protects the babies); don't siphon into the carpet.
 
 ## Not in the tank, deliberately decided against
 - Sponge filter as primary — discussed and rejected; canister + sponged

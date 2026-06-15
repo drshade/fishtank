@@ -39,26 +39,26 @@ All Shelly-native; integrates with the existing Gen4 strips + Shelly app
 
 ## Canister transition — remaining steps
 
-1. **Ammonia gate — precondition met 2026-06-13** (NH3 0 / NO2 0). But
-   that's with *both* filters running, which proves the precondition, not
-   that the canister alone holds the load. Brood 2 is only ~8 days old —
-   don't pull the Dennerle on a fresh brood. Wait until brood 2 is ~2
-   weeks (≈2026-06-19), then remove the Dennerle and **test ammonia daily
-   for 3-4 days**. Detectable after removal → reinstate/wait a week.
+Dennerle removed **2026-06-14** (~5 days ahead of the brood-2 gate; done).
+Lily pipes settled **back-centred** (Tom's preferred) — repositioning step
+done, front-right inflow plan dropped, dead corner already cleared.
+Remaining:
+
+1. **Daily ammonia test, 3-4 days post-removal** (through ~2026-06-18).
+   The 2026-06-13 zero was with *both* filters; canister-solo load is
+   unproven. Mature Amazonia substrate carries most of the biofilter so
+   risk is modest — but verify. Detectable NH3/NO2 → small daily water
+   changes, watch the babies, don't panic.
 2. **Heater**: verify canister thermo holds 22-24°C for 24h → then remove
-   the in-tank heater (paused during the heatwave — resume now it's
-   cooled). Keep the old heater as backup, don't bin.
-3. **Reposition lily pipes** after Dennerle out: inflow → front-right
-   dead corner (Option A) or outflow blowing into the corner (Option B) —
-   decide then (see `memory/tank.md`). Outflow angled along long axis,
-   just below waterline. Re-check the flow throttle afterwards (less
-   total flow may need the outflow opened a touch).
-4. **Don't open/deep-clean the canister for ~1 month** after Dennerle
-   removal (let bacteria fully colonise the new media).
-5. **Old Dennerle sponge**: squeeze out in tank water, then **freeze in a
-   sealed bag for future QT-tank seeding** — recommended, free insurance —
-   or bin. Don't add it to the canister (suboptimal media + dumps
-   accumulated detritus).
+   the in-tank heater (resume verification now the heatwave's past). Keep
+   the old heater as backup, don't bin.
+3. **Check surface ripple** now the Dennerle jet is gone — if it's weaker,
+   open the canister outflow valve a touch (sole agitation = O2 matters).
+4. **Don't open/deep-clean the canister for ~1 month** post-removal (let
+   the media fully colonise as sole filter).
+5. **Old Dennerle sponge/filter**: kept as a spare, not binned. **Don't
+   rely on it as QT bio-seed** — household freezing won't preserve
+   nitrifiers over 6-12 months; seed QT from live canister media at setup.
 
 ## Watching for
 
@@ -66,8 +66,8 @@ All Shelly-native; integrates with the existing Gen4 strips + Shelly app
   release ~early July 2026. See `livestock.md`.
 - **No big water changes before ~2026-06-19** (2 weeks after brood 2's
   2026-06-05 release; 3 weeks if convenient).
-- **Detritus reduction** in the front-right corner once a lily pipe is
-  positioned for it (step 3 above). Should self-clean.
+- **Ammonia daily** for 3-4 days post-Dennerle-removal (through
+  ~2026-06-18) — canister-solo load verification (see Canister transition).
 - **Tetra AirSilent Mini noise / bubble quality** — Tom's call whether
   the throttled setup is tolerable long-term. Pump must stay on its
   towel (see `knowledge.md` "Air pump placement").
@@ -79,8 +79,9 @@ All Shelly-native; integrates with the existing Gen4 strips + Shelly app
 - **QT tank for new shrimp introductions** (6-12 months out, when
   refreshing genetics):
   - 5-15L plastic tub (Really Useful Box) or cheap small glass tank
-  - Sponge filter driven by air pump + airline — *use the frozen
-    Dennerle sponge as instant bio-seed*
+  - Sponge filter driven by air pump + airline — **seed from live canister
+    media at setup time** (the stored Dennerle sponge won't hold live
+    nitrifiers over 6-12 months; don't count on it as a bio-seed)
   - Nano heater (~€10-15)
   - Loose-fitting lid with air holes (shrimp jump when stressed)
   - Bare-bottom for easier health observation
