@@ -16,10 +16,11 @@ Full append-only log: [`data/measurements.csv`](../data/measurements.csv)
 (`date,tds_ppm,gh,kh,ph,temp_c,notes`). New reading → append a CSV row,
 then refresh the latest-reading line below.
 
-**Latest**: 2026-06-15 — **TDS: tank 494, tap 274** (first readings, XLUX
-pen). Tap is the floor, so 150-250 is RO-only; realistic tap home ~290-330
-(see TDS target note). The 494 is ~220 ppm of removable in-tank
-concentration above tap. Also NH3 spot-check ~0 (faint yellow, no green),
+**Latest**: 2026-06-15 — **TDS 400 after a ~43% water change** (494 → 400
+vs tap 274; Tom intended ~25%, pulled more). First readings same day: tank
+494, tap 274 (XLUX pen). Tap is the floor; the 494 was ~220 ppm of removable
+concentration above it. GH may have nudged up from the harder tap — check
+tomorrow before dosing. Also NH3 spot-check ~0 (faint yellow, no green),
 first reading on canister-solo after the Dennerle was pulled 2026-06-14;
 substrate holding the biofilter (continue daily through ~2026-06-18). Full
 panel 2026-06-13 — GH 2, KH 11, pH 7.5; NH3/NO2/NO3 all 0; the hardness
