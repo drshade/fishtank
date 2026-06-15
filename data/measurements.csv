@@ -1,3 +1,4 @@
 date,tds_ppm,gh,kh,ph,temp_c,notes
 2026-05-26,,,,,26,"Uncalibrated mercury thermometer, suspected to read high (real maybe 24-25); constancy-tracking only. Ambient 28.1C / 37% RH, heatwave."
 2026-06-13,,2,11,7.5,,"First full panel (Colombo Aqua + Tetra). NH3 0, NO2 0, NO3 0. GH endpoint = brief green flash at drop 2 on two attempts = ~2 dGH (very soft). KH 11, pH 7.5 = alkaline, well-buffered. Low GH + high KH confirmed; aged Amazonia buffering spent. No TDS yet (pen not arrived)."
+2026-06-15,,,,,,"NH3 spot-check ~0 (faint yellow, no green) — first reading on canister-solo (Dennerle pulled 2026-06-14). Substrate holding the biofilter as expected. Continue daily through ~2026-06-18."

@@ -16,10 +16,12 @@ Full append-only log: [`data/measurements.csv`](../data/measurements.csv)
 (`date,tds_ppm,gh,kh,ph,temp_c,notes`). New reading → append a CSV row,
 then refresh the latest-reading line below.
 
-**Latest**: 2026-06-13 — GH 2, KH 11, pH 7.5; NH3/NO2/NO3 all 0. The
-hardness panel overturned the soft-water assumption: calcium-poor but
-carbonate-rich and alkaline (see `knowledge.md` "Water source"). No TDS
-yet (pen not arrived).
+**Latest**: 2026-06-15 — NH3 spot-check ~0 (faint yellow, no green), first
+reading on canister-solo after the Dennerle was pulled 2026-06-14; substrate
+holding the biofilter (continue daily through ~2026-06-18). Full panel
+2026-06-13 — GH 2, KH 11, pH 7.5; NH3/NO2/NO3 all 0; the hardness panel
+overturned the soft-water assumption: calcium-poor but carbonate-rich and
+alkaline (see `knowledge.md` "Water source"). No TDS yet (pen not arrived).
 
 _Calibration: to trust absolute temp, dunk the thermometer in well-stirred
 ice water (= 0°C exactly) and note the offset; subtract it from tank
