@@ -159,7 +159,13 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   - **Never switch to pure RO without remineralising.** Still true. Long
     term, RO + full remineralise would let you set GH and KH
     independently (tap is what's driving KH up) — a future option, not a
-    now-change.
+    now-change. **TDS 494 (2026-06-15, first pen reading) strengthens this
+    case**: TDS is ~2× the 150-250 target but mostly carbonate + Na, not
+    Ca — so the water is mineral-loaded *and* calcium-poor at once. With
+    tap you can't both lower TDS and raise GH (dosing GH adds TDS); only an
+    RO-cut breaks that. Meanwhile **dose GH to the low end (~4-5)** to
+    limit the TDS climb. Don't crash TDS down with big changes (babies;
+    stability) — measure tap TDS first to know the achievable floor.
 - **Slow introduction (small tube, ~20-30 min) is good practice** —
   keep it. Minimises osmotic/temp/pH shock; the slowness does real work,
   especially into a buffering aquasoil tank.
