@@ -52,9 +52,7 @@ Remaining:
 2. **Heater**: verify canister thermo holds 22-24°C for 24h → then remove
    the in-tank heater (resume verification now the heatwave's past). Keep
    the old heater as backup, don't bin.
-3. **Check surface ripple** now the Dennerle jet is gone — if it's weaker,
-   open the canister outflow valve a touch (sole agitation = O2 matters).
-4. **Don't open/deep-clean the canister for ~1 month** post-removal (let
+3. **Don't open/deep-clean the canister for ~1 month** post-removal (let
    the media fully colonise as sole filter).
 5. **Old Dennerle sponge/filter**: kept as a spare, not binned. **Don't
    rely on it as QT bio-seed** — household freezing won't preserve
