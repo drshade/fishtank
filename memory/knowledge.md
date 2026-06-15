@@ -159,13 +159,23 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   - **Never switch to pure RO without remineralising.** Still true. Long
     term, RO + full remineralise would let you set GH and KH
     independently (tap is what's driving KH up) — a future option, not a
-    now-change. **TDS 494 (2026-06-15, first pen reading) strengthens this
-    case**: TDS is ~2× the 150-250 target but mostly carbonate + Na, not
-    Ca — so the water is mineral-loaded *and* calcium-poor at once. With
-    tap you can't both lower TDS and raise GH (dosing GH adds TDS); only an
-    RO-cut breaks that. Meanwhile **dose GH to the low end (~4-5)** to
-    limit the TDS climb. Don't crash TDS down with big changes (babies;
-    stability) — measure tap TDS first to know the achievable floor.
+    now-change. **TDS readings 2026-06-15 — tank 494, tap 274 — strengthen
+    this case and reset the target:**
+    - **150-250 is unreachable on tap.** Tap is 274, so even a full tap
+      change floors at 274. That target assumed RO. On tap the realistic
+      home is **~290-330** (tap + modest GH dose).
+    - The tank's 494 = 274 tap + ~220 ppm accumulated (evaporation top-ups
+      add minerals, only changes remove them). **Small water changes trend
+      it toward 274** — effective at stripping the excess, just floored at
+      tap. Resume normal small changes after the baby window (~2026-06-19);
+      no rush, don't crash it.
+    - Tank is mineral-loaded *and* calcium-poor at once (high KH/Na, GH 2).
+      With tap you can't both lower TDS and raise GH — dosing GH adds TDS.
+      Only an **RO-cut** breaks that (and would matter for the future QT
+      tank too). But 274 tap is fine water for neos — **RO is optimisation,
+      not rescue.** Meanwhile dose GH to the low end (~4-5).
+    - **Open decision: accept tap (revise target ~290-330, no kit) vs commit
+      to RO (textbook numbers + GH/KH independence).** No urgency.
 - **Slow introduction (small tube, ~20-30 min) is good practice** —
   keep it. Minimises osmotic/temp/pH shock; the slowness does real work,
   especially into a buffering aquasoil tank.
