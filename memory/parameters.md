@@ -4,7 +4,7 @@
 
 | Parameter | Target | Notes |
 |---|---|---|
-| GH | low end (~4-5), dosed | Ca/Mg. Tank **2** (2026-06-13); **tap is GH 0** (2026-06-15) → low GH is inherited from the source, not soil/consumption. **Water changes can't raise GH (they dilute it) — dosing is the only lever.** Needed for molts + nerite shells. |
+| GH | UNKNOWN — retest properly | ⚠ Both prior readings VOID (tank "2" 2026-06-13, tap "0" 2026-06-15) — **GH test method error**: stopped at the first green flash, not the full *held* green endpoint. Real GH higher (both), unknown. **Retest: drops until the whole vial holds green, count all.** Hold further dosing until then. |
 | KH | ~7-11 (don't chase) | Tank measured **11** (2026-06-13); **tap KH 7** (2026-06-15). Tank's 11 is tap's 7 concentrated by evaporation. Regular tap changes drift it toward 7 (closer to textbook) on their own — bonus, not a goal. |
 | TDS | tank ~290-330 on tap (150-250 is RO-only) | **Tank measured 494, tap 274 (both 2026-06-15).** 150-250 is unreachable on tap (274 floor) — that figure assumes RO. On tap the realistic home is ~290-330 (tap + modest GH dose); small water changes trend the 494 toward 274. Mostly carbonate (KH 11 ≈ 195 ppm) + Na, not Ca. Don't crash it (babies; stability). Decision tap-vs-RO pending — see `knowledge.md`. |
 | pH | Stable > exact | **Measured 7.5 (2026-06-13) — alkaline; the soil's acid buffering is spent.** Consistency matters more than the number. |
@@ -16,16 +16,15 @@ Full append-only log: [`data/measurements.csv`](../data/measurements.csv)
 (`date,tds_ppm,gh,kh,ph,temp_c,notes`). New reading → append a CSV row,
 then refresh the latest-reading line below.
 
-**Latest**: 2026-06-15 — **tap tested: GH 0, KH 7, TDS 274.** This corrects
-the picture: low tank GH is inherited from GH-0 tap (not soil-stripping —
-that inference was wrong); tank KH 11 / TDS 494 are the tap's 7 / 274
-concentrated by evaporation. So water changes *dilute* GH (the ~43% change
-today pulled tank GH ~2 → ~1) — **dosing is the only way to add calcium.**
-Tank TDS **400** after that change (was 494). NH3 spot-check ~0 (faint
-yellow) — first on canister-solo (Dennerle out 2026-06-14), substrate
-holding (continue daily ~through 2026-06-18). Full tank panel 2026-06-13 —
-GH 2, KH 11, pH 7.5, TDS 494; NH3/NO2/NO3 all 0. RO would only lower KH/TDS,
-not GH (already 0 from tap) — see `knowledge.md` "Water source".
+**Latest**: 2026-06-16 — **⚠ GH readings VOID (method error)**: both tank
+("2", 2026-06-13) and tap ("0", 2026-06-15) were stopped at the first green
+flash, not the held endpoint — real GH higher, unknown, **retest needed**.
+This suspends the GH-dependent story (low GH / dosing-only-lever /
+soil-stripping / RO reframe / nerite calcium-starvation). **Solid numbers:**
+TDS — tap 274, tank 494 → 400 (after ~43% change 2026-06-15) → 462 (after a
+1g GH dose 2026-06-16). KH — tank 11, tap 7. pH 7.5. NH3 ~0 on canister-solo
+(Dennerle out 2026-06-14; continue daily ~through 2026-06-18); NO2/NO3 0
+(2026-06-13). Check whether KH was read the same flawed way.
 
 _Calibration: to trust absolute temp, dunk the thermometer in well-stirred
 ice water (= 0°C exactly) and note the offset; subtract it from tank

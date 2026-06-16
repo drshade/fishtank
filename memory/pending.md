@@ -5,14 +5,17 @@ the journal records the completion.
 
 ## Active now (arrived 2026-06-15)
 
-- [ ] **GH dosing — in progress.** APT GH (gypsum, Ca/Mg, no KH). Raise GH
-      to low end **~4-5**. Label rate 10.5g/60L = 0.175 g/L → ~3g full for
-      ~17L (= maker target, we want less). **1g dosed 2026-06-16** (first
-      dose); **retest GH morning 2026-06-17** — that calibrates exact
-      grams-per-dGH, then top up to ~4-5 and stop. Tap is GH 0 so re-dose
-      after every water change. Method: weigh on the 0.1g scale, dose
-      **dry into the strong outflow** (slurry settles too fast to fraction;
-      17L dissolves it over hours). Watch shrimp after each dose.
+- [ ] **Re-test GH PROPERLY first — tank AND tap.** Prior readings were a
+      method error (stopped at first green flash). Correct method: add drops,
+      swirl, until the *whole vial holds green*; count every drop = dGH.
+      Until we have real numbers we don't actually know if GH was ever low.
+      Also check KH wasn't read the same flawed way.
+- [ ] **GH dosing — ON HOLD pending the retest.** APT GH (gypsum, Ca/Mg,
+      no KH); label 10.5g/60L = 0.175 g/L (~3g full for ~17L). **1g already
+      dosed 2026-06-16** (harmless even if GH was fine). Don't dose more
+      until the real GH is known — it may not be needed. If it is: weigh on
+      the 0.1g scale, dose **dry into the strong outflow**, raise slowly,
+      retest, watch shrimp.
 - [ ] **Return APT Sky PLUS** (GH+KH, ordered by mistake) — raises KH
       (already 11), wrong for this tank; send back, don't use.
 

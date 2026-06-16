@@ -142,10 +142,18 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   copper-sensitive; water sitting in pipes overnight leaches metals
   (copper; possibly lead in older buildings). Habit: run the cold tap
   until properly cold (= drawing from the main) before collecting.
+- **⚠ GH METHOD ERROR — caught 2026-06-16. The GH readings below (tank
+  "2", tap "0") are VOID.** They were stopped at the first transient green
+  flash, not the full *held* green endpoint, so both are understated —
+  **real GH is higher (both tank and tap), unknown until a proper retest.**
+  Everything in this bullet about "low GH / calcium-poor / dosing is the
+  only calcium lever / tap GH 0 / soil-stripping was wrong" is **SUSPENDED**
+  pending that retest. **The TDS (tap 274, tank 462) and KH (tank 11, tap 7)
+  numbers stand** — different tests, unaffected. Re-test GH on tank AND tap:
+  add drops, swirl, until the *whole vial holds green*, count every drop.
 - **Water profile (measured) — tap and tank both tested:**
-  - **Tap (2026-06-15): GH 0, KH 7, TDS 274.** Zero hardness (no Ca/Mg),
-    but buffered and mineral-bearing — i.e. a sodium/bicarbonate-type water,
-    soft on hardness yet alkaline and ~274 TDS.
+  - **Tap (2026-06-15): GH ~~0~~ (VOID — see above), KH 7, TDS 274.**
+    Buffered, mineral-bearing, ~274 TDS; hardness unknown pending retest.
   - **Tank (2026-06-13): GH 2, KH 11, pH 7.5, TDS 494** (TDS → 400 after a
     ~43% change 2026-06-15).
   - **Corrected reading of the low GH** (supersedes the earlier "aged

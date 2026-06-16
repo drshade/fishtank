@@ -94,12 +94,13 @@ strong colours through selection alone.
   exposing the iridescent turquoise nacre layer beneath. Confirmed on
   at least one snail by photo; second snail not yet photographed but
   likely the same.
-- **Cause** (corrected 2026-06-13 after first measurements — GH 2,
-  KH 11, pH 7.5): **not** acid dissolution — the water is alkaline and
-  well-buffered. It's **calcium starvation**: GH 2 is too calcium-poor
-  for the nerites to maintain/repair shell. Brackish-origin nerites are
-  calcium-hungry and show the deficit first; the neos cope (three
-  successful broods), so the snails are the canary.
+- **Cause — UNCERTAIN again (2026-06-16).** The "calcium starvation"
+  explanation leaned on GH 2, which turned out to be a **GH test method
+  error** (real GH higher, unknown — see `parameters.md` / `knowledge.md`).
+  If GH isn't actually low, calcium starvation is questionable. Acid
+  dissolution was already ruled out (water is alkaline, well-buffered). So
+  the erosion cause is open again — **revisit once GH is re-tested
+  properly.** Still slow-moving; no urgent action.
 - **Trajectory**: slow burn — erosion progresses over months/years,
   not days. Eventual risk is pitting → thin spots → shell failure.
 - **Fix**: raise GH with the APT Sky GH-only booster (see `pending.md`),
