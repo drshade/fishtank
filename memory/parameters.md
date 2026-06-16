@@ -42,6 +42,11 @@ readings._
   GH 4-5 is reached by dosing whether on tap or RO; RO only buys lower
   KH/TDS. Rationale + corrected profile: `knowledge.md` ("Water source").
   Product/ETA + dosing method: `pending.md`.
+- **APT GH is gypsum-based** (calcium sulfate) — won't fully dissolve in a
+  small container (cloudy stock is normal; ~2.4 g/L solubility), but 17L
+  dissolves a gram fine over a few hours. **Dose the weighed powder dry into
+  the strong outflow current** (away from the carpet) — a slurry settles too
+  fast in the jug to dose evenly. First dose 1g on 2026-06-16.
 
 ## Water change protocol (current — babies present)
 

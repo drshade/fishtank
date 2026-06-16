@@ -5,15 +5,14 @@ the journal records the completion.
 
 ## Active now (arrived 2026-06-15)
 
-- [ ] **Dose APT Sky GH booster** (2HR Aquarist, Ca/Mg, no KH). Raise GH 2
-      → low end **~4-5, not 6** (TDS already 494; dosing adds TDS). **Label
-      rate: 10.5g/60L = 0.175 g/L → ~3g full dose for ~17L** (= their target
-      hardness; we want less). Split into two: **~1g dissolved into the flow
-      (evening), retest GH+TDS next morning**, then ~0.5-1g to reach ~4-5,
-      retest again, stop. Dissolve first (gypsum is slow); needs a ~0.01g
-      scale (1g kitchen scale too coarse). Watch shrimp; TDS +~15-20 ppm per
-      dGH. (Target dGH of the label dose still TBC — would let us dose exact
-      grams.) Log dose + retest.
+- [ ] **GH dosing — in progress.** APT GH (gypsum, Ca/Mg, no KH). Raise GH
+      to low end **~4-5**. Label rate 10.5g/60L = 0.175 g/L → ~3g full for
+      ~17L (= maker target, we want less). **1g dosed 2026-06-16** (first
+      dose); **retest GH morning 2026-06-17** — that calibrates exact
+      grams-per-dGH, then top up to ~4-5 and stop. Tap is GH 0 so re-dose
+      after every water change. Method: weigh on the 0.1g scale, dose
+      **dry into the strong outflow** (slurry settles too fast to fraction;
+      17L dissolves it over hours). Watch shrimp after each dose.
 - [ ] **Return APT Sky PLUS** (GH+KH, ordered by mistake) — raises KH
       (already 11), wrong for this tank; send back, don't use.
 
