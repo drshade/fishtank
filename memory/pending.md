@@ -5,11 +5,14 @@ the journal records the completion.
 
 ## Active now (arrived 2026-06-15)
 
-- [ ] **Re-test GH PROPERLY first — tank AND tap.** Prior readings were a
-      method error (stopped at first green flash). Correct method: add drops,
-      swirl, until the *whole vial holds green*; count every drop = dGH.
-      Until we have real numbers we don't actually know if GH was ever low.
-      Also check KH wasn't read the same flawed way.
+- [ ] **Get a working GH test — the Tetra GH reagent is dead.** No red base
+      colour at all (degraded indicator), won't hold a green endpoint even at
+      30 drops; KH from the same kit (~18mo) still works. Tom getting a fresh
+      GH test ASAP (API GH red→green is reliable; or borrow Michelle's; a
+      6-in-1 strip gives a ballpark meanwhile). **GH is unknown until then.**
+- [ ] **Then re-test GH — tank AND tap.** Correct method: add drops, swirl,
+      until the *whole vial holds green*; count every drop = dGH. Only then
+      do we know if GH was ever actually low.
 - [ ] **GH dosing — ON HOLD pending the retest.** APT GH (gypsum, Ca/Mg,
       no KH); label 10.5g/60L = 0.175 g/L (~3g full for ~17L). **1g already
       dosed 2026-06-16** (harmless even if GH was fine). Don't dose more

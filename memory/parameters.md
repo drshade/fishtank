@@ -4,7 +4,7 @@
 
 | Parameter | Target | Notes |
 |---|---|---|
-| GH | UNKNOWN — retest properly | ⚠ Both prior readings VOID (tank "2" 2026-06-13, tap "0" 2026-06-15) — **GH test method error**: stopped at the first green flash, not the full *held* green endpoint. Real GH higher (both), unknown. **Retest: drops until the whole vial holds green, count all.** Hold further dosing until then. |
+| GH | UNKNOWN — no working test | ⚠ Prior readings VOID, and the **Tetra GH reagent is now dead** (no red base, won't hold green at 30 drops; KH from same ~18mo kit fine). Need a fresh GH test (API GH / borrow Michelle's / strip for ballpark), then retest tank + tap (drops until the whole vial holds green). **Hold dosing until GH is readable.** |
 | KH | ~7-11 (don't chase) | Tank measured **11** (2026-06-13); **tap KH 7** (2026-06-15). Tank's 11 is tap's 7 concentrated by evaporation. Regular tap changes drift it toward 7 (closer to textbook) on their own — bonus, not a goal. |
 | TDS | tank ~290-330 on tap (150-250 is RO-only) | **Tank measured 494, tap 274 (both 2026-06-15).** 150-250 is unreachable on tap (274 floor) — that figure assumes RO. On tap the realistic home is ~290-330 (tap + modest GH dose); small water changes trend the 494 toward 274. Mostly carbonate (KH 11 ≈ 195 ppm) + Na, not Ca. Don't crash it (babies; stability). Decision tap-vs-RO pending — see `knowledge.md`. |
 | pH | Stable > exact | **Measured 7.5 (2026-06-13) — alkaline; the soil's acid buffering is spent.** Consistency matters more than the number. |
