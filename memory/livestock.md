@@ -37,10 +37,17 @@ strong colours through selection alone.
     on the expected week 2-3 curve (~10 days post-release)
   - 2026-06-07: 1 spotted by Michelle grazing in the grass (not just at
     the base) — ~3 weeks post-release, on track. Bodies now ~5mm+.
-- Survival assumed normal (70-90%); the rest still hiding in carpet
-  base. Reliable open-grazing usually starts at ~5mm body length
-  around weeks 2-3, so most should be more visible in early-to-mid
-  June.
+  - **2026-06-18: ZERO seen on a torch search.** ⚠ At ~5 weeks they
+    should be 5mm+ and clearly visible. Trend 4+ (05-26) → 1 (06-07) →
+    **0** is a worry. Likely contributor: **two ~50% water changes in
+    four days** (06-15, 06-19) with ~100 ppm TDS drops each — big-change
+    parameter swings are the #2 shrimplet killer (`knowledge.md`). Torch
+    isn't a reliable census (they tuck in), so not proof of loss — **do a
+    daylight recount over the next few days before concluding.**
+- Survival was assumed normal (70-90%) but is **now uncertain** pending a
+  proper daylight count. Reliable open-grazing usually starts ~5mm
+  (weeks 2-3); brood 1 is well past that, so continued zero sightings
+  would point to losses.
 
 ### Brood 2
 - Mommy re-berried ~2026-05-17 (within 24h of releasing brood 1)
@@ -51,14 +58,14 @@ strong colours through selection alone.
 - Expected ~20-30 shrimplets, currently hiding in the hairgrass carpet.
 - **Mommy molted immediately after release** — normal.
 
-### Brood 3 (likely in progress)
+### Brood 3 (confirmed berried)
 - Mommy molted 2026-06-05; mating expected within 24-72h (2026-06-05–07).
-- **Saddle visible** (2026-06-07, via Michelle's photo) — white/yellow
-  ovary mass clearly visible through transparent body on dorsal side.
-  Strong sign she has already re-berried or is about to drop eggs into
-  the brood pouch imminently.
-- **Brood 3 expected: ~early July 2026** (~July 1–7, assuming 25-30 day
-  carry from ~June 6; could be faster if water stays warm).
+- Saddle visible 2026-06-07 (via Michelle's photo).
+- **Berried confirmed 2026-06-19** — carrying eggs in the pouch.
+- **Brood 3 expected release: ~early July 2026** (~July 1–7, assuming
+  25-30 day carry from ~June 6; could be faster if water stays warm).
+- Carrying female = another reason to **hold to small water changes** —
+  hardness/TDS swings stress berried females and risk dropped eggs.
 
 ### Expected timeline going forward
 - Each healthy adult female produces a brood roughly every month for

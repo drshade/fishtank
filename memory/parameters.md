@@ -6,7 +6,7 @@
 |---|---|---|
 | GH | UNKNOWN — no working test | ⚠ Prior readings VOID, and the **Tetra GH reagent is now dead** (no red base, won't hold green at 30 drops; KH from same ~18mo kit fine). Need a fresh GH test (API GH / borrow Michelle's / strip for ballpark), then retest tank + tap (drops until the whole vial holds green). **Hold dosing until GH is readable.** |
 | KH | ~7-11 (don't chase) | Tank measured **11** (2026-06-13); **tap KH 7** (2026-06-15). Tank's 11 is tap's 7 concentrated by evaporation. Regular tap changes drift it toward 7 (closer to textbook) on their own — bonus, not a goal. |
-| TDS | tank ~290-330 on tap (150-250 is RO-only) | **Tank measured 494, tap 274 (both 2026-06-15).** 150-250 is unreachable on tap (274 floor) — that figure assumes RO. On tap the realistic home is ~290-330 (tap + modest GH dose); small water changes trend the 494 toward 274. Mostly carbonate (KH 11 ≈ 195 ppm) + Na, not Ca. Don't crash it (babies; stability). Decision tap-vs-RO pending — see `knowledge.md`. |
+| TDS | tank ~290-330 on tap (150-250 is RO-only) | **Tank 360 (2026-06-19, after a large change); tap 274 (2026-06-15).** Trajectory 494→400→462(+GH dose)→**360**. 150-250 is unreachable on tap (274 floor) — that figure assumes RO. On tap the realistic home is ~290-330 (tap + modest GH dose); approaching it. Mostly carbonate (KH 11 ≈ 195 ppm) + Na, not Ca. **Don't crash it with big changes** — back to 10-15% (babies; berried female; stability). Decision tap-vs-RO pending — see `knowledge.md`. |
 | pH | Stable > exact | **Measured 7.5 (2026-06-13) — alkaline; the soil's acid buffering is spent.** Consistency matters more than the number. |
 | Temperature | 22-24°C | Neos tolerate 18-25°C; aim mid-range |
 
@@ -16,15 +16,18 @@ Full append-only log: [`data/measurements.csv`](../data/measurements.csv)
 (`date,tds_ppm,gh,kh,ph,temp_c,notes`). New reading → append a CSV row,
 then refresh the latest-reading line below.
 
-**Latest**: 2026-06-16 — **⚠ GH readings VOID (method error)**: both tank
-("2", 2026-06-13) and tap ("0", 2026-06-15) were stopped at the first green
-flash, not the held endpoint — real GH higher, unknown, **retest needed**.
-This suspends the GH-dependent story (low GH / dosing-only-lever /
-soil-stripping / RO reframe / nerite calcium-starvation). **Solid numbers:**
-TDS — tap 274, tank 494 → 400 (after ~43% change 2026-06-15) → 462 (after a
-1g GH dose 2026-06-16). KH — tank 11, tap 7. pH 7.5. NH3 ~0 on canister-solo
-(Dennerle out 2026-06-14; continue daily ~through 2026-06-18); NO2/NO3 0
-(2026-06-13). Check whether KH was read the same flawed way.
+**Latest**: 2026-06-19 — **TDS 360** after a large (~55%) water change
+(462→360 vs tap 274). Two ~50% changes in four days = big swings; back to
+10-15% now (babies + berried female). **⚠ GH still VOID (method error)**:
+both tank ("2", 2026-06-13) and tap ("0", 2026-06-15) were stopped at the
+first green flash, not the held endpoint — real GH higher, unknown, **retest
+needed** (kit reagent also dead — see `pending.md`). This suspends the
+GH-dependent story (low GH / dosing-only-lever / soil-stripping / RO reframe
+/ nerite calcium-starvation). **Solid numbers:** TDS — tap 274, tank
+494→400(43% change 06-15)→462(+1g GH dose 06-16)→**360**(large change 06-19).
+KH — tank 11, tap 7. pH 7.5. NH3 ~0 on canister-solo (Dennerle out
+2026-06-14). NO2/NO3 0 (2026-06-13). Check whether KH was read the same
+flawed way.
 
 _Calibration: to trust absolute temp, dunk the thermometer in well-stirred
 ice water (= 0°C exactly) and note the offset; subtract it from tank

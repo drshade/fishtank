@@ -74,10 +74,14 @@ Remaining:
 
 ## Watching for
 
-- **Brood 3** — saddle visible 2026-06-07; confirm berry. Expected
-  release ~early July 2026. See `livestock.md`.
-- **No big water changes before ~2026-06-19** (2 weeks after brood 2's
-  2026-06-05 release; 3 weeks if convenient).
+- **⚠ Baby recount in daylight** — zero shrimplets on a torch search
+  2026-06-18. Brood 1 (~5 weeks) should be visible; count again in good
+  light over the next few days before concluding losses. See `livestock.md`.
+- **Brood 3** — berried confirmed 2026-06-19; expected release ~early July
+  2026. See `livestock.md`.
+- **Back to 10-15% water changes.** Two ~50% changes in four days (06-15,
+  06-19) = big TDS swings; risky with babies + a berried female. Let the
+  tap-change drift pull TDS toward ~290-330 on its own.
 - **Ammonia daily** for 3-4 days post-Dennerle-removal (through
   ~2026-06-18) — canister-solo load verification (see Canister transition).
 - **Tetra AirSilent Mini noise / bubble quality** — Tom's call whether
