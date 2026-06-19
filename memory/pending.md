@@ -74,9 +74,12 @@ Remaining:
 
 ## Watching for
 
-- **⚠ Baby recount in daylight** — zero shrimplets on a torch search
-  2026-06-18. Brood 1 (~5 weeks) should be visible; count again in good
-  light over the next few days before concluding losses. See `livestock.md`.
+- **⚠ Brood 1 appears lost** — no sightings for weeks (last 06-07). Not the
+  water changes (predates them); heat/O2 stress + possibly low GH. Keep
+  daylight-recounting in case **brood 2** (still in carpet-hiding window)
+  shows. Protect brood 3. See `livestock.md`.
+- **GH test now load-bearing** — beyond nerite shells, low GH could be a
+  baby-survival factor. Bumped priority. See "Active now" above.
 - **Brood 3** — berried confirmed 2026-06-19; expected release ~early July
   2026. See `livestock.md`.
 - **Back to 10-15% water changes.** Two ~50% changes in four days (06-15,

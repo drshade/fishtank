@@ -37,17 +37,17 @@ strong colours through selection alone.
     on the expected week 2-3 curve (~10 days post-release)
   - 2026-06-07: 1 spotted by Michelle grazing in the grass (not just at
     the base) — ~3 weeks post-release, on track. Bodies now ~5mm+.
-  - **2026-06-18: ZERO seen on a torch search.** ⚠ At ~5 weeks they
-    should be 5mm+ and clearly visible. Trend 4+ (05-26) → 1 (06-07) →
-    **0** is a worry. Likely contributor: **two ~50% water changes in
-    four days** (06-15, 06-19) with ~100 ppm TDS drops each — big-change
-    parameter swings are the #2 shrimplet killer (`knowledge.md`). Torch
-    isn't a reliable census (they tuck in), so not proof of loss — **do a
-    daylight recount over the next few days before concluding.**
-- Survival was assumed normal (70-90%) but is **now uncertain** pending a
-  proper daylight count. Reliable open-grazing usually starts ~5mm
-  (weeks 2-3); brood 1 is well past that, so continued zero sightings
-  would point to losses.
+  - **2026-06-19: no sightings for weeks — brood 1 appears lost.** Last
+    sighting was 06-07; none since. At ~5 weeks they'd be 5mm+ and obvious,
+    so persistent zero = poor survival.
+- **Survival: brood 1 effectively lost.** Cause **not** the water changes —
+  the last sighting (06-07) predates the first big change (06-15). Decline
+  overlaps the **late-May heatwave (28°C, 05-26), the dawn O2 near-miss
+  (05-22), and the 06-07 air-pump disruption** — heat/O2 stress on
+  shrimplets is the timeline-consistent read. **Low GH (unknown, retest
+  pending) is also a live suspect** — bad molts hit babies hardest. Water
+  change was taken from the *top* (not carpet-siphoned), so accidental
+  siphoning is ruled out. First-brood losses are common in a young colony.
 
 ### Brood 2
 - Mommy re-berried ~2026-05-17 (within 24h of releasing brood 1)
