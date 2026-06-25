@@ -67,8 +67,14 @@
   to QT setup; seed QT from live canister media then instead (`pending.md`).
 
 ## Heater
-- Small in-tank heater, **back-left, immediately next to the filter**
-  (ugly, will be removed once canister thermo verified at temp for 24h)
+- **In-tank heater REMOVED 2026-06-25.** The Oase FiltoSmart Thermo's
+  built-in 100W heater is now the **sole heating**. Tank runs canister-only:
+  one box does filtration + heating, no in-tank equipment.
+- Removed during the heatwave (heater idle anyway at 27°C), so the planned
+  "thermo holds 22-24°C for 24h" verification couldn't run first. **The real
+  test comes when the heatwave breaks** — watch the Shelly Pill temp; if the
+  canister doesn't hold setpoint, the old in-tank heater is **kept as backup**
+  (not binned), ready to drop back in.
 
 ## Aeration (installed 2026-05-22, expanded 2026-05-24)
 

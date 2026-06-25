@@ -50,9 +50,11 @@ Remaining:
    unproven. Mature Amazonia substrate carries most of the biofilter so
    risk is modest — but verify. Detectable NH3/NO2 → small daily water
    changes, watch the babies, don't panic.
-2. **Heater**: verify canister thermo holds 22-24°C for 24h → then remove
-   the in-tank heater (resume verification now the heatwave's past). Keep
-   the old heater as backup, don't bin.
+2. **Heater**: ✅ in-tank heater REMOVED 2026-06-25 — now canister-only
+   (Oase built-in thermo is sole heating). Removed during the heatwave before
+   the "holds 22-24°C for 24h" check could run (heater idle in heat). **Still
+   to verify when the heatwave breaks**: watch the Shelly Pill temp holds
+   setpoint; old heater kept as backup if not. See `tank.md` "Heater".
 3. **Don't open/deep-clean the canister for ~1 month** post-removal (let
    the media fully colonise as sole filter).
 5. **Old Dennerle sponge/filter**: kept as a spare, not binned. **Don't
