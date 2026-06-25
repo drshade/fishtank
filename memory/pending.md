@@ -24,23 +24,10 @@ the journal records the completion.
 
 (TDS pen arrived — tank 494 / tap 274 recorded; see `parameters.md`.)
 
-## Arriving — Shelly monitoring kit (ordered 2026-06-14, ~€78)
-
-All Shelly-native; integrates with the existing Gen4 strips + Shelly app
-(no Home Assistant). Full reasoning: journal 2026-06-14.
-
-- [ ] **BLU RC Button 4 ZB** (€19.24) — 4-button desk remote for
-      phone-free socket control. Pair in **Bluetooth mode** (any button
-      ×4 → blue LED), ignore Zigbee; strips are the gateway. Map any
-      flow/aeration-cutting action as a **timed auto-resume scene only**
-      — see `knowledge.md` "Automation safety".
-- [ ] **BLU H&T Display ZB** (€25.41) — ambient air temp/humidity + light
-      sensor + e-ink readout. BLE via strip gateway, ~2yr battery.
-- [ ] **The Pill** (€9.98) + **DS18B20 3.5mm waterproof probe** (€4.11) —
-      water temp, scriptable. USB-C powered → **always-on socket only**,
-      never switched (else monitoring dies silently).
-- [ ] **Flood S Gen4** (€19.24) — leak sensor for the cabinet floor under
-      the canister. Re-check placement after every maintenance disconnect.
+(Shelly monitoring kit installed 2026-06-25 — Pill+probe, H&T Display, Flood S,
+Button 4. Hardware now in `tank.md` "Monitoring". The Shelly *software*
+— power-dropout/stuck-heater alarms + auto log extraction — is still to build,
+see "Longer-term projects".)
 
 ## Open jobs
 

@@ -99,6 +99,21 @@ Tetra AirSilent Mini pump
 ## Smart plug system
 - Tom controls CO2, lights, and air pump via smart plugs
 
+## Monitoring — Shelly (installed 2026-06-25)
+All Shelly-native, one app, no Home Assistant. Ordered 2026-06-14, installed
+2026-06-25. Active temperature monitoring of **both room and tank** now live.
+- **The Pill + DS18B20 waterproof probe** — water temp. USB-C powered on an
+  **always-on socket** (never switched, else monitoring dies silently).
+- **BLU H&T Display** — ambient air temp/humidity + light + e-ink readout.
+- **Flood S Gen4** — leak sensor on the cabinet floor under the canister.
+  Re-check placement after every maintenance disconnect.
+- **BLU RC Button 4 ZB** — 4-button desk remote, paired Bluetooth mode
+  (strips are the gateway). Currently used to **manually toggle the lights**.
+  Any flow/aeration-cutting action must be a timed auto-resume scene only —
+  see `knowledge.md` "Automation safety".
+- Still to build (not hardware): Shelly Script power-dropout / stuck-heater
+  alarms and automated log extraction — see `pending.md` longer-term.
+
 ## Layout / flow geometry
 - Filter on back-left wall, **heater immediately next to it** (same
   back-left area); **airstone 2** sits just below/right of the filter
