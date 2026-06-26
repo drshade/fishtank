@@ -15,6 +15,20 @@ A quick browse through how the tank's been going — newest first. The full
 day-by-day story (and the reasoning behind every decision) lives in
 [`journal/`](journal/).
 
+### Week of 22 June 2026 — the tank goes digital 📟
+
+Big week for instrumentation. A full **Shelly monitoring kit** went in:
+a waterproof probe now tracks **water temperature** continuously, a little
+e-ink display reads out **room temp and humidity**, a **leak sensor** sits
+under the cabinet to catch a canister drip, and a set of **desk buttons**
+toggles the lights without reaching for a phone. With live temperature
+logging finally in place, the **in-tank heater came out** — the tank now
+runs entirely on the **Oase canister and its built-in heater**, one tidy box
+doing both filtration and heating, no equipment left in the water. Right on
+cue, a **second heatwave** rolled in on Wednesday (forecast through Sunday):
+the tank's sitting at 27.3°C with the desk fan running and the night airstone
+doing real work — warm water holds less oxygen, so that's the line to hold.
+
 ### Week of 1 June 2026 — brood 2 arrives 🦐🦐
 
 **Brood 2 released on 5 June** — a few days ahead of schedule, hurried
