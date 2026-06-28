@@ -101,20 +101,18 @@ strong colours through selection alone.
   exposing the iridescent turquoise nacre layer beneath. Confirmed on
   at least one snail by photo; second snail not yet photographed but
   likely the same.
-- **Cause — UNCERTAIN again (2026-06-16).** The "calcium starvation"
-  explanation leaned on GH 2, which turned out to be a **GH test method
-  error** (real GH higher, unknown — see `parameters.md` / `knowledge.md`).
-  If GH isn't actually low, calcium starvation is questionable. Acid
-  dissolution was already ruled out (water is alkaline, well-buffered). So
-  the erosion cause is open again — **revisit once GH is re-tested
-  properly.** Still slow-moving; no urgent action.
+- **Cause — UNCERTAIN (revisit on a real GH test).** The "calcium
+  starvation" idea leaned on a GH reading that turned out to be a method
+  error, and the tap is *not* calcium-free (see `knowledge.md` "Water
+  source"), so it's questionable. Acid dissolution was already ruled out
+  (water is alkaline, well-buffered). Erosion cause is open — revisit once
+  GH is readable. Still slow-moving; no urgent action.
 - **Trajectory**: slow burn — erosion progresses over months/years,
   not days. Eventual risk is pitting → thin spots → shell failure.
-- **Fix**: raise GH with the APT Sky GH-only booster (see `pending.md`),
-  slowly — adds the calcium the shells need without touching KH.
-  **Cuttlebone is ruled out**: it's calcium *carbonate*, so it'd raise
-  the already-high KH, and barely dissolves at pH 7.5 anyway.
-- Slow-moving; start dosing when APT Sky arrives (Mon 2026-06-15).
+- **Possible fix if GH does turn out low**: the APT Sky GH-only booster
+  (see `pending.md`) adds calcium without touching KH. **Cuttlebone is ruled
+  out**: it's calcium *carbonate*, so it'd raise the already-high KH and
+  barely dissolves at pH 7.5 anyway. Dosing is on hold pending the GH retest.
 
 ## Bioload status (as of 2026-05-24)
 - 2 adults + ~20 shrimplets + a few snails

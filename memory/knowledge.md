@@ -142,45 +142,38 @@ Don't ice-bottle. Neos tolerate a short stint at 26-27 if O2 holds.
   copper-sensitive; water sitting in pipes overnight leaches metals
   (copper; possibly lead in older buildings). Habit: run the cold tap
   until properly cold (= drawing from the main) before collecting.
-- **⚠ GH METHOD ERROR — caught 2026-06-16. The GH readings below (tank
-  "2", tap "0") are VOID.** They were stopped at the first transient green
-  flash, not the full *held* green endpoint, so both are understated —
-  **real GH is higher (both tank and tap), unknown until a proper retest.**
-  Everything in this bullet about "low GH / calcium-poor / dosing is the
-  only calcium lever / tap GH 0 / soil-stripping was wrong" is **SUSPENDED**
-  pending that retest. **The TDS (tap 274, tank 462) and KH (tank 11, tap 7)
-  numbers stand** — different tests, unaffected. Re-test GH on tank AND tap:
-  add drops, swirl, until the *whole vial holds green*, count every drop.
-- **Water profile (measured) — tap and tank both tested:**
-  - **Tap (2026-06-15): GH ~~0~~ (VOID — see above), KH 7, TDS 274.**
-    Buffered, mineral-bearing, ~274 TDS; hardness unknown pending retest.
-  - **Tank (2026-06-13): GH 2, KH 11, pH 7.5, TDS 494** (TDS → 400 after a
-    ~43% change 2026-06-15).
-  - **Corrected reading of the low GH** (supersedes the earlier "aged
-    Amazonia strips Ca via cation exchange" inference — that was wrong):
-    the tap is GH 0, so there's essentially no calcium entering to strip.
-    Tank GH 2 sits *above* tap, so nothing is depleting it below source —
-    **the low GH is simply inherited from GH-0 tap.** KH (11 vs tap 7) and
-    TDS (494 vs tap 274) *are* elevated in-tank, by evaporation
-    concentrating the tap's bicarbonate/sodium over weeks of top-ups.
-  - **Consequences:**
-    - **Water changes cannot raise GH — tap is GH 0; they dilute it.**
-      (The ~43% change 2026-06-15 pulled tank GH ~2 → ~1.) So **dosing is
-      the only lever for calcium** — needed for shrimp molts and the
-      eroding nerite shells. Dose a **GH-only** booster (APT Sky: Ca/Mg,
-      no KH — see `pending.md`); raise *slowly* (babies; sudden hardness
-      swings cause bad molts). Re-dose GH after water changes.
+- **⚠ GH unmeasured — no valid reading exists for tank or tap.** The old
+  Tetra-kit attempts were method errors (stopped at the first transient green
+  flash, not the held endpoint) *and* the reagent has since died — discard
+  them entirely. **The tap is NOT GH 0** (that was a bad reading, now voided):
+  Amsterdam tap carries meaningful hardness. Real GH for both tank and tap is
+  unknown until a fresh test. **The TDS (tap 274, tank 462) and KH (tank 11,
+  tap 7) numbers stand** — different tests, unaffected. Re-test GH on tank AND
+  tap: add drops, swirl, until the *whole vial holds green*, count every drop.
+- **Water profile (measured) — what we actually know:**
+  - **Tap (2026-06-15): KH 7, TDS 274.** Buffered and mineral-bearing; GH
+    unknown but non-trivial (Amsterdam tap is moderately hard).
+  - **Tank (2026-06-13): KH 11, pH 7.5, TDS 494** (→ 400 after a ~43% change
+    2026-06-15). GH unknown.
+  - In-tank KH (11 vs tap 7) and TDS (494 vs tap 274) are elevated by
+    evaporation concentrating the tap's bicarbonate/sodium over weeks of
+    top-ups.
+  - **Consequences (with GH genuinely unknown):**
+    - **Water changes DO bring in GH** — the tap is hard, so a change adds
+      calcium/magnesium as well as diluting accumulated TDS. A GH-only
+      booster (APT Sky: Ca/Mg, no KH — see `pending.md`) is *one* lever, not
+      the only one, and dosing is **on hold until a real GH number says
+      whether the tank even needs it.** If dosing, raise slowly (sudden
+      hardness swings cause bad molts).
     - **KH 11 isn't worth chasing down**, but regular tap changes naturally
       drift it toward tap's 7 anyway (closer to neo-textbook) — a free
       bonus, not a goal.
     - **TDS**: tank trends toward the 274 tap floor with regular changes.
       150-250 is unreachable on tap (274 floor) — that figure assumed RO.
-    - **RO, reframed by the tap GH 0 result:** RO does **nothing** for GH
-      (tap already 0) — it would only lower **KH and TDS** (strip the
-      Na/bicarbonate). So RO is worth the faff *only if* Tom wants KH/TDS
-      down too; if he's fine around KH 7, **just dose GH into tap, no RO
-      needed.** (Never pure RO without remineralising.) No urgency either
-      way; relevant later for the QT tank.
+    - **RO**: would lower GH, KH and TDS together (strip Ca/Mg/Na/bicarbonate),
+      so it'd need remineralising back up. Worth the faff only if Tom wants
+      TDS/KH down; no urgency, relevant later for the QT tank. Never pure RO
+      without remineralising.
 - **Slow introduction (small tube, ~20-30 min) is good practice** —
   keep it. Minimises osmotic/temp/pH shock; the slowness does real work,
   especially into a buffering aquasoil tank.
