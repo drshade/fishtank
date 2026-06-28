@@ -63,17 +63,19 @@ Remaining:
 
 ## Watching for
 
-- **⚠ Brood 1 appears lost** — no sightings for weeks (last 06-07). Not the
-  water changes (predates them); heat/O2 stress + possibly low GH. Keep
-  daylight-recounting in case **brood 2** (still in carpet-hiding window)
-  shows. Protect brood 3. See `livestock.md`.
+- **⚠ Broods 1 & 2 both lost** — no babies visible at all (Tom confirms
+  definitely none, 2026-06-28). Colony still just the 2 founders; heat/O2
+  stress the likely cause (not the water changes). **Brood 3 (berried,
+  release ~early July) is the next chance — protect it:** stable params,
+  gentle changes, then guard the carpet once she releases. See `livestock.md`.
 - **GH test now load-bearing** — beyond nerite shells, low GH could be a
   baby-survival factor. Bumped priority. See "Active now" above.
 - **Brood 3** — berried confirmed 2026-06-19; expected release ~early July
   2026. See `livestock.md`.
-- **Back to 10-15% water changes.** Two ~50% changes in four days (06-15,
-  06-19) = big TDS swings; risky with babies + a berried female. Let the
-  tap-change drift pull TDS toward ~290-330 on its own.
+- **Water-change volume**: babies are gone, so larger changes are fine again
+  (TDS self-limits at the 274 tap floor — a ~46% change 2026-06-28 took
+  429→357 with no issue). Keep them **gentle while brood 3's female is
+  berried**; full freedom once she releases.
 - **Ammonia daily** for 3-4 days post-Dennerle-removal (through
   ~2026-06-18) — canister-solo load verification (see Canister transition).
 - **Tetra AirSilent Mini noise / bubble quality** — Tom's call whether

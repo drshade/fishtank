@@ -16,10 +16,12 @@ Full append-only log: [`data/measurements.csv`](../data/measurements.csv)
 (`date,tds_ppm,gh,kh,ph,temp_c,notes`). New reading → append a CSV row,
 then refresh the latest-reading line below.
 
-**Latest**: 2026-06-28 — **TDS 429**, tank 27.7°C (room 28.1°C/53% RH). No
-water change since 2026-06-19 (360); +35 ppm in 3 days (faster than the prior
-+34/6d — heatwave evaporation top-offs). Above the ~290-330 home; small
-(10-15%) water change planned later today to pull it back.
+**Latest**: 2026-06-28 — **TDS 357** after a water change (429 → 357 vs tap
+274 ≈ a **~46% swap** — large, but no babies in tank now so no crash risk;
+slow-dripped + temp-matched). Lands just above the ~290-330 home, good
+direction. Tank 27.7°C (room 28.1°C/53% RH). **Brood-3 female still berried** —
+watch her a day or two for any dropped eggs after the 72 ppm swing, though the
+slow drip + hard (GH-bearing) tap kept the hardness change gentle.
 **⚠ GH unmeasured — no valid reading exists.** The old Tetra-kit attempts
 (tank, tap) were method errors *and* the reagent has since died — discard them
 entirely. **The tap is NOT GH 0** (that was a bad reading, now voided);
@@ -50,20 +52,22 @@ readings._
   the strong outflow current** (away from the carpet) — a slurry settles too
   fast in the jug to dose evenly. First dose 1g on 2026-06-16.
 
-## Water change protocol (current — babies present)
+## Water change protocol (current — no babies *right now*; brood-3 berried, release imminent)
 
-- **Volume**: 10-15% (~2L for ~17L water)
+- **Volume**: with no babies, larger changes are safe again — TDS self-limits
+  at the 274 tap floor (even ~50% lands ~350, can't crash it; a ~46% change
+  on 2026-06-28 took 429→357 fine). **But** keep them gentle while the female
+  is berried, and note brood 3 releases ~early July → the small-change +
+  no-carpet-siphon regime returns the moment it does.
 - **Refill**: slow drip / gentle stream over 5-10 min
-- **Temperature**: match within 1°C
-- **Parameters**: match TDS/GH where possible (mix new water to same
-  recipe as tank)
-- **Frequency**: light weekly maintenance OK; avoid for 2-3 weeks after
-  any new brood release
-- **Carpet siphoning**: do not penetrate hairgrass while babies are
-  small. Surface siphon only (hover above carpet, stir gently from
-  above with chopstick, suck up suspended particles). Always inspect
-  siphon output in a clear container for 10 min before disposing —
-  catch any accidental shrimplet pickups.
+- **Temperature**: match within 1°C (Tom always does)
+- **Parameters**: tap is hard + buffered, so a change brings in GH/KH and
+  drifts TDS toward the 274 floor — no need to pre-match; just don't swing
+  hardness hard while berried
+- **Frequency**: light weekly maintenance OK
+- **Carpet siphoning**: technically OK now no babies are in the carpet, but
+  brood 3 is days away — not worth a deep carpet clean now. Inspect any siphon
+  output in case the female sheds eggs.
 
 ## TDS / GH dynamics in shrimp tanks
 

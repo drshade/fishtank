@@ -55,8 +55,13 @@ strong colours through selection alone.
   textbook 25-30 days, consistent with accelerated development during the
   heatwave (26-28°C ambient).
 - **Released 2026-06-05** (Friday) — confirmed by Michelle.
-- Expected ~20-30 shrimplets, currently hiding in the hairgrass carpet.
+- Expected ~20-30 shrimplets, hid in the hairgrass carpet.
 - **Mommy molted immediately after release** — normal.
+- **2026-06-28: no babies visible — Tom confirms definitely none in the
+  tank.** At ~3 weeks brood 2 would be 5mm+ and obvious, so persistent zero =
+  **brood 2 also effectively lost**, like brood 1. Two consecutive failed
+  broods; colony is still just the 2 founder adults. Brood 3 (berried) is the
+  next chance — protect it.
 
 ### Brood 3 (confirmed berried)
 - Mommy molted 2026-06-05; mating expected within 24-72h (2026-06-05–07).
@@ -114,12 +119,12 @@ strong colours through selection alone.
   out**: it's calcium *carbonate*, so it'd raise the already-high KH and
   barely dissolves at pH 7.5 anyway. Dosing is on hold pending the GH retest.
 
-## Bioload status (as of 2026-05-24)
-- 2 adults + ~20 shrimplets + a few snails
-- Wildly under-stocked vs tank capacity → plant mass and biofilm easily
-  handle current load
-- Watch for transition point around 30-40 visible juveniles — that's
-  when nighttime O2 buffer starts to matter more
+## Bioload status (2026-06-28)
+- Just the **2 founder adults** + 2 nerites + microfauna. Broods 1 & 2 both
+  failed; brood 3 still berried (next chance).
+- Wildly under-stocked → plant mass and biofilm easily handle the load.
+- The 30-40-visible-juvenile O2 threshold is nowhere near — irrelevant until
+  a brood actually survives.
 
 ## Future plans
 - **Refresh genetics every 6-12 months** to avoid inbreeding depression.
