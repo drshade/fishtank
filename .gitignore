@@ -1,1 +1,4 @@
 .DS_Store
+
+# camera aiming grabs (transient)
+tools/frames/
