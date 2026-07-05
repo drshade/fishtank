@@ -7,10 +7,10 @@
 # triggers/cron (see memory/pending.md "Pi = camera only").
 #
 # Usage:
-#   tools/grab-frame.sh                 # full-res frame -> tools/frames/<timestamp>.jpg, then opens it
+#   tools/grab-frame.sh                 # full-res frame -> tools/frames/<timestamp>.jpg, printed inline (kitty)
 #   tools/grab-frame.sh -q              # quick lower-res frame (faster; good for rapid aiming)
 #   tools/grab-frame.sh -o shot.jpg     # write to a specific path
-#   tools/grab-frame.sh -n              # don't open the viewer
+#   tools/grab-frame.sh -n              # don't print the image inline
 #   tools/grab-frame.sh -- --hflip --vflip   # pass extra args straight to rpicam-still
 #
 # Env:
@@ -62,8 +62,15 @@ ssh "$HOST" "rm -f '$REMOTE_TMP'" >/dev/null 2>&1 || true
 SIZE="$(du -h "$OUT" | cut -f1)"
 echo "saved: $OUT ($SIZE)" >&2
 
-if [[ "$OPEN" == 1 ]] && command -v xdg-open >/dev/null 2>&1; then
-  xdg-open "$OUT" >/dev/null 2>&1 &
+if [[ "$OPEN" == 1 ]]; then
+  # Print the image inline in the terminal (kitty).
+  if command -v kitten >/dev/null 2>&1; then
+    kitten icat "$OUT" || true   # non-fatal: no TTY / piped output
+  elif command -v kitty >/dev/null 2>&1; then
+    kitty +kitten icat "$OUT" || true
+  else
+    echo "(kitten not found; skipping inline preview)" >&2
+  fi
 fi
 
 echo "$OUT"
