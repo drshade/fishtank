@@ -4,6 +4,26 @@ Things that have been thought through and decided. Don't re-litigate
 these without good reason; if a decision changes, update the entry
 *and* write a journal entry explaining why.
 
+## Tank purpose — display, not breeding (settled 2026-08-02)
+
+This is a **display tank**. The breeding project is shelved: 0/3 broods
+(two released and lost, one never released) despite healthy,
+repeatedly-berried adults, and the cause was never pinned down (heat and
+unknown GH were the suspects). Michelle's tank breeds prolifically with
+surviving babies, so shrimp supply is external — **top up with teenagers
+from her colony** when numbers thin. Consequences:
+
+- A **Betta is compatible with this purpose** (planned — see
+  `pending.md`). Shrimplet predation no longer matters; some attrition on
+  small shrimp is accepted and replaceable.
+- The **shrimplet sections below are conditional history** — they
+  reactivate only if a berried female ever matters again (e.g. no Betta
+  and a Michelle-teenager berries).
+- **GH retest demoted** to nice-to-have (was breeding-critical; still
+  mildly relevant to nerite shell erosion).
+- Colony-growth plans (QT pipeline, genetics refresh, Marktplaats
+  culling) are dropped.
+
 ## Shrimplets (first 4-6 weeks)
 
 - Neocaridina are born as fully-formed miniatures, no larval stage.
@@ -266,8 +286,9 @@ killing it is the pre-dawn O2 near-miss waiting to happen.
 
 When any of these trigger, revisit the corresponding decision:
 
-- **Colony 30-40 visible juveniles** → nighttime airstone goes from
-  "optional insurance" to "strongly recommended"
+- **Betta added** → temp target rises to ~24-26°C; O2 headroom matters
+  more (labyrinth breather needs surface air — keep an air gap under the
+  lid); watch it around shrimp and nerites for the first weeks
 - **Summer (Amsterdam apartments hit 26-28°C in August without AC)** →
   warm water holds less O2; revisit aeration headroom
 - **Tom going away >1 day** → no on-site monitoring; airstone becomes

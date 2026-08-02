@@ -75,12 +75,14 @@ strong colours through selection alone.
   post-release shrimplet loss). Suspects: late-June heat (tank 27.7°C while
   carrying) and the still-unknown GH (molt quality + egg viability).
 
-### Breeding record: 0 for 3
+### Breeding record: 0 for 3 — project SHELVED (2026-08-02)
 Three consecutive failed broods (1: released ~05-16, lost by mid-June;
-2: released 06-05, lost by 06-28; 3: never released). Colony growth to date
-is zero — still just the two founders. **The GH retest is the most
-load-bearing open item for breeding** (see `pending.md`). Textbook
-colony-growth projections are shelved until a brood actually survives.
+2: released 06-05, lost by 06-28; 3: never released). Cause never pinned
+down — adults visibly healthy throughout; heat and unknown GH were the
+suspects. **The tank is now a display tank, not a breeding project** (see
+`knowledge.md` "Tank purpose"). Shrimp numbers are maintained by
+**top-ups of teenagers from Michelle's tank**, which breeds prolifically
+with good survival.
 
 ## Microfauna
 
@@ -129,7 +131,9 @@ colony-growth projections are shelved until a brood actually survives.
   a brood actually survives.
 
 ## Future plans
-- **Refresh genetics every 6-12 months** to avoid inbreeding depression.
-  Plan: introduce 5-10 new shrimp via QT tank (see `pending.md`).
-- **Cull / sell** once colony plateaus: Marktplaats at ~€0.50 each
-  funds substrate/plants/etc.
+- **Betta planned** — the next addition once the shrimp are back and the
+  tank has re-settled (see `pending.md` for the checklist).
+- **Shrimp top-ups from Michelle's colony** whenever numbers thin — same
+  household water/disease pool, no QT pipeline needed. The old
+  genetics-refresh and Marktplaats-culling plans are dropped (they assumed
+  a growing colony here).
