@@ -2,6 +2,11 @@
 
 ## Shrimp (Neocaridina)
 
+**⚠ Both adults temporarily OUT of the tank since 2026-08-02** — parked in
+Michelle's tank while this tank settles after the sword-plant removal
+(substrate disturbance). Return planned after a few days, **ammonia-gated**
+(see `pending.md`).
+
 Started with 2 adults:
 - **"Mommy"** (female) — completely clear / see-through. Larger of the
   two (females reach ~3cm; males ~2cm — normal Neocaridina sexual
@@ -63,22 +68,19 @@ strong colours through selection alone.
   broods; colony is still just the 2 founder adults. Brood 3 (berried) is the
   next chance — protect it.
 
-### Brood 3 (confirmed berried)
-- Mommy molted 2026-06-05; mating expected within 24-72h (2026-06-05–07).
-- Saddle visible 2026-06-07 (via Michelle's photo).
-- **Berried confirmed 2026-06-19** — carrying eggs in the pouch.
-- **Brood 3 expected release: ~early July 2026** (~July 1–7, assuming
-  25-30 day carry from ~June 6; could be faster if water stays warm).
-- Carrying female = another reason to **hold to small water changes** —
-  hardness/TDS swings stress berried females and risk dropped eggs.
+### Brood 3 — LOST (never released)
+- Berried confirmed 2026-06-19; release expected ~early July 2026.
+- **Never released — no babies ever appeared. Confirmed lost 2026-08-02.**
+- Failure mode differs from broods 1-2 (dropped/failed clutch, not
+  post-release shrimplet loss). Suspects: late-June heat (tank 27.7°C while
+  carrying) and the still-unknown GH (molt quality + egg viability).
 
-### Expected timeline going forward
-- Each healthy adult female produces a brood roughly every month for
-  her ~1.5-2 year lifespan
-- Female offspring start breeding at ~3 months → first granddaughter
-  broods likely from late August 2026 onward
-- Colony will plateau around ~100 adults in this tank (3-5/L
-  comfortable in heavily-planted nano)
+### Breeding record: 0 for 3
+Three consecutive failed broods (1: released ~05-16, lost by mid-June;
+2: released 06-05, lost by 06-28; 3: never released). Colony growth to date
+is zero — still just the two founders. **The GH retest is the most
+load-bearing open item for breeding** (see `pending.md`). Textbook
+colony-growth projections are shelved until a brood actually survives.
 
 ## Microfauna
 
@@ -119,9 +121,9 @@ strong colours through selection alone.
   out**: it's calcium *carbonate*, so it'd raise the already-high KH and
   barely dissolves at pH 7.5 anyway. Dosing is on hold pending the GH retest.
 
-## Bioload status (2026-06-28)
-- Just the **2 founder adults** + 2 nerites + microfauna. Broods 1 & 2 both
-  failed; brood 3 still berried (next chance).
+## Bioload status (2026-08-02)
+- **Currently just the 2 nerites + microfauna** — the 2 founder adults are
+  temporarily in Michelle's tank (see top of file).
 - Wildly under-stocked → plant mass and biofilm easily handle the load.
 - The 30-40-visible-juvenile O2 threshold is nowhere near — irrelevant until
   a brood actually survives.

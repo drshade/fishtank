@@ -31,6 +31,11 @@ see "Longer-term projects".)
 
 ## Open jobs
 
+- [ ] **Return the shrimp from Michelle's tank (~2026-08-05±).** Both adults
+      parked there 2026-08-02 during the sword-plant removal. **Gate on a
+      zero-ammonia test first** — the uproot stirred mature Amazonia and a
+      transient NH3 pulse is the risk. Drip-acclimate on return (Michelle's
+      water ≠ this tank's).
 - [ ] **Brace the lily-pipe→filter hose bends.** The 12/16mm tube wants to
       fold at the sharp 90° turn behind the bookshelf. Fix the *fixed* runs
       only (they never move now the taps handle disconnects): anti-kink
@@ -61,23 +66,27 @@ Remaining:
    rely on it as QT bio-seed** — household freezing won't preserve
    nitrifiers over 6-12 months; seed QT from live canister media at setup.
 
+## Considering (not decided)
+
+- **Betta in this tank** — floated 2026-08-02 ("something new"). Unresolved
+  tension: a Betta in ~17L with Neocaridina ends realistic colony breeding
+  (shrimplets are Betta food), adults are at some risk too, and the sword
+  removal just reduced cover. Also wants 24-26°C+, warmer than the 22-24
+  target. Decide what the tank is *for* (breeding colony vs display
+  community) before buying anything.
+
 ## Watching for
 
-- **⚠ Broods 1 & 2 both lost** — no babies visible at all (Tom confirms
-  definitely none, 2026-06-28). Colony still just the 2 founders; heat/O2
-  stress the likely cause (not the water changes). **Brood 3 (berried,
-  release ~early July) is the next chance — protect it:** stable params,
-  gentle changes, then guard the carpet once she releases. See `livestock.md`.
-- **GH test now load-bearing** — beyond nerite shells, low GH could be a
-  baby-survival factor. Bumped priority. See "Active now" above.
-- **Brood 3** — berried confirmed 2026-06-19; expected release ~early July
-  2026. See `livestock.md`.
-- **Water-change volume**: babies are gone, so larger changes are fine again
-  (TDS self-limits at the 274 tap floor — a ~46% change 2026-06-28 took
-  429→357 with no issue). Keep them **gentle while brood 3's female is
-  berried**; full freedom once she releases.
-- **Ammonia daily** for 3-4 days post-Dennerle-removal (through
-  ~2026-06-18) — canister-solo load verification (see Canister transition).
+- **⚠ All three broods lost — breeding record 0/3** (brood 3 never released;
+  confirmed 2026-08-02). Heat and unknown GH are the live suspects. See
+  `livestock.md`. **The GH retest is the single most load-bearing open item
+  for breeding** — see "Active now" above.
+- **Ammonia after the sword uproot (2026-08-02)** — test daily until zero
+  holds; gates the shrimp's return (see Open jobs).
+- **Water-change volume**: no shrimp and no berried female in the tank right
+  now, so changes are unconstrained (TDS self-limits at the 274 tap floor —
+  the ~46% change 2026-06-28 took 429→357 with no issue). Re-tighten only if
+  a female is berried again.
 - **Tetra AirSilent Mini noise / bubble quality** — Tom's call whether
   the throttled setup is tolerable long-term. Pump must stay on its
   towel (see `knowledge.md` "Air pump placement").

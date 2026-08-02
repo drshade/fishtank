@@ -15,8 +15,10 @@
 ## Plants
 - Hairgrass carpet (dense — primary shrimplet hiding spot, do not siphon
   into it while babies are small)
-- Sword plant — large, covers a significant portion of the surface
-  (top-down photos won't show much of the rest of the tank)
+- **Sword plant REMOVED 2026-08-02** — had overgrown the tank. Uprooting it
+  disturbed the Amazonia; shrimp were parked in Michelle's tank for a few
+  days while it settles (see `pending.md`). Cover is reduced until other
+  growth fills in.
 - Other planted growth
 
 ## Lighting
