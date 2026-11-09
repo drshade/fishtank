@@ -101,7 +101,10 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
     repo** (env/ignored file). Pin Shelly devices to static IPs.
   - **Pi = camera only**: Pi Zero 2 W**H** (with headers; won early June
     2026) + **standard (IR-cut) Camera Module 3 Wide** (12MP, 102° FOV,
-    5cm focus). **Camera arriving 2026-06-30 (PostNL).** Zero kit already
+    5cm focus). **Camera arrived and working**: Pi is up as `tankspy`
+    (ssh), `tools/grab-frame.sh` pulls stills, aiming/focus tests done
+    2026-07-05. **Nothing automated on the Pi yet** (no cron, no HTTP
+    trigger, no bracket confirmed — checked 2026-11-09). Zero kit already
     includes the case (3 lids) and the CSI ribbon (15-pin camera → 22-pin
     Zero, confirmed on hand). **Standard, not NoIR** (decided 2026-06-14):
     the daily
