@@ -103,8 +103,9 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
     2026) + **standard (IR-cut) Camera Module 3 Wide** (12MP, 102° FOV,
     5cm focus). **Camera arrived and working**: Pi is up as `tankspy`
     (ssh), `tools/grab-frame.sh` pulls stills, aiming/focus tests done
-    2026-07-05. **Nothing automated on the Pi yet** (no cron, no HTTP
-    trigger, no bracket confirmed — checked 2026-11-09). Zero kit already
+    2026-07-05, re-verified 2026-11-09. **Nothing automated on the Pi
+    yet** (no cron, no HTTP trigger — checked 2026-11-09); the mount is
+    being designed first (see "Mount" below). Zero kit already
     includes the case (3 lids) and the CSI ribbon (15-pin camera → 22-pin
     Zero, confirmed on hand). **Standard, not NoIR** (decided 2026-06-14):
     the daily
@@ -128,14 +129,35 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
         `camera/captures/`. **Not** auto-dumped into `journal/`: a curated
         pick graduates into a journal entry via `/log` (keeps the journal
         hand-picked). Compress per the photo convention (≤1600px JPEG).
-    - **Mount: use the 3D-printed bracket, not the case's camera lid.**
-      The soldered GPIO header (factory WH — not removable) fouls that
-      lid, but the camera uses the CSI connector not GPIO, so the header
-      is irrelevant electrically. The bracket also gives the fixed framing
-      the timelapse needs. Sit it a couple cm off the glass with a shroud
-      to kill room reflections (daylight too).
+    - **Mount — IN DESIGN (direction settled 2026-11-09; Onshape → A1
+      mini, PLA).** One thin tray, Pi and camera **side by side** on the
+      same base (~15mm thick), hanging flat against the glass from a
+      **gravity hook over the rim** (hook + neck, not a spring clip), Pi
+      on top, camera at the bottom end, mounted upside down (capture with
+      `--rotation 180`). Lens looks **through the tray floor**, recessed
+      ~1mm behind the outer face with a 60° flare — **the lens must never
+      touch the glass** (it blocks the focus mechanism). Flat face on the
+      glass replaces the old shroud idea. Neck length sets the framing:
+      lens ~14-15cm below the rim ≈ mid water column (11cm is the minimum
+      the case allows) — tune by eye with `grab-frame.sh` before fixing it.
+      - Stacked case-with-camera-lid was tried and dropped: the factory
+        GPIO header (WH, not removable) fouls a camera above the Pi, and
+        it came out ~27mm thick.
+      - **Pin sizes (test plate, this printer/PLA)**: pins at the nominal
+        hole size locate without binding — camera Ø2.2 (2.25 too tight),
+        Pi Ø2.75 (2.8 doesn't fit). They locate only; **what holds the
+        boards down is still open** (lid posts or snap hooks).
+      - Reference dims (official drawings): Pi holes 58×23mm, 3.5mm from
+        edges, power USB centred 54mm from the SD end; camera holes
+        21×12.5mm, lens level with one hole pair, housing 10.8mm square,
+        lens tip 8.3mm off the board. Measure the real header height
+        before fixing tray depth.
+      - Capture notes for later: fixed mount cures the blur (hand-held
+        frames shook at the auto 1/17s shutter); cap shutter ~1/60s for
+        fish; the view runs straight through the tank to the room behind
+        — pick the pane or add a backing card.
   - **3D prints** (dry-side only — filament rule in `knowledge.md`
-    "3D prints and the tank"): camera + IR bracket with fixed framing;
-    Pi case; desk-fan mount; airline/hose clips; probe-wire rim guide.
+    "3D prints and the tank"): camera/Pi hanging tray (see "Mount"
+    above); desk-fan mount; airline/hose clips; probe-wire rim guide.
 - **Possible second tank** — the inevitable shrimp-keeper's gateway
   drug. No plans yet.
