@@ -145,8 +145,16 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
         it came out ~27mm thick.
       - **Pin sizes (test plate, this printer/PLA)**: pins at the nominal
         hole size locate without binding — camera Ø2.2 (2.25 too tight),
-        Pi Ø2.75 (2.8 doesn't fit). They locate only; **what holds the
-        boards down is still open** (lid posts or snap hooks).
+        Pi Ø2.75 (2.8 doesn't fit). They locate only; **hold-down =
+        lid posts** (decided 2026-11-09): Ø5 tubes, Ø3 bore, dropping
+        from the lid over each pin onto the board; lid located by four
+        corner L-tabs at 0.1-0.15 offset.
+      - Tray v1 (2026-11-09, `flat mount`): 130×36×15.5, 1.5 floor and
+        walls; camera posts 8mm (lens tip ~1.2mm behind the outer face),
+        11mm window with 45° chamfer outside; ribbon runs straight ~30mm
+        camera→CSI; USB slot to be widened to 14mm; hook/neck as a
+        **separate part** slotted into the top end (over-rim leg can't
+        print flat with the tray, and keeps the drop tunable).
       - Reference dims (official drawings): Pi holes 58×23mm, 3.5mm from
         edges, power USB centred 54mm from the SD end; camera holes
         21×12.5mm, lens level with one hole pair, housing 10.8mm square,
