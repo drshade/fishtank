@@ -46,8 +46,8 @@ binned. Remaining:
    during the heatwave, before the "Oase thermo holds 22-24°C for 24h"
    check could run. Confirm on the Shelly Pill log that the canister thermo
    actually holds setpoint on a cool spell; old heater is the backup if
-   not. See `tank.md` "Heater". (Matters more with a Betta coming — the
-   setpoint will move to ~24-26°C.)
+   not. See `tank.md` "Heater". (Matters more now the Betta is in — the
+   setpoint should be ~24-26°C.)
 
 ## Watching for
 

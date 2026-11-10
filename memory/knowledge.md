@@ -13,8 +13,8 @@ unknown GH were the suspects). Michelle's tank breeds prolifically with
 surviving babies, so shrimp supply is external — **top up with teenagers
 from her colony** when numbers thin. Consequences:
 
-- A **Betta is compatible with this purpose** (planned — see
-  `pending.md`). Shrimplet predation no longer matters; some attrition on
+- A **Betta is compatible with this purpose** (in since ~Sept 2026 — see
+  `livestock.md`). Shrimplet predation no longer matters; some attrition on
   small shrimp is accepted and replaceable.
 - The **shrimplet sections below are conditional history** — they
   reactivate only if a berried female ever matters again (e.g. no Betta
