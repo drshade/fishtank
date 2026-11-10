@@ -40,8 +40,11 @@ kept as spares, not binned.
 
 ## Watching for
 
-- **Betta vs shrimp** — six weeks of peace so far (2026-11-10). If he
-  starts hunting, plan B is the shrimp evacuating to Michelle's tank.
+- **Roy vs shrimp** — nearly two months of peace (2026-11-10): both
+  shrimp are full-size adults, too big to be prey, and are totally
+  relaxed around him. The risk is a **top-up of teenagers** from
+  Michelle's tank — Betta-snack size. Top up with adults, or expect
+  losses; plan B if he turns hunter is still shrimp → Michelle's.
 - **Water-change volume**: no berried female, so changes are unconstrained
   (TDS self-limits at the 274 tap floor — the ~46% change 2026-06-28 took
   429→357 with no issue). Re-tighten only if a female is berried again;

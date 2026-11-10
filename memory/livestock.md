@@ -10,8 +10,10 @@
 - Behaviour: super chilled, no aggression at all in 6 weeks. Cruises the
   whole tank, hunts through the hairgrass and plants, and spends a lot
   of time **staring at the shrimp and snails** — a stalker, not a
-  chaser. Shrimp attrition was accepted when he was greenlit (see
-  `knowledge.md` "Tank purpose"); hasn't happened.
+  chaser. Both shrimp are full-size adults — too big to be prey — and
+  are completely unbothered by him. Attrition was accepted when he was
+  greenlit (see `knowledge.md` "Tank purpose"); hasn't happened, but
+  **juvenile top-ups would be a different story** (see `pending.md`).
 - Long fins = fin-drag: keep the flow gentle, expect him to avoid the
   outflow side.
 - Care notes: keep an air gap under the lid (labyrinth breather), night
