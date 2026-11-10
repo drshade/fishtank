@@ -1,11 +1,24 @@
 # Livestock
 
+## Betta
+
+- **1 male Betta, red** — in the tank since **~end of September 2026**
+  (confirmed 2026-11-10 at "about six weeks"; exact date, name, source
+  and form not yet recorded — plakat was the plan).
+- Behaviour so far: calm, friendly, coexists with the 2 shrimp and 2
+  nerites without incident (6 weeks in). Shrimp attrition was accepted
+  as a possibility when he was greenlit (see `knowledge.md` "Tank
+  purpose"); hasn't happened.
+- Care notes from the plan: keep an air gap under the lid (labyrinth
+  breather), night airstone stays, temp target was to move to ~24-26°C
+  — **confirm the setpoint actually changed** (`parameters.md` still
+  says 22-24°C).
+
 ## Shrimp (Neocaridina)
 
-**⚠ Both adults temporarily OUT of the tank since 2026-08-02** — parked in
-Michelle's tank while this tank settles after the sword-plant removal
-(substrate disturbance). Return planned after a few days, **ammonia-gated**
-(see `pending.md`).
+**2 adults in the tank** (Mommy and Dad, back from Michelle's tank where
+they were parked from 2026-08-02 during the sword-plant removal; return
+date not recorded).
 
 Started with 2 adults:
 - **"Mommy"** (female) — completely clear / see-through. Larger of the
@@ -123,16 +136,13 @@ with good survival.
   out**: it's calcium *carbonate*, so it'd raise the already-high KH and
   barely dissolves at pH 7.5 anyway. Dosing is on hold pending the GH retest.
 
-## Bioload status (2026-08-02)
-- **Currently just the 2 nerites + microfauna** — the 2 founder adults are
-  temporarily in Michelle's tank (see top of file).
-- Wildly under-stocked → plant mass and biofilm easily handle the load.
-- The 30-40-visible-juvenile O2 threshold is nowhere near — irrelevant until
-  a brood actually survives.
+## Bioload status (2026-11-10)
+- **1 Betta + 2 adult shrimp + 2 nerites + microfauna.** The Betta is the
+  only real bioload; still light for 17L with this plant mass, but he is
+  fed daily, so overfeeding is now the main nutrient lever to watch.
+- The 30-40-visible-juvenile O2 threshold is moot — breeding is shelved.
 
 ## Future plans
-- **Betta planned** — the next addition once the shrimp are back and the
-  tank has re-settled (see `pending.md` for the checklist).
 - **Shrimp top-ups from Michelle's colony** whenever numbers thin — same
   household water/disease pool, no QT pipeline needed. The old
   genetics-refresh and Marktplaats-culling plans are dropped (they assumed

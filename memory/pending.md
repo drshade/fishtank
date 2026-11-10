@@ -5,16 +5,10 @@ the journal records the completion.
 
 ## Active now
 
-- [ ] **Betta — decided direction (2026-08-02), not yet bought.** The tank
-      is a display tank now (`knowledge.md` "Tank purpose"). Before buying:
-      shrimp back and settled first, some cover regrown where the sword was
-      (a Betta hunts better in open water), then the fish **last** into an
-      established layout. Prefer a **plakat** (short-fin) — sturdier
-      swimmer, less fin-drag in flow. On arrival: raise temp target to
-      ~24-26°C (Oase thermo; neos are fine to 26), keep an air gap under
-      the lid (labyrinth breather), night airstone stays. Accept shrimp
-      attrition; plan B if he turns out a relentless hunter: shrimp
-      evacuate to Michelle's.
+- [ ] **Betta — IN since ~end Sept 2026** (see `livestock.md`). Still to
+      record: name/form/source/arrival date, and **whether the Oase thermo
+      setpoint was raised to ~24-26°C** — if not, do it (neos are fine to
+      26) and update `parameters.md`.
 - [ ] **GH test — DEMOTED to nice-to-have (2026-08-02).** Was
       breeding-critical; breeding is shelved, so this only serves the
       nerite shell-erosion question now. If bothered: fresh test (API GH,
@@ -34,11 +28,6 @@ see "Longer-term projects".)
 
 ## Open jobs
 
-- [ ] **Return the shrimp from Michelle's tank (~2026-08-05±).** Both adults
-      parked there 2026-08-02 during the sword-plant removal. **Gate on a
-      zero-ammonia test first** — the uproot stirred mature Amazonia and a
-      transient NH3 pulse is the risk. Drip-acclimate on return (Michelle's
-      water ≠ this tank's).
 - [ ] **Brace the lily-pipe→filter hose bends.** The 12/16mm tube wants to
       fold at the sharp 90° turn behind the bookshelf. Fix the *fixed* runs
       only (they never move now the taps handle disconnects): anti-kink
@@ -62,12 +51,12 @@ binned. Remaining:
 
 ## Watching for
 
-- **Ammonia after the sword uproot (2026-08-02)** — test daily until zero
-  holds; gates the shrimp's return (see Open jobs).
-- **Water-change volume**: no shrimp and no berried female in the tank right
-  now, so changes are unconstrained (TDS self-limits at the 274 tap floor —
-  the ~46% change 2026-06-28 took 429→357 with no issue). Re-tighten only if
-  a female is berried again.
+- **Betta vs shrimp** — six weeks of peace so far (2026-11-10). If he
+  starts hunting, plan B is the shrimp evacuating to Michelle's tank.
+- **Water-change volume**: no berried female, so changes are unconstrained
+  (TDS self-limits at the 274 tap floor — the ~46% change 2026-06-28 took
+  429→357 with no issue). Re-tighten only if a female is berried again;
+  temp-match matters more now with a Betta in.
 - **Tetra AirSilent Mini noise / bubble quality** — Tom's call whether
   the throttled setup is tolerable long-term. Pump must stay on its
   towel (see `knowledge.md` "Air pump placement").
