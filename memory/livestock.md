@@ -1,12 +1,12 @@
 # Livestock
 
-## Betta
+## Betta — "Roy"
 
-- **1 male Betta** — in the tank since **~end of September 2026**
+- **Roy** (from *rooi* — red), **1 male Betta** — in the tank since **~end of September 2026**
   (confirmed 2026-11-10 at "about six weeks"; exact date not recorded).
   Bought at **Dierenhandel Exotica**, sold simply as "Betta". **Red with
   purple patches, large fins, small body** — a long-fin type (veiltail /
-  halfmoon-ish), not the plakat originally planned. **Name: TBD.**
+  halfmoon-ish), not the plakat originally planned.
 - Behaviour: super chilled, no aggression at all in 6 weeks. Cruises the
   whole tank, hunts through the hairgrass and plants, and spends a lot
   of time **staring at the shrimp and snails** — a stalker, not a
