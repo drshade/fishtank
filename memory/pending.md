@@ -24,6 +24,13 @@ see "Longer-term projects".)
 
 ## Open jobs
 
+- [ ] **Water tests — baseline due Thu 2026-11-13**, then a second set
+      right before the next water change. Nothing has been tested since
+      2026-06-28 and Roy (fed daily) arrived in between. Full set both
+      times: TDS tank + tap, pH, KH, NH3, NO2, **NO3** (the one that now
+      matters — between-change nitrate drift tells you if the change
+      cadence keeps up with a fed fish). Log rows to `measurements.csv`.
+      GH still untestable (dead reagent). Last change: 2026-11-09.
 - [ ] **Brace the lily-pipe→filter hose bends.** The 12/16mm tube wants to
       fold at the sharp 90° turn behind the bookshelf. Fix the *fixed* runs
       only (they never move now the taps handle disconnects): anti-kink
