@@ -156,11 +156,15 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
         the outer face), 11mm window with 45° chamfer outside — verified
         no vignetting at 102°; ribbon straight ~30mm camera→CSI; USB
         slot 12.5mm (Tom's call, works).
-      - **Hook (next)**: separate part. Notch in the top end wall, foot
-        on the floor over two Ø2.75 pins under the Pi (Pi + lid tubes trap
-        it), neck steps up 1.5mm outside the wall to lie in the glass
-        plane, crown + 10mm return over the rim. Print on its side, no
-        ribs. Neck length sets the lens depth — tune with `grab-frame.sh`.
+      - **Hook**: separate part, test version printed and hanging
+        2026-11-10. Foot 7×31×2 with Ø4.9 holes over the Ø4.5 Pi bosses
+        (Pi + lid tubes clamp it); 8mm neck through an 8.5mm end-wall
+        notch, 3mm thick outside, underside flush with the glass face;
+        rim slot 5.2 (glass 5), return 5→10mm on the final. Print flat,
+        top face down, supports under the return only. **Final hook =
+        test hook + 20mm neck** (lens was clipping the water line).
+        Position: **side pane, toward the planted end**; a backing card
+        on the far pane would hide the room.
       - Reference dims (official drawings): Pi holes 58×23mm, 3.5mm from
         edges, power USB centred 54mm from the SD end; camera holes
         21×12.5mm, lens level with one hole pair, housing 10.8mm square,
