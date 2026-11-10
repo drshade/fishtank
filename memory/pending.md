@@ -6,7 +6,7 @@ the journal records the completion.
 ## Active now
 
 - [ ] **Betta — IN since ~end Sept 2026** (see `livestock.md`), tank at
-      25°C. Still to record: name/form/source/arrival date.
+      25°C. **Needs a name.**
 - [ ] **GH test — DEMOTED to nice-to-have (2026-08-02).** Was
       breeding-critical; breeding is shelved, so this only serves the
       nerite shell-erosion question now. If bothered: fresh test (API GH,

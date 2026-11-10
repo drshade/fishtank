@@ -2,13 +2,18 @@
 
 ## Betta
 
-- **1 male Betta, red** — in the tank since **~end of September 2026**
-  (confirmed 2026-11-10 at "about six weeks"; exact date, name, source
-  and form not yet recorded — plakat was the plan).
-- Behaviour so far: calm, friendly, coexists with the 2 shrimp and 2
-  nerites without incident (6 weeks in). Shrimp attrition was accepted
-  as a possibility when he was greenlit (see `knowledge.md` "Tank
-  purpose"); hasn't happened.
+- **1 male Betta** — in the tank since **~end of September 2026**
+  (confirmed 2026-11-10 at "about six weeks"; exact date not recorded).
+  Bought at **Dierenhandel Exotica**, sold simply as "Betta". **Red with
+  purple patches, large fins, small body** — a long-fin type (veiltail /
+  halfmoon-ish), not the plakat originally planned. **Name: TBD.**
+- Behaviour: super chilled, no aggression at all in 6 weeks. Cruises the
+  whole tank, hunts through the hairgrass and plants, and spends a lot
+  of time **staring at the shrimp and snails** — a stalker, not a
+  chaser. Shrimp attrition was accepted when he was greenlit (see
+  `knowledge.md` "Tank purpose"); hasn't happened.
+- Long fins = fin-drag: keep the flow gentle, expect him to avoid the
+  outflow side.
 - Care notes: keep an air gap under the lid (labyrinth breather), night
   airstone stays, tank held at 25°C (see `parameters.md`).
 
