@@ -129,8 +129,8 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
         `camera/captures/`. **Not** auto-dumped into `journal/`: a curated
         pick graduates into a journal entry via `/log` (keeps the journal
         hand-picked). Compress per the photo convention (≤1600px JPEG).
-    - **Mount — IN DESIGN (direction settled 2026-11-09; Onshape → A1
-      mini, PLA).** One thin tray, Pi and camera **side by side** on the
+    - **Mount — TRAY PRINTED AND FITTING (2026-11-10), hook still to
+      model/print (Onshape → A1 mini, PLA).** One thin tray, Pi and camera **side by side** on the
       same base (~15mm thick), hanging flat against the glass from a
       **gravity hook over the rim** (hook + neck, not a spring clip), Pi
       on top, camera at the bottom end, mounted upside down (capture with
@@ -143,18 +143,24 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
       - Stacked case-with-camera-lid was tried and dropped: the factory
         GPIO header (WH, not removable) fouls a camera above the Pi, and
         it came out ~27mm thick.
-      - **Pin sizes (test plate, this printer/PLA)**: pins at the nominal
-        hole size locate without binding — camera Ø2.2 (2.25 too tight),
-        Pi Ø2.75 (2.8 doesn't fit). They locate only; **hold-down =
-        lid posts** (decided 2026-11-09): Ø5 tubes, Ø3 bore, dropping
-        from the lid over each pin onto the board; lid located by four
-        corner L-tabs at 0.1-0.15 offset.
-      - Tray v1 (2026-11-09, `flat mount`): 130×36×15.5, 1.5 floor and
-        walls; camera posts 8mm (lens tip ~1.2mm behind the outer face),
-        11mm window with 45° chamfer outside; ribbon runs straight ~30mm
-        camera→CSI; USB slot to be widened to 14mm; hook/neck as a
-        **separate part** slotted into the top end (over-rim leg can't
-        print flat with the tray, and keeps the drop tunable).
+      - **Fit sizes that work (print two, this printer/PLA)**: pins
+        Ø2.55 (Pi) / Ø2.0 (camera) — ~0.2 under the hole; single-pin
+        coupons at nominal passed but four pins at once bound. Pins
+        locate only; **hold-down = lid tubes** over each pin onto the
+        board, bores 0.25 radial over the pin (Ø3.05 / Ø2.5). Lid: full
+        lip at 0.1 offset + two 0.3mm friction bumps (0.2 was loose).
+        PCBs measured: camera ~0.8mm, Pi 1.0mm. Slice with small-feature
+        slowdown (min layer time ~8-10s) or pin tops print fat.
+      - Tray (`flat mount`, `case(5)`/`lid(6)` exports): 130×36×15.5,
+        1.5 floor and walls; camera posts 8mm (lens tip ~1.2mm behind
+        the outer face), 11mm window with 45° chamfer outside — verified
+        no vignetting at 102°; ribbon straight ~30mm camera→CSI; USB
+        slot 12.5mm (Tom's call, works).
+      - **Hook (next)**: separate part. Notch in the top end wall, foot
+        on the floor over two Ø2.75 pins under the Pi (Pi + lid tubes trap
+        it), neck steps up 1.5mm outside the wall to lie in the glass
+        plane, crown + 10mm return over the rim. Print on its side, no
+        ribs. Neck length sets the lens depth — tune with `grab-frame.sh`.
       - Reference dims (official drawings): Pi holes 58×23mm, 3.5mm from
         edges, power USB centred 54mm from the SD end; camera holes
         21×12.5mm, lens level with one hole pair, housing 10.8mm square,
