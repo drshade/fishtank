@@ -9,10 +9,8 @@
   nerites without incident (6 weeks in). Shrimp attrition was accepted
   as a possibility when he was greenlit (see `knowledge.md` "Tank
   purpose"); hasn't happened.
-- Care notes from the plan: keep an air gap under the lid (labyrinth
-  breather), night airstone stays, temp target was to move to ~24-26°C
-  — **confirm the setpoint actually changed** (`parameters.md` still
-  says 22-24°C).
+- Care notes: keep an air gap under the lid (labyrinth breather), night
+  airstone stays, tank held at 25°C (see `parameters.md`).
 
 ## Shrimp (Neocaridina)
 

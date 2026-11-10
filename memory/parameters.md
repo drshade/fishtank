@@ -8,7 +8,7 @@
 | KH | ~7-11 (don't chase) | Tank measured **11** (2026-06-13); **tap KH 7** (2026-06-15). Tank's 11 is tap's 7 concentrated by evaporation. Regular tap changes drift it toward 7 (closer to textbook) on their own — bonus, not a goal. |
 | TDS | tank ~290-330 on tap (150-250 is RO-only) | **Tank 429 (2026-06-28, +35 in 3 days, heatwave evaporation; water change due); tap 274 (2026-06-15).** Trajectory 494→400→462(+GH dose)→360→394→**429**. 150-250 is unreachable on tap (274 floor) — that figure assumes RO. On tap the realistic home is ~290-330; drifts up from top-offs between changes. Largely carbonate (KH 11 ≈ 195 ppm) + Na/other ions. **Don't crash it with big changes** while a berried female is carrying. Decision tap-vs-RO pending — see `knowledge.md`. |
 | pH | Stable > exact | **Measured 7.5 (2026-06-13) — alkaline; the soil's acid buffering is spent.** Consistency matters more than the number. |
-| Temperature | 22-24°C | Neos tolerate 18-25°C; aim mid-range. **Actively monitored** since 2026-06-25 (Shelly Pill probe, water + room — see `tank.md`). **Tank 27.7°C (2026-06-28, room 28.1°C/53% RH, fan on, heater idle)** — above range but expected; heatwave broke 2026-06-27, cooling hoped from 2026-06-28. Fan is the lever. Warm water = less O2, so night airstone is load-bearing. |
+| Temperature | **25°C** (Betta; neos fine to 26) | **Holding a static 25°C for months (confirmed 2026-11-10)** on the Oase thermo alone — Shelly Pill probe, water + room, see `tank.md`. Only excursions: August 2026 heatwaves, peaked ~27°C (2026-06-28 heatwave hit 27.7°C). Fan is the lever in heat. Warm water = less O2, so night airstone is load-bearing. |
 
 ## Measurements
 

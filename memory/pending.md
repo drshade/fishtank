@@ -5,10 +5,8 @@ the journal records the completion.
 
 ## Active now
 
-- [ ] **Betta — IN since ~end Sept 2026** (see `livestock.md`). Still to
-      record: name/form/source/arrival date, and **whether the Oase thermo
-      setpoint was raised to ~24-26°C** — if not, do it (neos are fine to
-      26) and update `parameters.md`.
+- [ ] **Betta — IN since ~end Sept 2026** (see `livestock.md`), tank at
+      25°C. Still to record: name/form/source/arrival date.
 - [ ] **GH test — DEMOTED to nice-to-have (2026-08-02).** Was
       breeding-critical; breeding is shelved, so this only serves the
       nerite shell-erosion question now. If bothered: fresh test (API GH,
@@ -35,19 +33,12 @@ see "Longer-term projects".)
       up the shelf hole for a wider radius. Support both legs, never clamp
       the apex. Re-check ripple after — freeing a kink can change flow.
 
-## Canister transition — remaining steps
+## Canister transition — DONE
 
-Dennerle removed **2026-06-14**; canister-solo since, no ammonia issues
-(post-removal daily-test window and the ~1-month no-deep-clean window are
-both long past — done). Old Dennerle sponge/filter kept as a spare, not
-binned. Remaining:
-
-1. **Heater verification still open**: in-tank heater removed 2026-06-25
-   during the heatwave, before the "Oase thermo holds 22-24°C for 24h"
-   check could run. Confirm on the Shelly Pill log that the canister thermo
-   actually holds setpoint on a cool spell; old heater is the backup if
-   not. See `tank.md` "Heater". (Matters more now the Betta is in — the
-   setpoint should be ~24-26°C.)
+Dennerle removed **2026-06-14**; canister-solo since, no ammonia issues.
+Heater verification closed 2026-11-10: the Oase thermo holds 25°C on its
+own (see `tank.md` "Heater"). Old Dennerle sponge and old in-tank heater
+kept as spares, not binned.
 
 ## Watching for
 
