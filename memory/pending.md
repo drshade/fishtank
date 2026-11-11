@@ -153,7 +153,11 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
         **Final hook (+20mm neck) installed 2026-11-11** — framing done:
         side pane toward the planted end, lens at carpet/rock level, no
         water line. Far pane looks at the bookshelf side (grey backdrop,
-        nothing to fix). Next: lid(10), then lock focus/shutter and cron.
+        nothing to fix). **Capture settings (fixed, 2026-11-11)**:
+        `--rotation 180 --autofocus-mode manual --lens-position 10
+        --shutter 6000` (focus sweep: 10 dioptres puts the rocks
+        mid-frame sharpest; `grab-frame.sh -L 10 -- --shutter 6000`).
+        Next: lid(10) print, then the daily cron using these.
       - Reference dims (official drawings): Pi holes 58×23mm, 3.5mm from
         edges, power USB centred 54mm from the SD end; camera holes
         21×12.5mm, lens level with one hole pair, housing 10.8mm square,
