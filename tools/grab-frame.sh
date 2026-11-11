@@ -14,7 +14,9 @@
 #   tools/grab-frame.sh --sweep "0 4 6 8"   # custom sweep values (dioptres)
 #   tools/grab-frame.sh -o shot.jpg     # write to a specific path
 #   tools/grab-frame.sh -n              # don't print the image inline
-#   tools/grab-frame.sh -- --hflip --vflip   # pass extra args straight to rpicam-still
+#   tools/grab-frame.sh -- --shutter 6000    # pass extra args straight to rpicam-still
+#   tools/grab-frame.sh --no-rotate     # camera is mounted upside down, so --rotation 180 is
+#                                       # applied by default; this turns it off
 #
 # Focus notes (Camera Module 3): --lens-position is in dioptres = 1/metres.
 #   0 = infinity, ~6 ≈ 16cm, ~20 = its 5cm minimum. For a fixed daily photo
@@ -29,6 +31,7 @@ HOST="${TANKSPY_HOST:-tankspy}"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 FRAMES_DIR="$SCRIPT_DIR/frames"
 SWEEP_DEFAULT="0 3 5 7 9 11 14"
+ROTATE="--rotation 180"   # hanging tray mounts the camera upside down (2026-11-10)
 
 QUICK=0
 OPEN=1
@@ -42,6 +45,7 @@ while [[ $# -gt 0 ]]; do
   case "$1" in
     -q|--quick) QUICK=1; shift ;;
     -n|--no-open) OPEN=0; shift ;;
+    --no-rotate) ROTATE=""; shift ;;
     -o|--out) OUT="$2"; shift 2 ;;
     -L|--lens) LENS="$2"; shift 2 ;;
     --sweep) SWEEP=1; shift
@@ -82,7 +86,7 @@ if [[ "$SWEEP" == 1 ]]; then
   # Capture every value on the Pi in one ssh round-trip.
   REMOTE_CMD=""
   for lp in $SWEEP_VALS; do
-    REMOTE_CMD+="rpicam-still -n --immediate $RES_OPTS $(focus_opts "$lp") -o /tmp/sweep_$lp.jpg >/dev/null 2>&1; "
+    REMOTE_CMD+="rpicam-still -n --immediate $ROTATE $RES_OPTS $(focus_opts "$lp") ${EXTRA[*]} -o /tmp/sweep_$lp.jpg >/dev/null 2>&1; "
   done
   ssh "$HOST" "$REMOTE_CMD echo done" >/dev/null 2>&1
 
@@ -106,7 +110,7 @@ fi
 
 # ---- Single frame -----------------------------------------------------------
 # shellcheck disable=SC2206  # word-splitting focus_opts/RES_OPTS is intended
-REMOTE_OPTS=(-n --immediate $(focus_opts "$LENS") $RES_OPTS "${EXTRA[@]}")
+REMOTE_OPTS=(-n --immediate $ROTATE $(focus_opts "$LENS") $RES_OPTS "${EXTRA[@]}")
 
 if [[ -z "$OUT" ]]; then
   mkdir -p "$FRAMES_DIR"
