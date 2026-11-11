@@ -148,11 +148,12 @@ colony; shrimp top-ups now come from Michelle's tank. See `knowledge.md`
         2026-11-10. Foot 7×31×2 with Ø4.9 holes over the Ø4.5 Pi bosses
         (Pi + lid tubes clamp it); 8mm neck through an 8.5mm end-wall
         notch, 3mm thick outside, underside flush with the glass face;
-        rim slot 5.2 (glass 5), return 5→10mm on the final. Print flat,
-        top face down, supports under the return only. **Final hook =
-        test hook + 20mm neck** (lens was clipping the water line).
-        Position: **side pane, toward the planted end**; a backing card
-        on the far pane would hide the room.
+        rim slot 5.2 (glass 5). Print flat, top face down, supports
+        under the return only.
+        **Final hook (+20mm neck) installed 2026-11-11** — framing done:
+        side pane toward the planted end, lens at carpet/rock level, no
+        water line. Far pane looks at the bookshelf side (grey backdrop,
+        nothing to fix). Next: lid(10), then lock focus/shutter and cron.
       - Reference dims (official drawings): Pi holes 58×23mm, 3.5mm from
         edges, power USB centred 54mm from the SD end; camera holes
         21×12.5mm, lens level with one hole pair, housing 10.8mm square,
